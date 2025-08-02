@@ -1,0 +1,875 @@
+2025-07-08 14:26:43,224 - Server_DefaultID - INFO - Starting FedUG V2 Training Process
+2025-07-08 14:26:43,224 - Server_DefaultID - INFO - --- Global Round 1/200 ---
+2025-07-08 14:28:18,178 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2723 ms
+2025-07-08 14:28:18,178 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:28:18,198 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.22, Max=1.34, Mean=1.28
+2025-07-08 14:28:18,200 - Server_DefaultID - INFO - --- Global Round 2/200 ---
+2025-07-08 14:30:08,323 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2714 ms
+2025-07-08 14:30:08,323 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:30:08,353 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.28
+2025-07-08 14:30:08,357 - Server_DefaultID - INFO - --- Global Round 3/200 ---
+2025-07-08 14:31:49,217 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2642 ms
+2025-07-08 14:31:49,217 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:31:49,239 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.22, Max=1.38, Mean=1.29
+2025-07-08 14:31:49,243 - Server_DefaultID - INFO - --- Global Round 4/200 ---
+2025-07-08 14:33:47,135 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2686 ms
+2025-07-08 14:33:47,135 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:33:47,161 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.33, Mean=1.29
+2025-07-08 14:33:47,165 - Server_DefaultID - INFO - --- Global Round 5/200 ---
+2025-07-08 14:36:03,665 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2709 ms
+2025-07-08 14:36:03,665 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:36:03,691 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.29
+2025-07-08 14:36:03,695 - Server_DefaultID - INFO - --- Global Round 6/200 ---
+2025-07-08 14:37:32,114 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2686 ms
+2025-07-08 14:37:32,114 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:37:32,138 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.32, Mean=1.29
+2025-07-08 14:37:32,141 - Server_DefaultID - INFO - --- Global Round 7/200 ---
+2025-07-08 14:39:40,346 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2731 ms
+2025-07-08 14:39:40,346 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:39:40,373 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.32, Mean=1.29
+2025-07-08 14:39:40,377 - Server_DefaultID - INFO - --- Global Round 8/200 ---
+2025-07-08 14:42:10,184 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2690 ms
+2025-07-08 14:42:10,184 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:42:10,213 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.35, Mean=1.29
+2025-07-08 14:42:10,217 - Server_DefaultID - INFO - --- Global Round 9/200 ---
+2025-07-08 14:44:35,824 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2679 ms
+2025-07-08 14:44:35,824 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:44:35,855 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.37, Mean=1.29
+2025-07-08 14:44:35,858 - Server_DefaultID - INFO - --- Global Round 10/200 ---
+2025-07-08 14:46:43,747 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2729 ms
+2025-07-08 14:46:43,747 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:46:43,771 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.34, Mean=1.29
+2025-07-08 14:46:43,774 - Server_DefaultID - INFO - --- Global Round 11/200 ---
+2025-07-08 14:48:46,121 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2723 ms
+2025-07-08 14:48:46,121 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:48:46,144 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.34, Mean=1.29
+2025-07-08 14:48:46,147 - Server_DefaultID - INFO - --- Global Round 12/200 ---
+2025-07-08 14:51:29,429 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2661 ms
+2025-07-08 14:51:29,429 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:51:29,461 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.29
+2025-07-08 14:51:29,466 - Server_DefaultID - INFO - --- Global Round 13/200 ---
+2025-07-08 14:53:23,561 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2705 ms
+2025-07-08 14:53:23,561 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:53:23,583 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.36, Mean=1.29
+2025-07-08 14:53:23,586 - Server_DefaultID - INFO - --- Global Round 14/200 ---
+2025-07-08 14:55:46,137 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2715 ms
+2025-07-08 14:55:46,138 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:55:46,165 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.37, Mean=1.29
+2025-07-08 14:55:46,169 - Server_DefaultID - INFO - --- Global Round 15/200 ---
+2025-07-08 14:58:01,346 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2678 ms
+2025-07-08 14:58:01,346 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:58:01,374 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.36, Mean=1.30
+2025-07-08 14:58:01,378 - Server_DefaultID - INFO - --- Global Round 16/200 ---
+2025-07-08 14:59:38,015 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2706 ms
+2025-07-08 14:59:38,016 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 14:59:38,037 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.44, Mean=1.29
+2025-07-08 14:59:38,041 - Server_DefaultID - INFO - --- Global Round 17/200 ---
+2025-07-08 15:01:20,673 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2713 ms
+2025-07-08 15:01:20,674 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:01:20,695 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.36, Mean=1.29
+2025-07-08 15:01:20,698 - Server_DefaultID - INFO - --- Global Round 18/200 ---
+2025-07-08 15:03:22,972 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2677 ms
+2025-07-08 15:03:22,972 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:03:22,998 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.33, Mean=1.30
+2025-07-08 15:03:23,002 - Server_DefaultID - INFO - --- Global Round 19/200 ---
+2025-07-08 15:05:11,386 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2723 ms
+2025-07-08 15:05:11,386 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:05:11,408 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.34, Mean=1.30
+2025-07-08 15:05:11,411 - Server_DefaultID - INFO - --- Global Round 20/200 ---
+2025-07-08 15:07:13,608 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2729 ms
+2025-07-08 15:07:13,608 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:07:13,632 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.33, Mean=1.30
+2025-07-08 15:07:13,635 - Server_DefaultID - INFO - --- Evaluating models at round 20 with Advanced Uncertainty Metrics ---
+2025-07-08 15:08:35,514 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 67.50%, Std: 12.98, Min: 29.03, Max: 96.97
+2025-07-08 15:08:35,514 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0456, Std: 0.0134
+2025-07-08 15:08:35,515 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.1945, Std: 0.0762
+2025-07-08 15:08:35,515 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: 0.0279, Std: 0.2423
+2025-07-08 15:08:35,515 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: nan, Std: nan
+2025-07-08 15:08:35,515 - Server_DefaultID - INFO - New best personalized accuracy: 67.50%
+2025-07-08 15:08:35,515 - Server_DefaultID - INFO - --- Global Round 21/200 ---
+2025-07-08 15:10:24,535 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2702 ms
+2025-07-08 15:10:24,535 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:10:24,560 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.36, Mean=1.30
+2025-07-08 15:10:24,563 - Server_DefaultID - INFO - --- Global Round 22/200 ---
+2025-07-08 15:12:29,994 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2733 ms
+2025-07-08 15:12:29,994 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:12:30,017 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.37, Mean=1.30
+2025-07-08 15:12:30,021 - Server_DefaultID - INFO - --- Global Round 23/200 ---
+2025-07-08 15:14:14,433 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2732 ms
+2025-07-08 15:14:14,433 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:14:14,454 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.36, Mean=1.29
+2025-07-08 15:14:14,457 - Server_DefaultID - INFO - --- Global Round 24/200 ---
+2025-07-08 15:16:16,565 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2743 ms
+2025-07-08 15:16:16,566 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:16:16,589 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.36, Mean=1.30
+2025-07-08 15:16:16,593 - Server_DefaultID - INFO - --- Global Round 25/200 ---
+2025-07-08 15:18:14,265 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2714 ms
+2025-07-08 15:18:14,265 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:18:14,324 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 15:18:14,327 - Server_DefaultID - INFO - --- Global Round 26/200 ---
+2025-07-08 15:21:09,333 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2747 ms
+2025-07-08 15:21:09,333 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:21:09,384 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.39, Mean=1.30
+2025-07-08 15:21:09,388 - Server_DefaultID - INFO - --- Global Round 27/200 ---
+2025-07-08 15:23:27,877 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2676 ms
+2025-07-08 15:23:27,877 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:23:27,906 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.38, Mean=1.30
+2025-07-08 15:23:27,910 - Server_DefaultID - INFO - --- Global Round 28/200 ---
+2025-07-08 15:25:16,830 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2764 ms
+2025-07-08 15:25:16,831 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:25:16,855 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.21, Max=1.34, Mean=1.30
+2025-07-08 15:25:16,859 - Server_DefaultID - INFO - --- Global Round 29/200 ---
+2025-07-08 15:27:06,651 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2707 ms
+2025-07-08 15:27:06,651 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:27:06,673 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.30
+2025-07-08 15:27:06,676 - Server_DefaultID - INFO - --- Global Round 30/200 ---
+2025-07-08 15:28:16,114 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2731 ms
+2025-07-08 15:28:16,114 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:28:16,133 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.30
+2025-07-08 15:28:16,135 - Server_DefaultID - INFO - --- Global Round 31/200 ---
+2025-07-08 15:30:26,191 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2743 ms
+2025-07-08 15:30:26,191 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:30:26,215 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.33, Mean=1.30
+2025-07-08 15:30:26,218 - Server_DefaultID - INFO - --- Global Round 32/200 ---
+2025-07-08 15:32:25,412 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2691 ms
+2025-07-08 15:32:25,412 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:32:25,440 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.30
+2025-07-08 15:32:25,444 - Server_DefaultID - INFO - --- Global Round 33/200 ---
+2025-07-08 15:34:09,950 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2712 ms
+2025-07-08 15:34:09,950 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:34:09,969 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.35, Mean=1.30
+2025-07-08 15:34:09,972 - Server_DefaultID - INFO - --- Global Round 34/200 ---
+2025-07-08 15:36:32,081 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2709 ms
+2025-07-08 15:36:32,081 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:36:32,111 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 15:36:32,115 - Server_DefaultID - INFO - --- Global Round 35/200 ---
+2025-07-08 15:38:24,644 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2746 ms
+2025-07-08 15:38:24,644 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:38:24,668 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.41, Mean=1.30
+2025-07-08 15:38:24,671 - Server_DefaultID - INFO - --- Global Round 36/200 ---
+2025-07-08 15:40:27,519 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2648 ms
+2025-07-08 15:40:27,520 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:40:27,549 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.37, Mean=1.30
+2025-07-08 15:40:27,552 - Server_DefaultID - INFO - --- Global Round 37/200 ---
+2025-07-08 15:42:07,118 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2697 ms
+2025-07-08 15:42:07,119 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:42:07,137 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.35, Mean=1.30
+2025-07-08 15:42:07,140 - Server_DefaultID - INFO - --- Global Round 38/200 ---
+2025-07-08 15:43:34,680 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2733 ms
+2025-07-08 15:43:34,680 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:43:34,698 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 15:43:34,701 - Server_DefaultID - INFO - --- Global Round 39/200 ---
+2025-07-08 15:45:39,505 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2756 ms
+2025-07-08 15:45:39,505 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:45:39,530 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.37, Mean=1.30
+2025-07-08 15:45:39,534 - Server_DefaultID - INFO - --- Global Round 40/200 ---
+2025-07-08 15:47:05,736 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2721 ms
+2025-07-08 15:47:05,736 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:47:05,754 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.22, Max=1.41, Mean=1.30
+2025-07-08 15:47:05,757 - Server_DefaultID - INFO - --- Evaluating models at round 40 with Advanced Uncertainty Metrics ---
+2025-07-08 15:48:27,896 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 72.75%, Std: 11.08, Min: 46.15, Max: 96.97
+2025-07-08 15:48:27,896 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0392, Std: 0.0127
+2025-07-08 15:48:27,897 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.1799, Std: 0.0693
+2025-07-08 15:48:27,897 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: 0.0763, Std: 0.2331
+2025-07-08 15:48:27,897 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: nan, Std: nan
+2025-07-08 15:48:27,897 - Server_DefaultID - INFO - New best personalized accuracy: 72.75%
+2025-07-08 15:48:27,897 - Server_DefaultID - INFO - --- Global Round 41/200 ---
+2025-07-08 15:50:29,361 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2756 ms
+2025-07-08 15:50:29,362 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:50:29,388 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.34, Mean=1.30
+2025-07-08 15:50:29,391 - Server_DefaultID - INFO - --- Global Round 42/200 ---
+2025-07-08 15:52:26,306 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2724 ms
+2025-07-08 15:52:26,306 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:52:26,330 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.37, Mean=1.30
+2025-07-08 15:52:26,333 - Server_DefaultID - INFO - --- Global Round 43/200 ---
+2025-07-08 15:54:54,564 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2728 ms
+2025-07-08 15:54:54,564 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:54:54,595 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.30
+2025-07-08 15:54:54,600 - Server_DefaultID - INFO - --- Global Round 44/200 ---
+2025-07-08 15:56:44,495 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2698 ms
+2025-07-08 15:56:44,496 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:56:44,521 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 15:56:44,525 - Server_DefaultID - INFO - --- Global Round 45/200 ---
+2025-07-08 15:58:51,822 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2747 ms
+2025-07-08 15:58:51,822 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 15:58:51,849 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.33, Mean=1.30
+2025-07-08 15:58:51,852 - Server_DefaultID - INFO - --- Global Round 46/200 ---
+2025-07-08 16:01:10,474 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2670 ms
+2025-07-08 16:01:10,475 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:01:10,501 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.38, Mean=1.30
+2025-07-08 16:01:10,504 - Server_DefaultID - INFO - --- Global Round 47/200 ---
+2025-07-08 16:03:23,048 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2752 ms
+2025-07-08 16:03:23,048 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:03:23,075 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.36, Mean=1.30
+2025-07-08 16:03:23,078 - Server_DefaultID - INFO - --- Global Round 48/200 ---
+2025-07-08 16:05:36,652 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2758 ms
+2025-07-08 16:05:36,652 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:05:36,679 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.30
+2025-07-08 16:05:36,683 - Server_DefaultID - INFO - --- Global Round 49/200 ---
+2025-07-08 16:07:40,361 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2696 ms
+2025-07-08 16:07:40,361 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:07:40,389 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.37, Mean=1.30
+2025-07-08 16:07:40,394 - Server_DefaultID - INFO - --- Global Round 50/200 ---
+2025-07-08 16:09:23,782 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2754 ms
+2025-07-08 16:09:23,783 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:09:23,803 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.36, Mean=1.30
+2025-07-08 16:09:23,806 - Server_DefaultID - INFO - --- Global Round 51/200 ---
+2025-07-08 16:10:36,758 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2682 ms
+2025-07-08 16:10:36,758 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:10:36,775 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.37, Mean=1.30
+2025-07-08 16:10:36,778 - Server_DefaultID - INFO - --- Global Round 52/200 ---
+2025-07-08 16:12:37,278 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2752 ms
+2025-07-08 16:12:37,278 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:12:37,347 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.36, Mean=1.30
+2025-07-08 16:12:37,351 - Server_DefaultID - INFO - --- Global Round 53/200 ---
+2025-07-08 16:14:49,296 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2732 ms
+2025-07-08 16:14:49,296 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:14:49,321 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.35, Mean=1.30
+2025-07-08 16:14:49,325 - Server_DefaultID - INFO - --- Global Round 54/200 ---
+2025-07-08 16:17:05,330 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2664 ms
+2025-07-08 16:17:05,331 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:17:05,357 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.34, Mean=1.30
+2025-07-08 16:17:05,360 - Server_DefaultID - INFO - --- Global Round 55/200 ---
+2025-07-08 16:18:52,148 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2732 ms
+2025-07-08 16:18:52,148 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:18:52,171 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.33, Mean=1.30
+2025-07-08 16:18:52,175 - Server_DefaultID - INFO - --- Global Round 56/200 ---
+2025-07-08 16:20:50,329 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2675 ms
+2025-07-08 16:20:50,329 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:20:50,350 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.38, Mean=1.30
+2025-07-08 16:20:50,354 - Server_DefaultID - INFO - --- Global Round 57/200 ---
+2025-07-08 16:22:16,744 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2711 ms
+2025-07-08 16:22:16,744 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:22:16,769 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.37, Mean=1.30
+2025-07-08 16:22:16,772 - Server_DefaultID - INFO - --- Global Round 58/200 ---
+2025-07-08 16:24:15,926 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2764 ms
+2025-07-08 16:24:15,926 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:24:15,950 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.30
+2025-07-08 16:24:15,953 - Server_DefaultID - INFO - --- Global Round 59/200 ---
+2025-07-08 16:26:28,425 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2743 ms
+2025-07-08 16:26:28,426 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:26:28,456 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.30
+2025-07-08 16:26:28,461 - Server_DefaultID - INFO - --- Global Round 60/200 ---
+2025-07-08 16:28:55,598 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2786 ms
+2025-07-08 16:28:55,598 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:28:55,625 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.36, Mean=1.30
+2025-07-08 16:28:55,629 - Server_DefaultID - INFO - --- Evaluating models at round 60 with Advanced Uncertainty Metrics ---
+2025-07-08 16:30:18,221 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 75.44%, Std: 11.24, Min: 47.62, Max: 100.00
+2025-07-08 16:30:18,221 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0356, Std: 0.0120
+2025-07-08 16:30:18,221 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.1717, Std: 0.0552
+2025-07-08 16:30:18,221 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: 0.1252, Std: 0.2200
+2025-07-08 16:30:18,222 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: nan, Std: nan
+2025-07-08 16:30:18,222 - Server_DefaultID - INFO - New best personalized accuracy: 75.44%
+2025-07-08 16:30:18,222 - Server_DefaultID - INFO - --- Global Round 61/200 ---
+2025-07-08 16:31:58,288 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2762 ms
+2025-07-08 16:31:58,289 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:31:58,310 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.37, Mean=1.30
+2025-07-08 16:31:58,312 - Server_DefaultID - INFO - --- Global Round 62/200 ---
+2025-07-08 16:34:16,980 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2703 ms
+2025-07-08 16:34:16,980 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:34:17,005 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.34, Mean=1.30
+2025-07-08 16:34:17,008 - Server_DefaultID - INFO - --- Global Round 63/200 ---
+2025-07-08 16:36:17,709 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2706 ms
+2025-07-08 16:36:17,709 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:36:17,734 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 16:36:17,737 - Server_DefaultID - INFO - --- Global Round 64/200 ---
+2025-07-08 16:38:27,725 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2708 ms
+2025-07-08 16:38:27,726 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:38:27,755 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.35, Mean=1.30
+2025-07-08 16:38:27,759 - Server_DefaultID - INFO - --- Global Round 65/200 ---
+2025-07-08 16:40:23,542 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2689 ms
+2025-07-08 16:40:23,542 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:40:23,570 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.43, Mean=1.30
+2025-07-08 16:40:23,573 - Server_DefaultID - INFO - --- Global Round 66/200 ---
+2025-07-08 16:42:51,492 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2776 ms
+2025-07-08 16:42:51,493 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:42:51,527 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.34, Mean=1.30
+2025-07-08 16:42:51,533 - Server_DefaultID - INFO - --- Global Round 67/200 ---
+2025-07-08 16:44:33,078 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2725 ms
+2025-07-08 16:44:33,079 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:44:33,103 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.39, Mean=1.30
+2025-07-08 16:44:33,107 - Server_DefaultID - INFO - --- Global Round 68/200 ---
+2025-07-08 16:46:55,012 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2725 ms
+2025-07-08 16:46:55,012 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:46:55,051 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.38, Mean=1.30
+2025-07-08 16:46:55,055 - Server_DefaultID - INFO - --- Global Round 69/200 ---
+2025-07-08 16:48:46,795 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2757 ms
+2025-07-08 16:48:46,795 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:48:46,821 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.36, Mean=1.30
+2025-07-08 16:48:46,825 - Server_DefaultID - INFO - --- Global Round 70/200 ---
+2025-07-08 16:50:57,333 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2701 ms
+2025-07-08 16:50:57,333 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:50:57,361 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.37, Mean=1.30
+2025-07-08 16:50:57,365 - Server_DefaultID - INFO - --- Global Round 71/200 ---
+2025-07-08 16:52:50,599 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2729 ms
+2025-07-08 16:52:50,599 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:52:50,623 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 16:52:50,627 - Server_DefaultID - INFO - --- Global Round 72/200 ---
+2025-07-08 16:54:48,094 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2687 ms
+2025-07-08 16:54:48,094 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:54:48,119 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.37, Mean=1.30
+2025-07-08 16:54:48,123 - Server_DefaultID - INFO - --- Global Round 73/200 ---
+2025-07-08 16:56:59,769 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2771 ms
+2025-07-08 16:56:59,769 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:56:59,794 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.35, Mean=1.30
+2025-07-08 16:56:59,797 - Server_DefaultID - INFO - --- Global Round 74/200 ---
+2025-07-08 16:59:02,854 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2694 ms
+2025-07-08 16:59:02,854 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 16:59:02,878 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.36, Mean=1.30
+2025-07-08 16:59:02,882 - Server_DefaultID - INFO - --- Global Round 75/200 ---
+2025-07-08 17:01:17,894 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2668 ms
+2025-07-08 17:01:17,895 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:01:17,935 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.34, Mean=1.30
+2025-07-08 17:01:17,940 - Server_DefaultID - INFO - --- Global Round 76/200 ---
+2025-07-08 17:03:13,826 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2659 ms
+2025-07-08 17:03:13,826 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:03:13,850 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.33, Mean=1.30
+2025-07-08 17:03:13,854 - Server_DefaultID - INFO - --- Global Round 77/200 ---
+2025-07-08 17:05:16,205 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2695 ms
+2025-07-08 17:05:16,206 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:05:16,230 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.34, Mean=1.30
+2025-07-08 17:05:16,234 - Server_DefaultID - INFO - --- Global Round 78/200 ---
+2025-07-08 17:07:08,247 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2668 ms
+2025-07-08 17:07:08,247 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:07:08,271 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.37, Mean=1.30
+2025-07-08 17:07:08,275 - Server_DefaultID - INFO - --- Global Round 79/200 ---
+2025-07-08 17:08:47,250 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2724 ms
+2025-07-08 17:08:47,250 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:08:47,271 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.33, Mean=1.30
+2025-07-08 17:08:47,274 - Server_DefaultID - INFO - --- Global Round 80/200 ---
+2025-07-08 17:10:25,915 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2697 ms
+2025-07-08 17:10:25,915 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:10:25,938 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.28, Max=1.39, Mean=1.30
+2025-07-08 17:10:25,940 - Server_DefaultID - INFO - --- Evaluating models at round 80 with Advanced Uncertainty Metrics ---
+2025-07-08 17:11:48,584 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 76.81%, Std: 10.72, Min: 47.62, Max: 96.97
+2025-07-08 17:11:48,585 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0335, Std: 0.0116
+2025-07-08 17:11:48,585 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.1631, Std: 0.0586
+2025-07-08 17:11:48,585 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: 0.1862, Std: 0.2166
+2025-07-08 17:11:48,585 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: nan, Std: nan
+2025-07-08 17:11:48,585 - Server_DefaultID - INFO - New best personalized accuracy: 76.81%
+2025-07-08 17:11:48,585 - Server_DefaultID - INFO - --- Global Round 81/200 ---
+2025-07-08 17:13:22,708 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2749 ms
+2025-07-08 17:13:22,708 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:13:22,728 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.35, Mean=1.30
+2025-07-08 17:13:22,731 - Server_DefaultID - INFO - --- Global Round 82/200 ---
+2025-07-08 17:14:53,243 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2690 ms
+2025-07-08 17:14:53,243 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:14:53,264 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.38, Mean=1.30
+2025-07-08 17:14:53,267 - Server_DefaultID - INFO - --- Global Round 83/200 ---
+2025-07-08 17:16:34,178 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2749 ms
+2025-07-08 17:16:34,179 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:16:34,205 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 17:16:34,209 - Server_DefaultID - INFO - --- Global Round 84/200 ---
+2025-07-08 17:18:34,001 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2749 ms
+2025-07-08 17:18:34,001 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:18:34,030 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.35, Mean=1.30
+2025-07-08 17:18:34,033 - Server_DefaultID - INFO - --- Global Round 85/200 ---
+2025-07-08 17:20:36,288 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2709 ms
+2025-07-08 17:20:36,288 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:20:36,312 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.34, Mean=1.30
+2025-07-08 17:20:36,315 - Server_DefaultID - INFO - --- Global Round 86/200 ---
+2025-07-08 17:22:28,723 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2781 ms
+2025-07-08 17:22:28,723 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:22:28,744 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.38, Mean=1.30
+2025-07-08 17:22:28,747 - Server_DefaultID - INFO - --- Global Round 87/200 ---
+2025-07-08 17:24:43,589 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2722 ms
+2025-07-08 17:24:43,589 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:24:43,618 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.37, Mean=1.30
+2025-07-08 17:24:43,622 - Server_DefaultID - INFO - --- Global Round 88/200 ---
+2025-07-08 17:26:32,196 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2687 ms
+2025-07-08 17:26:32,197 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:26:32,219 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.38, Mean=1.30
+2025-07-08 17:26:32,223 - Server_DefaultID - INFO - --- Global Round 89/200 ---
+2025-07-08 17:28:19,686 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2704 ms
+2025-07-08 17:28:19,686 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:28:19,708 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.36, Mean=1.30
+2025-07-08 17:28:19,711 - Server_DefaultID - INFO - --- Global Round 90/200 ---
+2025-07-08 17:30:21,578 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2663 ms
+2025-07-08 17:30:21,578 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:30:21,606 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.30
+2025-07-08 17:30:21,610 - Server_DefaultID - INFO - --- Global Round 91/200 ---
+2025-07-08 17:32:10,560 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2708 ms
+2025-07-08 17:32:10,560 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:32:10,581 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.34, Mean=1.30
+2025-07-08 17:32:10,584 - Server_DefaultID - INFO - --- Global Round 92/200 ---
+2025-07-08 17:33:51,354 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2659 ms
+2025-07-08 17:33:51,355 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:33:51,379 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.36, Mean=1.30
+2025-07-08 17:33:51,383 - Server_DefaultID - INFO - --- Global Round 93/200 ---
+2025-07-08 17:35:51,117 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2709 ms
+2025-07-08 17:35:51,117 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:35:51,144 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.28, Max=1.35, Mean=1.30
+2025-07-08 17:35:51,148 - Server_DefaultID - INFO - --- Global Round 94/200 ---
+2025-07-08 17:37:34,641 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2705 ms
+2025-07-08 17:37:34,641 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:37:34,662 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.38, Mean=1.30
+2025-07-08 17:37:34,665 - Server_DefaultID - INFO - --- Global Round 95/200 ---
+2025-07-08 17:39:38,736 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2700 ms
+2025-07-08 17:39:38,736 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:39:38,763 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.33, Mean=1.30
+2025-07-08 17:39:38,768 - Server_DefaultID - INFO - --- Global Round 96/200 ---
+2025-07-08 17:41:34,175 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2732 ms
+2025-07-08 17:41:34,175 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:41:34,198 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.36, Mean=1.30
+2025-07-08 17:41:34,201 - Server_DefaultID - INFO - --- Global Round 97/200 ---
+2025-07-08 17:43:27,827 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2713 ms
+2025-07-08 17:43:27,827 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:43:27,849 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.37, Mean=1.30
+2025-07-08 17:43:27,852 - Server_DefaultID - INFO - --- Global Round 98/200 ---
+2025-07-08 17:45:39,850 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2734 ms
+2025-07-08 17:45:39,850 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:45:39,874 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.35, Mean=1.30
+2025-07-08 17:45:39,878 - Server_DefaultID - INFO - --- Global Round 99/200 ---
+2025-07-08 17:46:59,536 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2639 ms
+2025-07-08 17:46:59,536 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:46:59,553 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.36, Mean=1.30
+2025-07-08 17:46:59,556 - Server_DefaultID - INFO - --- Global Round 100/200 ---
+2025-07-08 17:49:01,245 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2688 ms
+2025-07-08 17:49:01,245 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:49:01,268 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.22, Max=1.38, Mean=1.30
+2025-07-08 17:49:01,271 - Server_DefaultID - INFO - --- Evaluating models at round 100 with Advanced Uncertainty Metrics ---
+2025-07-08 17:50:22,477 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 78.07%, Std: 10.06, Min: 51.61, Max: 96.97
+2025-07-08 17:50:22,478 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0319, Std: 0.0117
+2025-07-08 17:50:22,478 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.1596, Std: 0.0518
+2025-07-08 17:50:22,478 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: 0.2059, Std: 0.2127
+2025-07-08 17:50:22,478 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: nan, Std: nan
+2025-07-08 17:50:22,479 - Server_DefaultID - INFO - New best personalized accuracy: 78.07%
+2025-07-08 17:50:22,479 - Server_DefaultID - INFO - --- Global Round 101/200 ---
+2025-07-08 17:52:14,720 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2756 ms
+2025-07-08 17:52:14,720 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:52:14,742 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 17:52:14,745 - Server_DefaultID - INFO - --- Global Round 102/200 ---
+2025-07-08 17:53:37,545 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2677 ms
+2025-07-08 17:53:37,545 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:53:37,565 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.37, Mean=1.30
+2025-07-08 17:53:37,568 - Server_DefaultID - INFO - --- Global Round 103/200 ---
+2025-07-08 17:55:20,059 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2741 ms
+2025-07-08 17:55:20,059 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:55:20,080 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.37, Mean=1.30
+2025-07-08 17:55:20,083 - Server_DefaultID - INFO - --- Global Round 104/200 ---
+2025-07-08 17:57:28,102 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2799 ms
+2025-07-08 17:57:28,102 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:57:28,128 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.35, Mean=1.30
+2025-07-08 17:57:28,132 - Server_DefaultID - INFO - --- Global Round 105/200 ---
+2025-07-08 17:58:47,030 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2717 ms
+2025-07-08 17:58:47,030 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 17:58:47,048 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.37, Mean=1.30
+2025-07-08 17:58:47,050 - Server_DefaultID - INFO - --- Global Round 106/200 ---
+2025-07-08 18:01:16,608 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2701 ms
+2025-07-08 18:01:16,608 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:01:16,635 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.39, Mean=1.30
+2025-07-08 18:01:16,639 - Server_DefaultID - INFO - --- Global Round 107/200 ---
+2025-07-08 18:02:53,287 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2728 ms
+2025-07-08 18:02:53,287 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:02:53,306 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.40, Mean=1.30
+2025-07-08 18:02:53,309 - Server_DefaultID - INFO - --- Global Round 108/200 ---
+2025-07-08 18:05:21,570 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2758 ms
+2025-07-08 18:05:21,570 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:05:21,595 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.37, Mean=1.30
+2025-07-08 18:05:21,599 - Server_DefaultID - INFO - --- Global Round 109/200 ---
+2025-07-08 18:07:29,097 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2712 ms
+2025-07-08 18:07:29,097 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:07:29,125 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.32, Mean=1.30
+2025-07-08 18:07:29,129 - Server_DefaultID - INFO - --- Global Round 110/200 ---
+2025-07-08 18:09:56,922 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2716 ms
+2025-07-08 18:09:56,923 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:09:56,947 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.35, Mean=1.30
+2025-07-08 18:09:56,951 - Server_DefaultID - INFO - --- Global Round 111/200 ---
+2025-07-08 18:12:31,236 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2664 ms
+2025-07-08 18:12:31,236 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:12:31,269 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.35, Mean=1.30
+2025-07-08 18:12:31,275 - Server_DefaultID - INFO - --- Global Round 112/200 ---
+2025-07-08 18:14:42,937 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2676 ms
+2025-07-08 18:14:42,938 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:14:42,965 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.32, Mean=1.30
+2025-07-08 18:14:42,970 - Server_DefaultID - INFO - --- Global Round 113/200 ---
+2025-07-08 18:16:20,005 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2702 ms
+2025-07-08 18:16:20,005 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:16:20,025 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.38, Mean=1.30
+2025-07-08 18:16:20,027 - Server_DefaultID - INFO - --- Global Round 114/200 ---
+2025-07-08 18:18:12,550 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2692 ms
+2025-07-08 18:18:12,550 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:18:12,578 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.35, Mean=1.30
+2025-07-08 18:18:12,582 - Server_DefaultID - INFO - --- Global Round 115/200 ---
+2025-07-08 18:19:33,632 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2686 ms
+2025-07-08 18:19:33,633 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:19:33,654 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.36, Mean=1.30
+2025-07-08 18:19:33,657 - Server_DefaultID - INFO - --- Global Round 116/200 ---
+2025-07-08 18:21:37,821 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2710 ms
+2025-07-08 18:21:37,821 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:21:37,848 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.36, Mean=1.30
+2025-07-08 18:21:37,852 - Server_DefaultID - INFO - --- Global Round 117/200 ---
+2025-07-08 18:23:26,559 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2727 ms
+2025-07-08 18:23:26,559 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:23:26,596 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.28, Max=1.33, Mean=1.30
+2025-07-08 18:23:26,600 - Server_DefaultID - INFO - --- Global Round 118/200 ---
+2025-07-08 18:25:31,315 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2697 ms
+2025-07-08 18:25:31,316 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:25:31,342 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.38, Mean=1.30
+2025-07-08 18:25:31,346 - Server_DefaultID - INFO - --- Global Round 119/200 ---
+2025-07-08 18:27:25,876 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2697 ms
+2025-07-08 18:27:25,876 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:27:25,902 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.37, Mean=1.30
+2025-07-08 18:27:25,906 - Server_DefaultID - INFO - --- Global Round 120/200 ---
+2025-07-08 18:29:17,488 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2838 ms
+2025-07-08 18:29:17,488 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:29:17,511 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.36, Mean=1.30
+2025-07-08 18:29:17,514 - Server_DefaultID - INFO - --- Evaluating models at round 120 with Advanced Uncertainty Metrics ---
+2025-07-08 18:30:40,478 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 78.67%, Std: 9.80, Min: 42.86, Max: 100.00
+2025-07-08 18:30:40,478 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0312, Std: 0.0112
+2025-07-08 18:30:40,478 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.1572, Std: 0.0500
+2025-07-08 18:30:40,478 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: 0.2217, Std: 0.1981
+2025-07-08 18:30:40,479 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: nan, Std: nan
+2025-07-08 18:30:40,479 - Server_DefaultID - INFO - New best personalized accuracy: 78.67%
+2025-07-08 18:30:40,479 - Server_DefaultID - INFO - --- Global Round 121/200 ---
+2025-07-08 18:32:44,242 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2657 ms
+2025-07-08 18:32:44,242 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:32:44,265 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.40, Mean=1.30
+2025-07-08 18:32:44,268 - Server_DefaultID - INFO - --- Global Round 122/200 ---
+2025-07-08 18:34:56,867 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2731 ms
+2025-07-08 18:34:56,867 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:34:56,893 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.36, Mean=1.30
+2025-07-08 18:34:56,897 - Server_DefaultID - INFO - --- Global Round 123/200 ---
+2025-07-08 18:36:47,253 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2692 ms
+2025-07-08 18:36:47,253 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:36:47,277 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.39, Mean=1.30
+2025-07-08 18:36:47,281 - Server_DefaultID - INFO - --- Global Round 124/200 ---
+2025-07-08 18:38:55,931 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2758 ms
+2025-07-08 18:38:55,931 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:38:55,957 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.33, Mean=1.30
+2025-07-08 18:38:55,961 - Server_DefaultID - INFO - --- Global Round 125/200 ---
+2025-07-08 18:40:57,390 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2720 ms
+2025-07-08 18:40:57,390 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:40:57,418 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.36, Mean=1.30
+2025-07-08 18:40:57,421 - Server_DefaultID - INFO - --- Global Round 126/200 ---
+2025-07-08 18:42:50,117 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2731 ms
+2025-07-08 18:42:50,117 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:42:50,143 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.38, Mean=1.30
+2025-07-08 18:42:50,146 - Server_DefaultID - INFO - --- Global Round 127/200 ---
+2025-07-08 18:44:26,354 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2765 ms
+2025-07-08 18:44:26,354 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:44:26,374 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.37, Mean=1.30
+2025-07-08 18:44:26,377 - Server_DefaultID - INFO - --- Global Round 128/200 ---
+2025-07-08 18:46:34,332 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2743 ms
+2025-07-08 18:46:34,332 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:46:34,359 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.35, Mean=1.30
+2025-07-08 18:46:34,362 - Server_DefaultID - INFO - --- Global Round 129/200 ---
+2025-07-08 18:48:50,501 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2744 ms
+2025-07-08 18:48:50,501 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:48:50,529 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.35, Mean=1.30
+2025-07-08 18:48:50,533 - Server_DefaultID - INFO - --- Global Round 130/200 ---
+2025-07-08 18:51:08,264 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2652 ms
+2025-07-08 18:51:08,264 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:51:08,290 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.33, Mean=1.30
+2025-07-08 18:51:08,293 - Server_DefaultID - INFO - --- Global Round 131/200 ---
+2025-07-08 18:52:51,283 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2704 ms
+2025-07-08 18:52:51,283 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:52:51,308 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.39, Mean=1.30
+2025-07-08 18:52:51,311 - Server_DefaultID - INFO - --- Global Round 132/200 ---
+2025-07-08 18:54:27,218 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2740 ms
+2025-07-08 18:54:27,218 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:54:27,236 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.35, Mean=1.30
+2025-07-08 18:54:27,239 - Server_DefaultID - INFO - --- Global Round 133/200 ---
+2025-07-08 18:56:09,051 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2683 ms
+2025-07-08 18:56:09,052 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:56:09,073 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.36, Mean=1.30
+2025-07-08 18:56:09,076 - Server_DefaultID - INFO - --- Global Round 134/200 ---
+2025-07-08 18:58:31,781 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2716 ms
+2025-07-08 18:58:31,781 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 18:58:31,808 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.22, Max=1.38, Mean=1.30
+2025-07-08 18:58:31,812 - Server_DefaultID - INFO - --- Global Round 135/200 ---
+2025-07-08 19:00:50,741 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2670 ms
+2025-07-08 19:00:50,741 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:00:50,769 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.35, Mean=1.30
+2025-07-08 19:00:50,774 - Server_DefaultID - INFO - --- Global Round 136/200 ---
+2025-07-08 19:02:46,959 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2714 ms
+2025-07-08 19:02:46,959 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:02:46,982 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.36, Mean=1.30
+2025-07-08 19:02:46,986 - Server_DefaultID - INFO - --- Global Round 137/200 ---
+2025-07-08 19:04:55,868 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2707 ms
+2025-07-08 19:04:55,868 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:04:55,902 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.37, Mean=1.30
+2025-07-08 19:04:55,907 - Server_DefaultID - INFO - --- Global Round 138/200 ---
+2025-07-08 19:06:38,982 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2768 ms
+2025-07-08 19:06:38,982 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:06:39,004 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.36, Mean=1.30
+2025-07-08 19:06:39,007 - Server_DefaultID - INFO - --- Global Round 139/200 ---
+2025-07-08 19:08:33,592 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2715 ms
+2025-07-08 19:08:33,593 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:08:33,618 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.28, Max=1.34, Mean=1.30
+2025-07-08 19:08:33,622 - Server_DefaultID - INFO - --- Global Round 140/200 ---
+2025-07-08 19:10:41,323 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2786 ms
+2025-07-08 19:10:41,323 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:10:41,355 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.28, Max=1.35, Mean=1.30
+2025-07-08 19:10:41,359 - Server_DefaultID - INFO - --- Evaluating models at round 140 with Advanced Uncertainty Metrics ---
+2025-07-08 19:12:04,196 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 79.24%, Std: 9.52, Min: 47.62, Max: 100.00
+2025-07-08 19:12:04,196 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0306, Std: 0.0116
+2025-07-08 19:12:04,196 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.1641, Std: 0.0555
+2025-07-08 19:12:04,197 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: 0.2651, Std: 0.1821
+2025-07-08 19:12:04,197 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: nan, Std: nan
+2025-07-08 19:12:04,197 - Server_DefaultID - INFO - New best personalized accuracy: 79.24%
+2025-07-08 19:12:04,197 - Server_DefaultID - INFO - --- Global Round 141/200 ---
+2025-07-08 19:14:06,611 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2681 ms
+2025-07-08 19:14:06,611 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:14:06,638 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.37, Mean=1.30
+2025-07-08 19:14:06,642 - Server_DefaultID - INFO - --- Global Round 142/200 ---
+2025-07-08 19:16:16,603 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2698 ms
+2025-07-08 19:16:16,604 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:16:16,629 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.38, Mean=1.30
+2025-07-08 19:16:16,633 - Server_DefaultID - INFO - --- Global Round 143/200 ---
+2025-07-08 19:18:03,913 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2704 ms
+2025-07-08 19:18:03,913 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:18:03,936 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.36, Mean=1.30
+2025-07-08 19:18:03,939 - Server_DefaultID - INFO - --- Global Round 144/200 ---
+2025-07-08 19:20:09,564 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2746 ms
+2025-07-08 19:20:09,564 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:20:09,592 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.36, Mean=1.30
+2025-07-08 19:20:09,597 - Server_DefaultID - INFO - --- Global Round 145/200 ---
+2025-07-08 19:22:16,335 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2729 ms
+2025-07-08 19:22:16,335 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:22:16,362 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.37, Mean=1.30
+2025-07-08 19:22:16,366 - Server_DefaultID - INFO - --- Global Round 146/200 ---
+2025-07-08 19:24:05,553 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2706 ms
+2025-07-08 19:24:05,553 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:24:05,577 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 19:24:05,581 - Server_DefaultID - INFO - --- Global Round 147/200 ---
+2025-07-08 19:26:14,125 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2758 ms
+2025-07-08 19:26:14,125 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:26:14,149 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.34, Mean=1.30
+2025-07-08 19:26:14,152 - Server_DefaultID - INFO - --- Global Round 148/200 ---
+2025-07-08 19:28:09,662 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2758 ms
+2025-07-08 19:28:09,662 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:28:09,686 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.37, Mean=1.30
+2025-07-08 19:28:09,689 - Server_DefaultID - INFO - --- Global Round 149/200 ---
+2025-07-08 19:29:35,265 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2714 ms
+2025-07-08 19:29:35,266 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:29:35,286 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.37, Mean=1.30
+2025-07-08 19:29:35,288 - Server_DefaultID - INFO - --- Global Round 150/200 ---
+2025-07-08 19:31:59,899 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2761 ms
+2025-07-08 19:31:59,899 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:31:59,931 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.36, Mean=1.30
+2025-07-08 19:31:59,936 - Server_DefaultID - INFO - --- Global Round 151/200 ---
+2025-07-08 19:33:58,931 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2706 ms
+2025-07-08 19:33:58,931 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:33:58,964 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.39, Mean=1.30
+2025-07-08 19:33:58,968 - Server_DefaultID - INFO - --- Global Round 152/200 ---
+2025-07-08 19:35:46,245 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2713 ms
+2025-07-08 19:35:46,245 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:35:46,282 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.34, Mean=1.30
+2025-07-08 19:35:46,285 - Server_DefaultID - INFO - --- Global Round 153/200 ---
+2025-07-08 19:37:29,597 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2739 ms
+2025-07-08 19:37:29,597 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:37:29,619 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.37, Mean=1.30
+2025-07-08 19:37:29,623 - Server_DefaultID - INFO - --- Global Round 154/200 ---
+2025-07-08 19:39:26,718 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2662 ms
+2025-07-08 19:39:26,718 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:39:26,750 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.22, Max=1.38, Mean=1.30
+2025-07-08 19:39:26,754 - Server_DefaultID - INFO - --- Global Round 155/200 ---
+2025-07-08 19:41:12,142 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2683 ms
+2025-07-08 19:41:12,142 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:41:12,167 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.38, Mean=1.30
+2025-07-08 19:41:12,170 - Server_DefaultID - INFO - --- Global Round 156/200 ---
+2025-07-08 19:43:03,571 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2892 ms
+2025-07-08 19:43:03,599 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:43:03,635 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.36, Mean=1.30
+2025-07-08 19:43:03,639 - Server_DefaultID - INFO - --- Global Round 157/200 ---
+2025-07-08 19:44:49,676 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2921 ms
+2025-07-08 19:44:49,676 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:44:49,700 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.38, Mean=1.30
+2025-07-08 19:44:49,703 - Server_DefaultID - INFO - --- Global Round 158/200 ---
+2025-07-08 19:46:47,759 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2887 ms
+2025-07-08 19:46:47,760 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:46:47,785 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.38, Mean=1.30
+2025-07-08 19:46:47,789 - Server_DefaultID - INFO - --- Global Round 159/200 ---
+2025-07-08 19:49:04,642 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3064 ms
+2025-07-08 19:49:04,642 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:49:04,666 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.34, Mean=1.30
+2025-07-08 19:49:04,670 - Server_DefaultID - INFO - --- Global Round 160/200 ---
+2025-07-08 19:51:24,198 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2804 ms
+2025-07-08 19:51:24,199 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:51:24,228 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.23, Max=1.38, Mean=1.30
+2025-07-08 19:51:24,231 - Server_DefaultID - INFO - --- Evaluating models at round 160 with Advanced Uncertainty Metrics ---
+2025-07-08 19:52:49,760 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 79.67%, Std: 9.71, Min: 50.00, Max: 98.18
+2025-07-08 19:52:49,761 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0301, Std: 0.0114
+2025-07-08 19:52:49,761 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.1570, Std: 0.0560
+2025-07-08 19:52:49,761 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: 0.2979, Std: 0.1707
+2025-07-08 19:52:49,761 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: nan, Std: nan
+2025-07-08 19:52:49,761 - Server_DefaultID - INFO - New best personalized accuracy: 79.67%
+2025-07-08 19:52:49,761 - Server_DefaultID - INFO - --- Global Round 161/200 ---
+2025-07-08 19:55:01,973 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2710 ms
+2025-07-08 19:55:01,973 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:55:02,005 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.33, Mean=1.31
+2025-07-08 19:55:02,010 - Server_DefaultID - INFO - --- Global Round 162/200 ---
+2025-07-08 19:57:00,629 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2727 ms
+2025-07-08 19:57:00,630 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:57:00,658 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.36, Mean=1.30
+2025-07-08 19:57:00,662 - Server_DefaultID - INFO - --- Global Round 163/200 ---
+2025-07-08 19:58:44,013 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2688 ms
+2025-07-08 19:58:44,014 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 19:58:44,037 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.33, Mean=1.30
+2025-07-08 19:58:44,040 - Server_DefaultID - INFO - --- Global Round 164/200 ---
+2025-07-08 20:00:56,606 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2927 ms
+2025-07-08 20:00:56,606 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:00:56,632 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.37, Mean=1.31
+2025-07-08 20:00:56,636 - Server_DefaultID - INFO - --- Global Round 165/200 ---
+2025-07-08 20:02:54,752 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2989 ms
+2025-07-08 20:02:54,753 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:02:54,799 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.37, Mean=1.30
+2025-07-08 20:02:54,803 - Server_DefaultID - INFO - --- Global Round 166/200 ---
+2025-07-08 20:05:41,011 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2853 ms
+2025-07-08 20:05:41,027 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:05:41,058 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.35, Mean=1.30
+2025-07-08 20:05:41,063 - Server_DefaultID - INFO - --- Global Round 167/200 ---
+2025-07-08 20:07:35,320 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2696 ms
+2025-07-08 20:07:35,321 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:07:35,344 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.22, Max=1.36, Mean=1.31
+2025-07-08 20:07:35,348 - Server_DefaultID - INFO - --- Global Round 168/200 ---
+2025-07-08 20:09:37,570 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2687 ms
+2025-07-08 20:09:37,570 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:09:37,595 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.38, Mean=1.30
+2025-07-08 20:09:37,599 - Server_DefaultID - INFO - --- Global Round 169/200 ---
+2025-07-08 20:11:56,520 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2701 ms
+2025-07-08 20:11:56,520 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:11:56,546 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.36, Mean=1.30
+2025-07-08 20:11:56,550 - Server_DefaultID - INFO - --- Global Round 170/200 ---
+2025-07-08 20:14:08,277 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2742 ms
+2025-07-08 20:14:08,289 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:14:08,314 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.35, Mean=1.30
+2025-07-08 20:14:08,318 - Server_DefaultID - INFO - --- Global Round 171/200 ---
+2025-07-08 20:15:52,316 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2721 ms
+2025-07-08 20:15:52,316 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:15:52,338 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.37, Mean=1.31
+2025-07-08 20:15:52,342 - Server_DefaultID - INFO - --- Global Round 172/200 ---
+2025-07-08 20:17:49,467 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2676 ms
+2025-07-08 20:17:49,467 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:17:49,510 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.35, Mean=1.30
+2025-07-08 20:17:49,514 - Server_DefaultID - INFO - --- Global Round 173/200 ---
+2025-07-08 20:20:04,530 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3335 ms
+2025-07-08 20:20:04,554 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:20:04,591 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 20:20:04,595 - Server_DefaultID - INFO - --- Global Round 174/200 ---
+2025-07-08 20:22:29,510 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3170 ms
+2025-07-08 20:22:29,511 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:22:29,550 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 20:22:29,554 - Server_DefaultID - INFO - --- Global Round 175/200 ---
+2025-07-08 20:25:12,863 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3209 ms
+2025-07-08 20:25:12,899 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:25:12,943 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.33, Mean=1.30
+2025-07-08 20:25:12,948 - Server_DefaultID - INFO - --- Global Round 176/200 ---
+2025-07-08 20:27:16,911 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2716 ms
+2025-07-08 20:27:16,911 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:27:16,939 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.38, Mean=1.30
+2025-07-08 20:27:16,942 - Server_DefaultID - INFO - --- Global Round 177/200 ---
+2025-07-08 20:29:17,716 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2707 ms
+2025-07-08 20:29:17,716 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:29:17,743 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.38, Mean=1.30
+2025-07-08 20:29:17,747 - Server_DefaultID - INFO - --- Global Round 178/200 ---
+2025-07-08 20:31:03,328 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2718 ms
+2025-07-08 20:31:03,329 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:31:03,351 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 20:31:03,355 - Server_DefaultID - INFO - --- Global Round 179/200 ---
+2025-07-08 20:32:42,654 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2687 ms
+2025-07-08 20:32:42,655 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:32:42,678 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.40, Mean=1.30
+2025-07-08 20:32:42,682 - Server_DefaultID - INFO - --- Global Round 180/200 ---
+2025-07-08 20:34:36,283 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2723 ms
+2025-07-08 20:34:36,283 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:34:36,304 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.33, Mean=1.30
+2025-07-08 20:34:36,308 - Server_DefaultID - INFO - --- Evaluating models at round 180 with Advanced Uncertainty Metrics ---
+2025-07-08 20:36:01,021 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 80.74%, Std: 9.01, Min: 55.17, Max: 100.00
+2025-07-08 20:36:01,022 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0295, Std: 0.0110
+2025-07-08 20:36:01,022 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.1620, Std: 0.0471
+2025-07-08 20:36:01,022 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: 0.2926, Std: 0.1899
+2025-07-08 20:36:01,022 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: nan, Std: nan
+2025-07-08 20:36:01,022 - Server_DefaultID - INFO - New best personalized accuracy: 80.74%
+2025-07-08 20:36:01,022 - Server_DefaultID - INFO - --- Global Round 181/200 ---
+2025-07-08 20:37:29,480 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2661 ms
+2025-07-08 20:37:29,480 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:37:29,503 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.22, Max=1.37, Mean=1.31
+2025-07-08 20:37:29,506 - Server_DefaultID - INFO - --- Global Round 182/200 ---
+2025-07-08 20:39:56,082 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2786 ms
+2025-07-08 20:39:56,127 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:39:56,213 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.35, Mean=1.30
+2025-07-08 20:39:56,242 - Server_DefaultID - INFO - --- Global Round 183/200 ---
+2025-07-08 20:41:31,415 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3191 ms
+2025-07-08 20:41:31,441 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:41:31,464 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.38, Mean=1.31
+2025-07-08 20:41:31,466 - Server_DefaultID - INFO - --- Global Round 184/200 ---
+2025-07-08 20:43:32,351 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3030 ms
+2025-07-08 20:43:32,365 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:43:32,402 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.30
+2025-07-08 20:43:32,406 - Server_DefaultID - INFO - --- Global Round 185/200 ---
+2025-07-08 20:46:05,328 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2931 ms
+2025-07-08 20:46:05,354 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:46:05,385 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.33, Mean=1.30
+2025-07-08 20:46:05,390 - Server_DefaultID - INFO - --- Global Round 186/200 ---
+2025-07-08 20:47:31,482 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2731 ms
+2025-07-08 20:47:31,482 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:47:31,527 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.39, Mean=1.30
+2025-07-08 20:47:31,531 - Server_DefaultID - INFO - --- Global Round 187/200 ---
+2025-07-08 20:49:40,229 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2706 ms
+2025-07-08 20:49:40,229 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:49:40,273 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.39, Mean=1.30
+2025-07-08 20:49:40,276 - Server_DefaultID - INFO - --- Global Round 188/200 ---
+2025-07-08 20:51:27,375 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2680 ms
+2025-07-08 20:51:27,376 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:51:27,405 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.28, Max=1.34, Mean=1.30
+2025-07-08 20:51:27,408 - Server_DefaultID - INFO - --- Global Round 189/200 ---
+2025-07-08 20:53:24,748 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2741 ms
+2025-07-08 20:53:24,748 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:53:24,777 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.28, Max=1.34, Mean=1.30
+2025-07-08 20:53:24,781 - Server_DefaultID - INFO - --- Global Round 190/200 ---
+2025-07-08 20:54:40,630 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2677 ms
+2025-07-08 20:54:40,630 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:54:40,651 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.22, Max=1.43, Mean=1.30
+2025-07-08 20:54:40,654 - Server_DefaultID - INFO - --- Global Round 191/200 ---
+2025-07-08 20:56:49,628 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2783 ms
+2025-07-08 20:56:49,628 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:56:49,662 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.39, Mean=1.30
+2025-07-08 20:56:49,666 - Server_DefaultID - INFO - --- Global Round 192/200 ---
+2025-07-08 20:58:41,557 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2687 ms
+2025-07-08 20:58:41,557 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 20:58:41,583 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.33, Mean=1.30
+2025-07-08 20:58:41,587 - Server_DefaultID - INFO - --- Global Round 193/200 ---
+2025-07-08 21:00:57,937 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3117 ms
+2025-07-08 21:00:58,007 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 21:00:58,114 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.41, Mean=1.30
+2025-07-08 21:00:58,120 - Server_DefaultID - INFO - --- Global Round 194/200 ---
+2025-07-08 21:03:37,097 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3108 ms
+2025-07-08 21:03:37,111 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 21:03:37,346 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.36, Mean=1.30
+2025-07-08 21:03:37,363 - Server_DefaultID - INFO - --- Global Round 195/200 ---
+2025-07-08 21:05:24,648 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3289 ms
+2025-07-08 21:05:24,672 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 21:05:24,712 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.26, Max=1.34, Mean=1.30
+2025-07-08 21:05:24,716 - Server_DefaultID - INFO - --- Global Round 196/200 ---
+2025-07-08 21:07:31,016 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2740 ms
+2025-07-08 21:07:31,036 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 21:07:31,073 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.34, Mean=1.30
+2025-07-08 21:07:31,092 - Server_DefaultID - INFO - --- Global Round 197/200 ---
+2025-07-08 21:09:21,383 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2672 ms
+2025-07-08 21:09:21,383 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 21:09:21,408 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.27, Max=1.39, Mean=1.30
+2025-07-08 21:09:21,412 - Server_DefaultID - INFO - --- Global Round 198/200 ---
+2025-07-08 21:11:22,509 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2694 ms
+2025-07-08 21:11:22,509 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 21:11:22,535 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.25, Max=1.36, Mean=1.30
+2025-07-08 21:11:22,540 - Server_DefaultID - INFO - --- Global Round 199/200 ---
+2025-07-08 21:13:33,730 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2699 ms
+2025-07-08 21:13:33,730 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 21:13:33,758 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.36, Mean=1.30
+2025-07-08 21:13:33,762 - Server_DefaultID - INFO - --- Global Round 200/200 ---
+2025-07-08 21:15:44,808 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2731 ms
+2025-07-08 21:15:44,808 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-08 21:15:44,836 - Server_DefaultID - INFO - Global Prior Alpha Stats: Min=1.24, Max=1.34, Mean=1.30
+2025-07-08 21:15:44,840 - Server_DefaultID - INFO - --- Evaluating models at round 200 with Advanced Uncertainty Metrics ---
+2025-07-08 21:17:12,897 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 80.38%, Std: 8.76, Min: 52.38, Max: 96.77
+2025-07-08 21:17:12,911 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0295, Std: 0.0106
+2025-07-08 21:17:12,911 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.1572, Std: 0.0500
+2025-07-08 21:17:12,911 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: 0.2877, Std: 0.1986
+2025-07-08 21:17:12,912 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: nan, Std: nan
+2025-07-08 21:17:12,912 - Server_DefaultID - INFO - Training completed. Best personalized accuracy: 80.74%
+Initialized FedUG V2 Server with 100 clients
+Training FedUgV2 with model cifaredl on cifar10 for 100 clients.
+Hyperparameters: LR=0.01, WD=0.0005, Local Epochs=5, Global Rounds=200
+Method took (23795.10) total seconds for all rounds.

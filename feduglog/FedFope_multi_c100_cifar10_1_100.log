@@ -1,0 +1,646 @@
+2025-05-22 00:22:17,646 - ServerFedFope_DefaultID - INFO - Starting FedFope training with 100 clients, 100 per round.
+2025-05-22 00:22:17,647 - ServerFedFope_DefaultID - INFO - Hyperparameters: N_train_equivalent=1024, floor_cutoff=True, trim_percentage=0.1, l1_lambda=0.0
+2025-05-22 00:23:40,466 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:23:40,474 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:23:40,474 - ServerFedFope_DefaultID - INFO - Round [1/200]	 Avg Client Train Loss: 1.0709	 Avg Client Train Acc: 71.04	 Round Time: 82.83s
+2025-05-22 00:25:02,435 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:25:02,436 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:25:02,436 - ServerFedFope_DefaultID - INFO - Round [2/200]	 Avg Client Train Loss: 0.8797	 Avg Client Train Acc: 72.35	 Round Time: 81.96s
+2025-05-22 00:26:23,664 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:26:23,666 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:26:23,666 - ServerFedFope_DefaultID - INFO - Round [3/200]	 Avg Client Train Loss: 0.8048	 Avg Client Train Acc: 72.59	 Round Time: 81.23s
+2025-05-22 00:27:45,686 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:27:45,687 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:27:45,687 - ServerFedFope_DefaultID - INFO - Round [4/200]	 Avg Client Train Loss: 0.7751	 Avg Client Train Acc: 73.35	 Round Time: 82.02s
+2025-05-22 00:29:08,010 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:29:08,011 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:29:08,011 - ServerFedFope_DefaultID - INFO - Round [5/200]	 Avg Client Train Loss: 0.7525	 Avg Client Train Acc: 74.25	 Round Time: 82.32s
+2025-05-22 00:30:29,355 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:30:29,356 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:30:29,357 - ServerFedFope_DefaultID - INFO - Round [6/200]	 Avg Client Train Loss: 0.7292	 Avg Client Train Acc: 75.34	 Round Time: 81.35s
+2025-05-22 00:31:51,038 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:31:51,039 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:31:51,039 - ServerFedFope_DefaultID - INFO - Round [7/200]	 Avg Client Train Loss: 0.6936	 Avg Client Train Acc: 76.64	 Round Time: 81.68s
+2025-05-22 00:33:13,238 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:33:13,239 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:33:13,240 - ServerFedFope_DefaultID - INFO - Round [8/200]	 Avg Client Train Loss: 0.6584	 Avg Client Train Acc: 77.72	 Round Time: 82.20s
+2025-05-22 00:34:35,729 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:34:35,730 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:34:35,730 - ServerFedFope_DefaultID - INFO - Round [9/200]	 Avg Client Train Loss: 0.6273	 Avg Client Train Acc: 78.51	 Round Time: 82.49s
+2025-05-22 00:35:58,414 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:35:58,415 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:35:58,416 - ServerFedFope_DefaultID - INFO - Round [10/200]	 Avg Client Train Loss: 0.6076	 Avg Client Train Acc: 79.11	 Round Time: 82.69s
+2025-05-22 00:37:22,039 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:37:22,040 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:37:22,040 - ServerFedFope_DefaultID - INFO - Round [11/200]	 Avg Client Train Loss: 0.5925	 Avg Client Train Acc: 79.80	 Round Time: 83.62s
+2025-05-22 00:38:44,200 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:38:44,201 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:38:44,201 - ServerFedFope_DefaultID - INFO - Round [12/200]	 Avg Client Train Loss: 0.5758	 Avg Client Train Acc: 80.39	 Round Time: 82.16s
+2025-05-22 00:40:06,690 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:40:06,691 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:40:06,691 - ServerFedFope_DefaultID - INFO - Round [13/200]	 Avg Client Train Loss: 0.5596	 Avg Client Train Acc: 81.03	 Round Time: 82.49s
+2025-05-22 00:41:28,481 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:41:28,482 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:41:28,482 - ServerFedFope_DefaultID - INFO - Round [14/200]	 Avg Client Train Loss: 0.5481	 Avg Client Train Acc: 81.38	 Round Time: 81.79s
+2025-05-22 00:42:51,006 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:42:51,007 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:42:51,008 - ServerFedFope_DefaultID - INFO - Round [15/200]	 Avg Client Train Loss: 0.5331	 Avg Client Train Acc: 81.82	 Round Time: 82.53s
+2025-05-22 00:44:12,968 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:44:12,969 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:44:12,969 - ServerFedFope_DefaultID - INFO - Round [16/200]	 Avg Client Train Loss: 0.5234	 Avg Client Train Acc: 82.13	 Round Time: 81.96s
+2025-05-22 00:45:35,285 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:45:35,286 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:45:35,286 - ServerFedFope_DefaultID - INFO - Round [17/200]	 Avg Client Train Loss: 0.5184	 Avg Client Train Acc: 82.38	 Round Time: 82.32s
+2025-05-22 00:46:57,235 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:46:57,236 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:46:57,236 - ServerFedFope_DefaultID - INFO - Round [18/200]	 Avg Client Train Loss: 0.5080	 Avg Client Train Acc: 82.76	 Round Time: 81.95s
+2025-05-22 00:48:19,192 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:48:19,193 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:48:19,193 - ServerFedFope_DefaultID - INFO - Round [19/200]	 Avg Client Train Loss: 0.4985	 Avg Client Train Acc: 83.09	 Round Time: 81.96s
+2025-05-22 00:49:40,078 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:49:40,079 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:49:40,079 - ServerFedFope_DefaultID - INFO - Evaluating global model on all clients...
+2025-05-22 00:49:40,971 - ServerFedFope_DefaultID - INFO - Global model evaluation - Weighted Acc: 33.74%, Weighted Loss: 1.7266, Acc StdDev: 18.39
+2025-05-22 00:49:40,973 - ServerFedFope_DefaultID - INFO - Evaluating personalized models on all clients...
+2025-05-22 00:51:03,073 - ServerFedFope_DefaultID - INFO - Personalized model evaluation - Weighted Acc: 85.20%, Weighted Loss: 0.4212, Acc StdDev: 15.38
+2025-05-22 00:51:03,073 - ServerFedFope_DefaultID - INFO - Round [20/200]	 Avg Client Train Loss: 0.4897	 Avg Client Train Acc: 83.30	 Round Time: 80.89s	 Global Test Loss: 1.7266	 Global Test Acc: 33.74 (std:18.39)	 Personalized Test Loss: 0.4212	 Personalized Test Acc: 85.20 (std:15.38)
+2025-05-22 00:52:25,133 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:52:25,134 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:52:25,134 - ServerFedFope_DefaultID - INFO - Round [21/200]	 Avg Client Train Loss: 0.4824	 Avg Client Train Acc: 83.51	 Round Time: 82.06s
+2025-05-22 00:53:46,756 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:53:46,757 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:53:46,757 - ServerFedFope_DefaultID - INFO - Round [22/200]	 Avg Client Train Loss: 0.4788	 Avg Client Train Acc: 83.72	 Round Time: 81.62s
+2025-05-22 00:55:09,251 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:55:09,252 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:55:09,252 - ServerFedFope_DefaultID - INFO - Round [23/200]	 Avg Client Train Loss: 0.4710	 Avg Client Train Acc: 83.91	 Round Time: 82.49s
+2025-05-22 00:56:32,052 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:56:32,053 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:56:32,054 - ServerFedFope_DefaultID - INFO - Round [24/200]	 Avg Client Train Loss: 0.4691	 Avg Client Train Acc: 83.98	 Round Time: 82.80s
+2025-05-22 00:57:53,818 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:57:53,819 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:57:53,819 - ServerFedFope_DefaultID - INFO - Round [25/200]	 Avg Client Train Loss: 0.4619	 Avg Client Train Acc: 84.24	 Round Time: 81.77s
+2025-05-22 00:59:16,778 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 00:59:16,779 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 00:59:16,779 - ServerFedFope_DefaultID - INFO - Round [26/200]	 Avg Client Train Loss: 0.4539	 Avg Client Train Acc: 84.50	 Round Time: 82.96s
+2025-05-22 01:00:39,458 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:00:39,459 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:00:39,460 - ServerFedFope_DefaultID - INFO - Round [27/200]	 Avg Client Train Loss: 0.4517	 Avg Client Train Acc: 84.57	 Round Time: 82.68s
+2025-05-22 01:02:01,419 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:02:01,420 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:02:01,420 - ServerFedFope_DefaultID - INFO - Round [28/200]	 Avg Client Train Loss: 0.4474	 Avg Client Train Acc: 84.79	 Round Time: 81.96s
+2025-05-22 01:03:22,817 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:03:22,818 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:03:22,819 - ServerFedFope_DefaultID - INFO - Round [29/200]	 Avg Client Train Loss: 0.4399	 Avg Client Train Acc: 84.98	 Round Time: 81.40s
+2025-05-22 01:04:43,473 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:04:43,474 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:04:43,474 - ServerFedFope_DefaultID - INFO - Round [30/200]	 Avg Client Train Loss: 0.4354	 Avg Client Train Acc: 85.14	 Round Time: 80.66s
+2025-05-22 01:06:05,430 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:06:05,431 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:06:05,431 - ServerFedFope_DefaultID - INFO - Round [31/200]	 Avg Client Train Loss: 0.4314	 Avg Client Train Acc: 85.23	 Round Time: 81.96s
+2025-05-22 01:07:27,702 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:07:27,703 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:07:27,703 - ServerFedFope_DefaultID - INFO - Round [32/200]	 Avg Client Train Loss: 0.4296	 Avg Client Train Acc: 85.42	 Round Time: 82.27s
+2025-05-22 01:08:50,354 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:08:50,355 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:08:50,356 - ServerFedFope_DefaultID - INFO - Round [33/200]	 Avg Client Train Loss: 0.4220	 Avg Client Train Acc: 85.57	 Round Time: 82.65s
+2025-05-22 01:10:11,227 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:10:11,228 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:10:11,228 - ServerFedFope_DefaultID - INFO - Round [34/200]	 Avg Client Train Loss: 0.4191	 Avg Client Train Acc: 85.70	 Round Time: 80.87s
+2025-05-22 01:11:34,533 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:11:34,534 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:11:34,535 - ServerFedFope_DefaultID - INFO - Round [35/200]	 Avg Client Train Loss: 0.4142	 Avg Client Train Acc: 85.83	 Round Time: 83.31s
+2025-05-22 01:12:55,811 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:12:55,812 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:12:55,812 - ServerFedFope_DefaultID - INFO - Round [36/200]	 Avg Client Train Loss: 0.4108	 Avg Client Train Acc: 85.92	 Round Time: 81.28s
+2025-05-22 01:14:19,006 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:14:19,007 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:14:19,008 - ServerFedFope_DefaultID - INFO - Round [37/200]	 Avg Client Train Loss: 0.4081	 Avg Client Train Acc: 86.07	 Round Time: 83.20s
+2025-05-22 01:15:41,164 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:15:41,165 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:15:41,166 - ServerFedFope_DefaultID - INFO - Round [38/200]	 Avg Client Train Loss: 0.4021	 Avg Client Train Acc: 86.27	 Round Time: 82.16s
+2025-05-22 01:17:02,962 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:17:02,963 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:17:02,963 - ServerFedFope_DefaultID - INFO - Round [39/200]	 Avg Client Train Loss: 0.3974	 Avg Client Train Acc: 86.42	 Round Time: 81.80s
+2025-05-22 01:18:25,632 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:18:25,633 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:18:25,634 - ServerFedFope_DefaultID - INFO - Evaluating global model on all clients...
+2025-05-22 01:18:26,409 - ServerFedFope_DefaultID - INFO - Global model evaluation - Weighted Acc: 44.44%, Weighted Loss: 1.4810, Acc StdDev: 18.97
+2025-05-22 01:18:26,412 - ServerFedFope_DefaultID - INFO - Evaluating personalized models on all clients...
+2025-05-22 01:19:48,919 - ServerFedFope_DefaultID - INFO - Personalized model evaluation - Weighted Acc: 85.66%, Weighted Loss: 0.3983, Acc StdDev: 15.23
+2025-05-22 01:19:48,919 - ServerFedFope_DefaultID - INFO - Round [40/200]	 Avg Client Train Loss: 0.3965	 Avg Client Train Acc: 86.49	 Round Time: 82.67s	 Global Test Loss: 1.4810	 Global Test Acc: 44.44 (std:18.97)	 Personalized Test Loss: 0.3983	 Personalized Test Acc: 85.66 (std:15.23)
+2025-05-22 01:21:10,961 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:21:10,963 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:21:10,964 - ServerFedFope_DefaultID - INFO - Round [41/200]	 Avg Client Train Loss: 0.3953	 Avg Client Train Acc: 86.56	 Round Time: 82.04s
+2025-05-22 01:22:34,502 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:22:34,503 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:22:34,503 - ServerFedFope_DefaultID - INFO - Round [42/200]	 Avg Client Train Loss: 0.3920	 Avg Client Train Acc: 86.64	 Round Time: 83.54s
+2025-05-22 01:23:57,000 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:23:57,001 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:23:57,002 - ServerFedFope_DefaultID - INFO - Round [43/200]	 Avg Client Train Loss: 0.3881	 Avg Client Train Acc: 86.77	 Round Time: 82.50s
+2025-05-22 01:25:18,651 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:25:18,652 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:25:18,652 - ServerFedFope_DefaultID - INFO - Round [44/200]	 Avg Client Train Loss: 0.3855	 Avg Client Train Acc: 86.79	 Round Time: 81.65s
+2025-05-22 01:26:40,340 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:26:40,341 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:26:40,341 - ServerFedFope_DefaultID - INFO - Round [45/200]	 Avg Client Train Loss: 0.3787	 Avg Client Train Acc: 87.04	 Round Time: 81.69s
+2025-05-22 01:28:03,105 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:28:03,107 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:28:03,107 - ServerFedFope_DefaultID - INFO - Round [46/200]	 Avg Client Train Loss: 0.3763	 Avg Client Train Acc: 87.15	 Round Time: 82.77s
+2025-05-22 01:29:26,152 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:29:26,153 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:29:26,154 - ServerFedFope_DefaultID - INFO - Round [47/200]	 Avg Client Train Loss: 0.3723	 Avg Client Train Acc: 87.26	 Round Time: 83.05s
+2025-05-22 01:30:47,847 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:30:47,848 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:30:47,848 - ServerFedFope_DefaultID - INFO - Round [48/200]	 Avg Client Train Loss: 0.3721	 Avg Client Train Acc: 87.30	 Round Time: 81.69s
+2025-05-22 01:32:09,586 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:32:09,587 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:32:09,588 - ServerFedFope_DefaultID - INFO - Round [49/200]	 Avg Client Train Loss: 0.3687	 Avg Client Train Acc: 87.38	 Round Time: 81.74s
+2025-05-22 01:33:32,254 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:33:32,255 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:33:32,255 - ServerFedFope_DefaultID - INFO - Round [50/200]	 Avg Client Train Loss: 0.3668	 Avg Client Train Acc: 87.45	 Round Time: 82.67s
+2025-05-22 01:34:54,167 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:34:54,168 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:34:54,168 - ServerFedFope_DefaultID - INFO - Round [51/200]	 Avg Client Train Loss: 0.3649	 Avg Client Train Acc: 87.58	 Round Time: 81.91s
+2025-05-22 01:36:16,047 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:36:16,048 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:36:16,048 - ServerFedFope_DefaultID - INFO - Round [52/200]	 Avg Client Train Loss: 0.3595	 Avg Client Train Acc: 87.71	 Round Time: 81.88s
+2025-05-22 01:37:40,172 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:37:40,173 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:37:40,173 - ServerFedFope_DefaultID - INFO - Round [53/200]	 Avg Client Train Loss: 0.3590	 Avg Client Train Acc: 87.74	 Round Time: 84.12s
+2025-05-22 01:39:02,503 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:39:02,504 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:39:02,504 - ServerFedFope_DefaultID - INFO - Round [54/200]	 Avg Client Train Loss: 0.3589	 Avg Client Train Acc: 87.78	 Round Time: 82.33s
+2025-05-22 01:40:25,553 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:40:25,554 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:40:25,554 - ServerFedFope_DefaultID - INFO - Round [55/200]	 Avg Client Train Loss: 0.3512	 Avg Client Train Acc: 87.96	 Round Time: 83.05s
+2025-05-22 01:41:47,710 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:41:47,711 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:41:47,711 - ServerFedFope_DefaultID - INFO - Round [56/200]	 Avg Client Train Loss: 0.3493	 Avg Client Train Acc: 88.08	 Round Time: 82.16s
+2025-05-22 01:43:09,138 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:43:09,139 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:43:09,139 - ServerFedFope_DefaultID - INFO - Round [57/200]	 Avg Client Train Loss: 0.3464	 Avg Client Train Acc: 88.15	 Round Time: 81.43s
+2025-05-22 01:44:30,632 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:44:30,633 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:44:30,633 - ServerFedFope_DefaultID - INFO - Round [58/200]	 Avg Client Train Loss: 0.3449	 Avg Client Train Acc: 88.20	 Round Time: 81.49s
+2025-05-22 01:45:53,261 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:45:53,262 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:45:53,262 - ServerFedFope_DefaultID - INFO - Round [59/200]	 Avg Client Train Loss: 0.3452	 Avg Client Train Acc: 88.21	 Round Time: 82.63s
+2025-05-22 01:47:15,313 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:47:15,314 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:47:15,314 - ServerFedFope_DefaultID - INFO - Evaluating global model on all clients...
+2025-05-22 01:47:16,092 - ServerFedFope_DefaultID - INFO - Global model evaluation - Weighted Acc: 49.72%, Weighted Loss: 1.3646, Acc StdDev: 17.93
+2025-05-22 01:47:16,094 - ServerFedFope_DefaultID - INFO - Evaluating personalized models on all clients...
+2025-05-22 01:48:37,479 - ServerFedFope_DefaultID - INFO - Personalized model evaluation - Weighted Acc: 87.63%, Weighted Loss: 0.3657, Acc StdDev: 14.65
+2025-05-22 01:48:37,480 - ServerFedFope_DefaultID - INFO - Round [60/200]	 Avg Client Train Loss: 0.3392	 Avg Client Train Acc: 88.38	 Round Time: 82.05s	 Global Test Loss: 1.3646	 Global Test Acc: 49.72 (std:17.93)	 Personalized Test Loss: 0.3657	 Personalized Test Acc: 87.63 (std:14.65)
+2025-05-22 01:49:56,786 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:49:56,787 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:49:56,787 - ServerFedFope_DefaultID - INFO - Round [61/200]	 Avg Client Train Loss: 0.3384	 Avg Client Train Acc: 88.53	 Round Time: 79.31s
+2025-05-22 01:51:16,143 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:51:16,144 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:51:16,145 - ServerFedFope_DefaultID - INFO - Round [62/200]	 Avg Client Train Loss: 0.3366	 Avg Client Train Acc: 88.51	 Round Time: 79.36s
+2025-05-22 01:52:31,045 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:52:31,046 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:52:31,046 - ServerFedFope_DefaultID - INFO - Round [63/200]	 Avg Client Train Loss: 0.3340	 Avg Client Train Acc: 88.61	 Round Time: 74.90s
+2025-05-22 01:53:45,136 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:53:45,138 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:53:45,138 - ServerFedFope_DefaultID - INFO - Round [64/200]	 Avg Client Train Loss: 0.3319	 Avg Client Train Acc: 88.65	 Round Time: 74.09s
+2025-05-22 01:54:59,034 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:54:59,035 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:54:59,035 - ServerFedFope_DefaultID - INFO - Round [65/200]	 Avg Client Train Loss: 0.3283	 Avg Client Train Acc: 88.81	 Round Time: 73.90s
+2025-05-22 01:56:13,514 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:56:13,516 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:56:13,516 - ServerFedFope_DefaultID - INFO - Round [66/200]	 Avg Client Train Loss: 0.3267	 Avg Client Train Acc: 88.88	 Round Time: 74.48s
+2025-05-22 01:57:27,998 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:57:27,999 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:57:28,000 - ServerFedFope_DefaultID - INFO - Round [67/200]	 Avg Client Train Loss: 0.3234	 Avg Client Train Acc: 88.99	 Round Time: 74.48s
+2025-05-22 01:58:42,958 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:58:42,960 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:58:42,960 - ServerFedFope_DefaultID - INFO - Round [68/200]	 Avg Client Train Loss: 0.3237	 Avg Client Train Acc: 88.99	 Round Time: 74.96s
+2025-05-22 01:59:57,685 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 01:59:57,686 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 01:59:57,686 - ServerFedFope_DefaultID - INFO - Round [69/200]	 Avg Client Train Loss: 0.3193	 Avg Client Train Acc: 89.11	 Round Time: 74.73s
+2025-05-22 02:01:12,495 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:01:12,496 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:01:12,496 - ServerFedFope_DefaultID - INFO - Round [70/200]	 Avg Client Train Loss: 0.3169	 Avg Client Train Acc: 89.21	 Round Time: 74.81s
+2025-05-22 02:02:26,394 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:02:26,395 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:02:26,395 - ServerFedFope_DefaultID - INFO - Round [71/200]	 Avg Client Train Loss: 0.3127	 Avg Client Train Acc: 89.38	 Round Time: 73.90s
+2025-05-22 02:03:40,563 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:03:40,564 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:03:40,564 - ServerFedFope_DefaultID - INFO - Round [72/200]	 Avg Client Train Loss: 0.3138	 Avg Client Train Acc: 89.31	 Round Time: 74.17s
+2025-05-22 02:04:55,192 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:04:55,193 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:04:55,193 - ServerFedFope_DefaultID - INFO - Round [73/200]	 Avg Client Train Loss: 0.3091	 Avg Client Train Acc: 89.47	 Round Time: 74.63s
+2025-05-22 02:06:09,659 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:06:09,660 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:06:09,661 - ServerFedFope_DefaultID - INFO - Round [74/200]	 Avg Client Train Loss: 0.3093	 Avg Client Train Acc: 89.50	 Round Time: 74.47s
+2025-05-22 02:07:24,147 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:07:24,148 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:07:24,148 - ServerFedFope_DefaultID - INFO - Round [75/200]	 Avg Client Train Loss: 0.3045	 Avg Client Train Acc: 89.62	 Round Time: 74.49s
+2025-05-22 02:08:39,212 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:08:39,213 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:08:39,214 - ServerFedFope_DefaultID - INFO - Round [76/200]	 Avg Client Train Loss: 0.3035	 Avg Client Train Acc: 89.76	 Round Time: 75.07s
+2025-05-22 02:09:54,086 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:09:54,088 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:09:54,088 - ServerFedFope_DefaultID - INFO - Round [77/200]	 Avg Client Train Loss: 0.2984	 Avg Client Train Acc: 89.91	 Round Time: 74.87s
+2025-05-22 02:11:08,806 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:11:08,808 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:11:08,808 - ServerFedFope_DefaultID - INFO - Round [78/200]	 Avg Client Train Loss: 0.2972	 Avg Client Train Acc: 89.89	 Round Time: 74.72s
+2025-05-22 02:12:24,463 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:12:24,464 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:12:24,465 - ServerFedFope_DefaultID - INFO - Round [79/200]	 Avg Client Train Loss: 0.2966	 Avg Client Train Acc: 90.00	 Round Time: 75.66s
+2025-05-22 02:13:38,956 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:13:38,957 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:13:38,957 - ServerFedFope_DefaultID - INFO - Evaluating global model on all clients...
+2025-05-22 02:13:39,764 - ServerFedFope_DefaultID - INFO - Global model evaluation - Weighted Acc: 53.00%, Weighted Loss: 1.2847, Acc StdDev: 17.22
+2025-05-22 02:13:39,767 - ServerFedFope_DefaultID - INFO - Evaluating personalized models on all clients...
+2025-05-22 02:14:54,758 - ServerFedFope_DefaultID - INFO - Personalized model evaluation - Weighted Acc: 88.12%, Weighted Loss: 0.3613, Acc StdDev: 14.99
+2025-05-22 02:14:54,759 - ServerFedFope_DefaultID - INFO - Round [80/200]	 Avg Client Train Loss: 0.2928	 Avg Client Train Acc: 90.02	 Round Time: 74.49s	 Global Test Loss: 1.2847	 Global Test Acc: 53.00 (std:17.22)	 Personalized Test Loss: 0.3613	 Personalized Test Acc: 88.12 (std:14.99)
+2025-05-22 02:16:08,892 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:16:08,893 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:16:08,894 - ServerFedFope_DefaultID - INFO - Round [81/200]	 Avg Client Train Loss: 0.2933	 Avg Client Train Acc: 90.03	 Round Time: 74.14s
+2025-05-22 02:17:28,370 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:17:28,371 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:17:28,371 - ServerFedFope_DefaultID - INFO - Round [82/200]	 Avg Client Train Loss: 0.2919	 Avg Client Train Acc: 90.18	 Round Time: 79.48s
+2025-05-22 02:18:50,874 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:18:50,875 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:18:50,875 - ServerFedFope_DefaultID - INFO - Round [83/200]	 Avg Client Train Loss: 0.2875	 Avg Client Train Acc: 90.28	 Round Time: 82.50s
+2025-05-22 02:20:10,718 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:20:10,719 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:20:10,720 - ServerFedFope_DefaultID - INFO - Round [84/200]	 Avg Client Train Loss: 0.2855	 Avg Client Train Acc: 90.31	 Round Time: 79.84s
+2025-05-22 02:21:32,128 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:21:32,129 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:21:32,130 - ServerFedFope_DefaultID - INFO - Round [85/200]	 Avg Client Train Loss: 0.2862	 Avg Client Train Acc: 90.30	 Round Time: 81.41s
+2025-05-22 02:22:54,831 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:22:54,832 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:22:54,832 - ServerFedFope_DefaultID - INFO - Round [86/200]	 Avg Client Train Loss: 0.2824	 Avg Client Train Acc: 90.41	 Round Time: 82.70s
+2025-05-22 02:24:17,582 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:24:17,583 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:24:17,583 - ServerFedFope_DefaultID - INFO - Round [87/200]	 Avg Client Train Loss: 0.2814	 Avg Client Train Acc: 90.51	 Round Time: 82.75s
+2025-05-22 02:25:39,338 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:25:39,339 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:25:39,340 - ServerFedFope_DefaultID - INFO - Round [88/200]	 Avg Client Train Loss: 0.2780	 Avg Client Train Acc: 90.63	 Round Time: 81.76s
+2025-05-22 02:27:00,860 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:27:00,861 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:27:00,861 - ServerFedFope_DefaultID - INFO - Round [89/200]	 Avg Client Train Loss: 0.2727	 Avg Client Train Acc: 90.79	 Round Time: 81.52s
+2025-05-22 02:28:22,499 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:28:22,500 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:28:22,500 - ServerFedFope_DefaultID - INFO - Round [90/200]	 Avg Client Train Loss: 0.2725	 Avg Client Train Acc: 90.84	 Round Time: 81.64s
+2025-05-22 02:29:44,230 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:29:44,231 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:29:44,232 - ServerFedFope_DefaultID - INFO - Round [91/200]	 Avg Client Train Loss: 0.2713	 Avg Client Train Acc: 90.86	 Round Time: 81.73s
+2025-05-22 02:31:06,883 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:31:06,884 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:31:06,884 - ServerFedFope_DefaultID - INFO - Round [92/200]	 Avg Client Train Loss: 0.2685	 Avg Client Train Acc: 90.98	 Round Time: 82.65s
+2025-05-22 02:32:28,602 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:32:28,603 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:32:28,603 - ServerFedFope_DefaultID - INFO - Round [93/200]	 Avg Client Train Loss: 0.2664	 Avg Client Train Acc: 91.02	 Round Time: 81.72s
+2025-05-22 02:33:51,143 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:33:51,144 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:33:51,145 - ServerFedFope_DefaultID - INFO - Round [94/200]	 Avg Client Train Loss: 0.2655	 Avg Client Train Acc: 91.03	 Round Time: 82.54s
+2025-05-22 02:35:13,981 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:35:13,982 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:35:13,982 - ServerFedFope_DefaultID - INFO - Round [95/200]	 Avg Client Train Loss: 0.2600	 Avg Client Train Acc: 91.27	 Round Time: 82.84s
+2025-05-22 02:36:36,185 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:36:36,186 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:36:36,187 - ServerFedFope_DefaultID - INFO - Round [96/200]	 Avg Client Train Loss: 0.2590	 Avg Client Train Acc: 91.28	 Round Time: 82.20s
+2025-05-22 02:37:58,944 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:37:58,945 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:37:58,945 - ServerFedFope_DefaultID - INFO - Round [97/200]	 Avg Client Train Loss: 0.2587	 Avg Client Train Acc: 91.27	 Round Time: 82.76s
+2025-05-22 02:39:22,143 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:39:22,144 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:39:22,144 - ServerFedFope_DefaultID - INFO - Round [98/200]	 Avg Client Train Loss: 0.2560	 Avg Client Train Acc: 91.40	 Round Time: 83.20s
+2025-05-22 02:40:43,782 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:40:43,783 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:40:43,783 - ServerFedFope_DefaultID - INFO - Round [99/200]	 Avg Client Train Loss: 0.2536	 Avg Client Train Acc: 91.44	 Round Time: 81.64s
+2025-05-22 02:42:06,282 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:42:06,283 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:42:06,283 - ServerFedFope_DefaultID - INFO - Evaluating global model on all clients...
+2025-05-22 02:42:07,060 - ServerFedFope_DefaultID - INFO - Global model evaluation - Weighted Acc: 56.22%, Weighted Loss: 1.2107, Acc StdDev: 16.66
+2025-05-22 02:42:07,063 - ServerFedFope_DefaultID - INFO - Evaluating personalized models on all clients...
+2025-05-22 02:43:30,090 - ServerFedFope_DefaultID - INFO - Personalized model evaluation - Weighted Acc: 88.51%, Weighted Loss: 0.3611, Acc StdDev: 14.37
+2025-05-22 02:43:30,090 - ServerFedFope_DefaultID - INFO - Round [100/200]	 Avg Client Train Loss: 0.2512	 Avg Client Train Acc: 91.51	 Round Time: 82.50s	 Global Test Loss: 1.2107	 Global Test Acc: 56.22 (std:16.66)	 Personalized Test Loss: 0.3611	 Personalized Test Acc: 88.51 (std:14.37)
+2025-05-22 02:44:52,603 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:44:52,604 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:44:52,604 - ServerFedFope_DefaultID - INFO - Round [101/200]	 Avg Client Train Loss: 0.2526	 Avg Client Train Acc: 91.52	 Round Time: 82.51s
+2025-05-22 02:46:14,888 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:46:14,889 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:46:14,889 - ServerFedFope_DefaultID - INFO - Round [102/200]	 Avg Client Train Loss: 0.2493	 Avg Client Train Acc: 91.62	 Round Time: 82.29s
+2025-05-22 02:47:36,616 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:47:36,617 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:47:36,617 - ServerFedFope_DefaultID - INFO - Round [103/200]	 Avg Client Train Loss: 0.2469	 Avg Client Train Acc: 91.72	 Round Time: 81.73s
+2025-05-22 02:48:58,320 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:48:58,321 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:48:58,322 - ServerFedFope_DefaultID - INFO - Round [104/200]	 Avg Client Train Loss: 0.2447	 Avg Client Train Acc: 91.81	 Round Time: 81.70s
+2025-05-22 02:50:21,317 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:50:21,318 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:50:21,319 - ServerFedFope_DefaultID - INFO - Round [105/200]	 Avg Client Train Loss: 0.2447	 Avg Client Train Acc: 91.79	 Round Time: 83.00s
+2025-05-22 02:51:43,530 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:51:43,531 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:51:43,531 - ServerFedFope_DefaultID - INFO - Round [106/200]	 Avg Client Train Loss: 0.2407	 Avg Client Train Acc: 91.95	 Round Time: 82.21s
+2025-05-22 02:53:06,014 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:53:06,015 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:53:06,016 - ServerFedFope_DefaultID - INFO - Round [107/200]	 Avg Client Train Loss: 0.2416	 Avg Client Train Acc: 91.89	 Round Time: 82.48s
+2025-05-22 02:54:28,279 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:54:28,280 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:54:28,280 - ServerFedFope_DefaultID - INFO - Round [108/200]	 Avg Client Train Loss: 0.2381	 Avg Client Train Acc: 92.05	 Round Time: 82.26s
+2025-05-22 02:55:50,774 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:55:50,775 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:55:50,776 - ServerFedFope_DefaultID - INFO - Round [109/200]	 Avg Client Train Loss: 0.2355	 Avg Client Train Acc: 92.11	 Round Time: 82.50s
+2025-05-22 02:57:12,037 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:57:12,038 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:57:12,038 - ServerFedFope_DefaultID - INFO - Round [110/200]	 Avg Client Train Loss: 0.2295	 Avg Client Train Acc: 92.32	 Round Time: 81.26s
+2025-05-22 02:58:34,499 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:58:34,500 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:58:34,501 - ServerFedFope_DefaultID - INFO - Round [111/200]	 Avg Client Train Loss: 0.2321	 Avg Client Train Acc: 92.20	 Round Time: 82.46s
+2025-05-22 02:59:56,414 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 02:59:56,415 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 02:59:56,415 - ServerFedFope_DefaultID - INFO - Round [112/200]	 Avg Client Train Loss: 0.2290	 Avg Client Train Acc: 92.42	 Round Time: 81.91s
+2025-05-22 03:01:18,460 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:01:18,461 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:01:18,462 - ServerFedFope_DefaultID - INFO - Round [113/200]	 Avg Client Train Loss: 0.2299	 Avg Client Train Acc: 92.30	 Round Time: 82.05s
+2025-05-22 03:02:41,075 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:02:41,076 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:02:41,076 - ServerFedFope_DefaultID - INFO - Round [114/200]	 Avg Client Train Loss: 0.2253	 Avg Client Train Acc: 92.49	 Round Time: 82.61s
+2025-05-22 03:04:02,165 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:04:02,166 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:04:02,167 - ServerFedFope_DefaultID - INFO - Round [115/200]	 Avg Client Train Loss: 0.2241	 Avg Client Train Acc: 92.54	 Round Time: 81.09s
+2025-05-22 03:05:23,927 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:05:23,928 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:05:23,928 - ServerFedFope_DefaultID - INFO - Round [116/200]	 Avg Client Train Loss: 0.2265	 Avg Client Train Acc: 92.51	 Round Time: 81.76s
+2025-05-22 03:06:46,860 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:06:46,861 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:06:46,861 - ServerFedFope_DefaultID - INFO - Round [117/200]	 Avg Client Train Loss: 0.2213	 Avg Client Train Acc: 92.65	 Round Time: 82.93s
+2025-05-22 03:08:08,148 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:08:08,149 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:08:08,149 - ServerFedFope_DefaultID - INFO - Round [118/200]	 Avg Client Train Loss: 0.2178	 Avg Client Train Acc: 92.73	 Round Time: 81.29s
+2025-05-22 03:09:30,445 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:09:30,446 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:09:30,446 - ServerFedFope_DefaultID - INFO - Round [119/200]	 Avg Client Train Loss: 0.2195	 Avg Client Train Acc: 92.71	 Round Time: 82.30s
+2025-05-22 03:10:53,222 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:10:53,223 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:10:53,223 - ServerFedFope_DefaultID - INFO - Evaluating global model on all clients...
+2025-05-22 03:10:54,001 - ServerFedFope_DefaultID - INFO - Global model evaluation - Weighted Acc: 58.88%, Weighted Loss: 1.1546, Acc StdDev: 17.37
+2025-05-22 03:10:54,004 - ServerFedFope_DefaultID - INFO - Evaluating personalized models on all clients...
+2025-05-22 03:12:17,255 - ServerFedFope_DefaultID - INFO - Personalized model evaluation - Weighted Acc: 89.56%, Weighted Loss: 0.3612, Acc StdDev: 14.19
+2025-05-22 03:12:17,255 - ServerFedFope_DefaultID - INFO - Round [120/200]	 Avg Client Train Loss: 0.2184	 Avg Client Train Acc: 92.76	 Round Time: 82.78s	 Global Test Loss: 1.1546	 Global Test Acc: 58.88 (std:17.37)	 Personalized Test Loss: 0.3612	 Personalized Test Acc: 89.56 (std:14.19)
+2025-05-22 03:13:41,462 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:13:41,463 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:13:41,463 - ServerFedFope_DefaultID - INFO - Round [121/200]	 Avg Client Train Loss: 0.2147	 Avg Client Train Acc: 92.89	 Round Time: 84.21s
+2025-05-22 03:15:02,981 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:15:02,983 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:15:02,983 - ServerFedFope_DefaultID - INFO - Round [122/200]	 Avg Client Train Loss: 0.2149	 Avg Client Train Acc: 92.84	 Round Time: 81.52s
+2025-05-22 03:16:26,119 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:16:26,120 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:16:26,120 - ServerFedFope_DefaultID - INFO - Round [123/200]	 Avg Client Train Loss: 0.2143	 Avg Client Train Acc: 92.89	 Round Time: 83.14s
+2025-05-22 03:17:48,881 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:17:48,882 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:17:48,882 - ServerFedFope_DefaultID - INFO - Round [124/200]	 Avg Client Train Loss: 0.2095	 Avg Client Train Acc: 93.08	 Round Time: 82.76s
+2025-05-22 03:19:10,933 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:19:10,934 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:19:10,934 - ServerFedFope_DefaultID - INFO - Round [125/200]	 Avg Client Train Loss: 0.2082	 Avg Client Train Acc: 93.12	 Round Time: 82.05s
+2025-05-22 03:20:32,998 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:20:32,999 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:20:32,999 - ServerFedFope_DefaultID - INFO - Round [126/200]	 Avg Client Train Loss: 0.2069	 Avg Client Train Acc: 93.18	 Round Time: 82.06s
+2025-05-22 03:21:55,602 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:21:55,603 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:21:55,603 - ServerFedFope_DefaultID - INFO - Round [127/200]	 Avg Client Train Loss: 0.2055	 Avg Client Train Acc: 93.15	 Round Time: 82.60s
+2025-05-22 03:23:17,463 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:23:17,464 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:23:17,464 - ServerFedFope_DefaultID - INFO - Round [128/200]	 Avg Client Train Loss: 0.2089	 Avg Client Train Acc: 93.00	 Round Time: 81.86s
+2025-05-22 03:24:39,554 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:24:39,556 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:24:39,556 - ServerFedFope_DefaultID - INFO - Round [129/200]	 Avg Client Train Loss: 0.2037	 Avg Client Train Acc: 93.23	 Round Time: 82.09s
+2025-05-22 03:26:02,068 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:26:02,069 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:26:02,069 - ServerFedFope_DefaultID - INFO - Round [130/200]	 Avg Client Train Loss: 0.2010	 Avg Client Train Acc: 93.36	 Round Time: 82.51s
+2025-05-22 03:27:24,995 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:27:24,996 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:27:24,996 - ServerFedFope_DefaultID - INFO - Round [131/200]	 Avg Client Train Loss: 0.2007	 Avg Client Train Acc: 93.33	 Round Time: 82.93s
+2025-05-22 03:28:47,273 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:28:47,274 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:28:47,274 - ServerFedFope_DefaultID - INFO - Round [132/200]	 Avg Client Train Loss: 0.1982	 Avg Client Train Acc: 93.44	 Round Time: 82.28s
+2025-05-22 03:30:09,776 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:30:09,777 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:30:09,777 - ServerFedFope_DefaultID - INFO - Round [133/200]	 Avg Client Train Loss: 0.1994	 Avg Client Train Acc: 93.41	 Round Time: 82.50s
+2025-05-22 03:31:32,398 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:31:32,399 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:31:32,399 - ServerFedFope_DefaultID - INFO - Round [134/200]	 Avg Client Train Loss: 0.1962	 Avg Client Train Acc: 93.56	 Round Time: 82.62s
+2025-05-22 03:32:54,504 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:32:54,505 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:32:54,505 - ServerFedFope_DefaultID - INFO - Round [135/200]	 Avg Client Train Loss: 0.1968	 Avg Client Train Acc: 93.51	 Round Time: 82.11s
+2025-05-22 03:34:16,489 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:34:16,490 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:34:16,490 - ServerFedFope_DefaultID - INFO - Round [136/200]	 Avg Client Train Loss: 0.1940	 Avg Client Train Acc: 93.60	 Round Time: 81.99s
+2025-05-22 03:35:38,731 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:35:38,732 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:35:38,732 - ServerFedFope_DefaultID - INFO - Round [137/200]	 Avg Client Train Loss: 0.1912	 Avg Client Train Acc: 93.75	 Round Time: 82.24s
+2025-05-22 03:37:01,626 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:37:01,627 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:37:01,627 - ServerFedFope_DefaultID - INFO - Round [138/200]	 Avg Client Train Loss: 0.1912	 Avg Client Train Acc: 93.73	 Round Time: 82.90s
+2025-05-22 03:38:23,962 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:38:23,963 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:38:23,964 - ServerFedFope_DefaultID - INFO - Round [139/200]	 Avg Client Train Loss: 0.1882	 Avg Client Train Acc: 93.84	 Round Time: 82.34s
+2025-05-22 03:39:45,798 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:39:45,799 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:39:45,799 - ServerFedFope_DefaultID - INFO - Evaluating global model on all clients...
+2025-05-22 03:39:46,576 - ServerFedFope_DefaultID - INFO - Global model evaluation - Weighted Acc: 60.32%, Weighted Loss: 1.1202, Acc StdDev: 16.94
+2025-05-22 03:39:46,579 - ServerFedFope_DefaultID - INFO - Evaluating personalized models on all clients...
+2025-05-22 03:41:09,897 - ServerFedFope_DefaultID - INFO - Personalized model evaluation - Weighted Acc: 89.40%, Weighted Loss: 0.3661, Acc StdDev: 13.91
+2025-05-22 03:41:09,898 - ServerFedFope_DefaultID - INFO - Round [140/200]	 Avg Client Train Loss: 0.1880	 Avg Client Train Acc: 93.81	 Round Time: 81.84s	 Global Test Loss: 1.1202	 Global Test Acc: 60.32 (std:16.94)	 Personalized Test Loss: 0.3661	 Personalized Test Acc: 89.40 (std:13.91)
+2025-05-22 03:42:32,315 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:42:32,316 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:42:32,316 - ServerFedFope_DefaultID - INFO - Round [141/200]	 Avg Client Train Loss: 0.1860	 Avg Client Train Acc: 93.86	 Round Time: 82.42s
+2025-05-22 03:43:54,279 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:43:54,280 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:43:54,280 - ServerFedFope_DefaultID - INFO - Round [142/200]	 Avg Client Train Loss: 0.1882	 Avg Client Train Acc: 93.78	 Round Time: 81.96s
+2025-05-22 03:45:15,691 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:45:15,692 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:45:15,693 - ServerFedFope_DefaultID - INFO - Round [143/200]	 Avg Client Train Loss: 0.1857	 Avg Client Train Acc: 93.89	 Round Time: 81.41s
+2025-05-22 03:46:38,170 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:46:38,172 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:46:38,172 - ServerFedFope_DefaultID - INFO - Round [144/200]	 Avg Client Train Loss: 0.1815	 Avg Client Train Acc: 94.07	 Round Time: 82.48s
+2025-05-22 03:47:59,211 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:47:59,212 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:47:59,212 - ServerFedFope_DefaultID - INFO - Round [145/200]	 Avg Client Train Loss: 0.1817	 Avg Client Train Acc: 94.09	 Round Time: 81.04s
+2025-05-22 03:49:21,126 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:49:21,127 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:49:21,128 - ServerFedFope_DefaultID - INFO - Round [146/200]	 Avg Client Train Loss: 0.1805	 Avg Client Train Acc: 94.08	 Round Time: 81.92s
+2025-05-22 03:50:43,790 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:50:43,791 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:50:43,792 - ServerFedFope_DefaultID - INFO - Round [147/200]	 Avg Client Train Loss: 0.1793	 Avg Client Train Acc: 94.16	 Round Time: 82.66s
+2025-05-22 03:52:06,772 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:52:06,773 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:52:06,773 - ServerFedFope_DefaultID - INFO - Round [148/200]	 Avg Client Train Loss: 0.1803	 Avg Client Train Acc: 94.11	 Round Time: 82.98s
+2025-05-22 03:53:29,806 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:53:29,807 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:53:29,807 - ServerFedFope_DefaultID - INFO - Round [149/200]	 Avg Client Train Loss: 0.1779	 Avg Client Train Acc: 94.16	 Round Time: 83.03s
+2025-05-22 03:54:52,590 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:54:52,591 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:54:52,591 - ServerFedFope_DefaultID - INFO - Round [150/200]	 Avg Client Train Loss: 0.1768	 Avg Client Train Acc: 94.24	 Round Time: 82.78s
+2025-05-22 03:56:14,256 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:56:14,257 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:56:14,257 - ServerFedFope_DefaultID - INFO - Round [151/200]	 Avg Client Train Loss: 0.1748	 Avg Client Train Acc: 94.31	 Round Time: 81.67s
+2025-05-22 03:57:35,854 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:57:35,855 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:57:35,855 - ServerFedFope_DefaultID - INFO - Round [152/200]	 Avg Client Train Loss: 0.1733	 Avg Client Train Acc: 94.38	 Round Time: 81.60s
+2025-05-22 03:58:57,939 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 03:58:57,940 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 03:58:57,940 - ServerFedFope_DefaultID - INFO - Round [153/200]	 Avg Client Train Loss: 0.1733	 Avg Client Train Acc: 94.35	 Round Time: 82.09s
+2025-05-22 04:00:19,615 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:00:19,616 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:00:19,616 - ServerFedFope_DefaultID - INFO - Round [154/200]	 Avg Client Train Loss: 0.1748	 Avg Client Train Acc: 94.26	 Round Time: 81.68s
+2025-05-22 04:01:42,519 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:01:42,520 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:01:42,520 - ServerFedFope_DefaultID - INFO - Round [155/200]	 Avg Client Train Loss: 0.1731	 Avg Client Train Acc: 94.33	 Round Time: 82.90s
+2025-05-22 04:03:04,295 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:03:04,296 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:03:04,296 - ServerFedFope_DefaultID - INFO - Round [156/200]	 Avg Client Train Loss: 0.1701	 Avg Client Train Acc: 94.46	 Round Time: 81.78s
+2025-05-22 04:04:26,500 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:04:26,501 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:04:26,501 - ServerFedFope_DefaultID - INFO - Round [157/200]	 Avg Client Train Loss: 0.1675	 Avg Client Train Acc: 94.57	 Round Time: 82.20s
+2025-05-22 04:05:49,544 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:05:49,545 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:05:49,545 - ServerFedFope_DefaultID - INFO - Round [158/200]	 Avg Client Train Loss: 0.1679	 Avg Client Train Acc: 94.58	 Round Time: 83.04s
+2025-05-22 04:07:11,474 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:07:11,475 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:07:11,475 - ServerFedFope_DefaultID - INFO - Round [159/200]	 Avg Client Train Loss: 0.1671	 Avg Client Train Acc: 94.60	 Round Time: 81.93s
+2025-05-22 04:08:35,178 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:08:35,179 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:08:35,179 - ServerFedFope_DefaultID - INFO - Evaluating global model on all clients...
+2025-05-22 04:08:35,958 - ServerFedFope_DefaultID - INFO - Global model evaluation - Weighted Acc: 60.78%, Weighted Loss: 1.0966, Acc StdDev: 17.29
+2025-05-22 04:08:35,961 - ServerFedFope_DefaultID - INFO - Evaluating personalized models on all clients...
+2025-05-22 04:09:59,178 - ServerFedFope_DefaultID - INFO - Personalized model evaluation - Weighted Acc: 89.60%, Weighted Loss: 0.3683, Acc StdDev: 13.44
+2025-05-22 04:09:59,178 - ServerFedFope_DefaultID - INFO - Round [160/200]	 Avg Client Train Loss: 0.1656	 Avg Client Train Acc: 94.61	 Round Time: 83.70s	 Global Test Loss: 1.0966	 Global Test Acc: 60.78 (std:17.29)	 Personalized Test Loss: 0.3683	 Personalized Test Acc: 89.60 (std:13.44)
+2025-05-22 04:11:21,409 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:11:21,410 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:11:21,411 - ServerFedFope_DefaultID - INFO - Round [161/200]	 Avg Client Train Loss: 0.1648	 Avg Client Train Acc: 94.62	 Round Time: 82.23s
+2025-05-22 04:12:44,259 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:12:44,260 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:12:44,260 - ServerFedFope_DefaultID - INFO - Round [162/200]	 Avg Client Train Loss: 0.1617	 Avg Client Train Acc: 94.80	 Round Time: 82.85s
+2025-05-22 04:14:06,785 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:14:06,786 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:14:06,786 - ServerFedFope_DefaultID - INFO - Round [163/200]	 Avg Client Train Loss: 0.1626	 Avg Client Train Acc: 94.72	 Round Time: 82.53s
+2025-05-22 04:15:29,818 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:15:29,819 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:15:29,819 - ServerFedFope_DefaultID - INFO - Round [164/200]	 Avg Client Train Loss: 0.1576	 Avg Client Train Acc: 94.89	 Round Time: 83.03s
+2025-05-22 04:16:52,312 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:16:52,313 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:16:52,313 - ServerFedFope_DefaultID - INFO - Round [165/200]	 Avg Client Train Loss: 0.1594	 Avg Client Train Acc: 94.82	 Round Time: 82.49s
+2025-05-22 04:18:14,646 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:18:14,647 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:18:14,647 - ServerFedFope_DefaultID - INFO - Round [166/200]	 Avg Client Train Loss: 0.1612	 Avg Client Train Acc: 94.74	 Round Time: 82.33s
+2025-05-22 04:19:36,581 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:19:36,582 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:19:36,583 - ServerFedFope_DefaultID - INFO - Round [167/200]	 Avg Client Train Loss: 0.1555	 Avg Client Train Acc: 94.98	 Round Time: 81.94s
+2025-05-22 04:20:58,715 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:20:58,716 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:20:58,717 - ServerFedFope_DefaultID - INFO - Round [168/200]	 Avg Client Train Loss: 0.1548	 Avg Client Train Acc: 94.99	 Round Time: 82.13s
+2025-05-22 04:22:21,593 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:22:21,594 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:22:21,594 - ServerFedFope_DefaultID - INFO - Round [169/200]	 Avg Client Train Loss: 0.1566	 Avg Client Train Acc: 94.89	 Round Time: 82.88s
+2025-05-22 04:23:44,373 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:23:44,374 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:23:44,374 - ServerFedFope_DefaultID - INFO - Round [170/200]	 Avg Client Train Loss: 0.1546	 Avg Client Train Acc: 94.98	 Round Time: 82.78s
+2025-05-22 04:25:06,532 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:25:06,533 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:25:06,533 - ServerFedFope_DefaultID - INFO - Round [171/200]	 Avg Client Train Loss: 0.1535	 Avg Client Train Acc: 95.02	 Round Time: 82.16s
+2025-05-22 04:26:29,358 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:26:29,359 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:26:29,359 - ServerFedFope_DefaultID - INFO - Round [172/200]	 Avg Client Train Loss: 0.1514	 Avg Client Train Acc: 95.09	 Round Time: 82.83s
+2025-05-22 04:27:51,988 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:27:51,989 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:27:51,989 - ServerFedFope_DefaultID - INFO - Round [173/200]	 Avg Client Train Loss: 0.1522	 Avg Client Train Acc: 95.10	 Round Time: 82.63s
+2025-05-22 04:29:15,271 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:29:15,272 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:29:15,272 - ServerFedFope_DefaultID - INFO - Round [174/200]	 Avg Client Train Loss: 0.1530	 Avg Client Train Acc: 95.10	 Round Time: 83.28s
+2025-05-22 04:30:36,706 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:30:36,707 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:30:36,707 - ServerFedFope_DefaultID - INFO - Round [175/200]	 Avg Client Train Loss: 0.1482	 Avg Client Train Acc: 95.23	 Round Time: 81.44s
+2025-05-22 04:31:58,563 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:31:58,564 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:31:58,564 - ServerFedFope_DefaultID - INFO - Round [176/200]	 Avg Client Train Loss: 0.1509	 Avg Client Train Acc: 95.09	 Round Time: 81.86s
+2025-05-22 04:33:19,806 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:33:19,807 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:33:19,807 - ServerFedFope_DefaultID - INFO - Round [177/200]	 Avg Client Train Loss: 0.1515	 Avg Client Train Acc: 95.17	 Round Time: 81.24s
+2025-05-22 04:34:42,773 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:34:42,774 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:34:42,774 - ServerFedFope_DefaultID - INFO - Round [178/200]	 Avg Client Train Loss: 0.1451	 Avg Client Train Acc: 95.36	 Round Time: 82.97s
+2025-05-22 04:36:06,630 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:36:06,631 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:36:06,631 - ServerFedFope_DefaultID - INFO - Round [179/200]	 Avg Client Train Loss: 0.1460	 Avg Client Train Acc: 95.30	 Round Time: 83.86s
+2025-05-22 04:37:29,668 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:37:29,669 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:37:29,669 - ServerFedFope_DefaultID - INFO - Evaluating global model on all clients...
+2025-05-22 04:37:30,448 - ServerFedFope_DefaultID - INFO - Global model evaluation - Weighted Acc: 61.63%, Weighted Loss: 1.0833, Acc StdDev: 16.87
+2025-05-22 04:37:30,451 - ServerFedFope_DefaultID - INFO - Evaluating personalized models on all clients...
+2025-05-22 04:38:52,650 - ServerFedFope_DefaultID - INFO - Personalized model evaluation - Weighted Acc: 89.99%, Weighted Loss: 0.3711, Acc StdDev: 13.98
+2025-05-22 04:38:52,650 - ServerFedFope_DefaultID - INFO - Round [180/200]	 Avg Client Train Loss: 0.1461	 Avg Client Train Acc: 95.29	 Round Time: 83.04s	 Global Test Loss: 1.0833	 Global Test Acc: 61.63 (std:16.87)	 Personalized Test Loss: 0.3711	 Personalized Test Acc: 89.99 (std:13.98)
+2025-05-22 04:40:14,978 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:40:14,979 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:40:14,979 - ServerFedFope_DefaultID - INFO - Round [181/200]	 Avg Client Train Loss: 0.1449	 Avg Client Train Acc: 95.34	 Round Time: 82.33s
+2025-05-22 04:41:37,942 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:41:37,943 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:41:37,943 - ServerFedFope_DefaultID - INFO - Round [182/200]	 Avg Client Train Loss: 0.1459	 Avg Client Train Acc: 95.26	 Round Time: 82.96s
+2025-05-22 04:43:00,252 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:43:00,253 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:43:00,253 - ServerFedFope_DefaultID - INFO - Round [183/200]	 Avg Client Train Loss: 0.1454	 Avg Client Train Acc: 95.33	 Round Time: 82.31s
+2025-05-22 04:44:23,541 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:44:23,542 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:44:23,542 - ServerFedFope_DefaultID - INFO - Round [184/200]	 Avg Client Train Loss: 0.1450	 Avg Client Train Acc: 95.29	 Round Time: 83.29s
+2025-05-22 04:45:45,629 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:45:45,630 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:45:45,630 - ServerFedFope_DefaultID - INFO - Round [185/200]	 Avg Client Train Loss: 0.1445	 Avg Client Train Acc: 95.37	 Round Time: 82.09s
+2025-05-22 04:47:08,458 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:47:08,459 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:47:08,460 - ServerFedFope_DefaultID - INFO - Round [186/200]	 Avg Client Train Loss: 0.1434	 Avg Client Train Acc: 95.41	 Round Time: 82.83s
+2025-05-22 04:48:30,615 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:48:30,616 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:48:30,616 - ServerFedFope_DefaultID - INFO - Round [187/200]	 Avg Client Train Loss: 0.1425	 Avg Client Train Acc: 95.46	 Round Time: 82.16s
+2025-05-22 04:49:52,480 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:49:52,481 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:49:52,481 - ServerFedFope_DefaultID - INFO - Round [188/200]	 Avg Client Train Loss: 0.1430	 Avg Client Train Acc: 95.41	 Round Time: 81.86s
+2025-05-22 04:51:15,129 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:51:15,130 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:51:15,130 - ServerFedFope_DefaultID - INFO - Round [189/200]	 Avg Client Train Loss: 0.1391	 Avg Client Train Acc: 95.56	 Round Time: 82.65s
+2025-05-22 04:52:37,734 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:52:37,735 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:52:37,735 - ServerFedFope_DefaultID - INFO - Round [190/200]	 Avg Client Train Loss: 0.1372	 Avg Client Train Acc: 95.59	 Round Time: 82.60s
+2025-05-22 04:54:00,679 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:54:00,680 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:54:00,680 - ServerFedFope_DefaultID - INFO - Round [191/200]	 Avg Client Train Loss: 0.1369	 Avg Client Train Acc: 95.63	 Round Time: 82.94s
+2025-05-22 04:55:22,137 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:55:22,138 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:55:22,138 - ServerFedFope_DefaultID - INFO - Round [192/200]	 Avg Client Train Loss: 0.1387	 Avg Client Train Acc: 95.56	 Round Time: 81.46s
+2025-05-22 04:56:44,413 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:56:44,414 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:56:44,415 - ServerFedFope_DefaultID - INFO - Round [193/200]	 Avg Client Train Loss: 0.1340	 Avg Client Train Acc: 95.71	 Round Time: 82.28s
+2025-05-22 04:58:06,589 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:58:06,590 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:58:06,591 - ServerFedFope_DefaultID - INFO - Round [194/200]	 Avg Client Train Loss: 0.1355	 Avg Client Train Acc: 95.64	 Round Time: 82.18s
+2025-05-22 04:59:29,618 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 04:59:29,619 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 04:59:29,619 - ServerFedFope_DefaultID - INFO - Round [195/200]	 Avg Client Train Loss: 0.1349	 Avg Client Train Acc: 95.68	 Round Time: 83.03s
+2025-05-22 05:00:51,021 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 05:00:51,022 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 05:00:51,022 - ServerFedFope_DefaultID - INFO - Round [196/200]	 Avg Client Train Loss: 0.1342	 Avg Client Train Acc: 95.63	 Round Time: 81.40s
+2025-05-22 05:02:13,449 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 05:02:13,450 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 05:02:13,450 - ServerFedFope_DefaultID - INFO - Round [197/200]	 Avg Client Train Loss: 0.1356	 Avg Client Train Acc: 95.66	 Round Time: 82.43s
+2025-05-22 05:03:36,079 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 05:03:36,080 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 05:03:36,081 - ServerFedFope_DefaultID - INFO - Round [198/200]	 Avg Client Train Loss: 0.1350	 Avg Client Train Acc: 95.69	 Round Time: 82.63s
+2025-05-22 05:04:58,516 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 05:04:58,517 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 05:04:58,517 - ServerFedFope_DefaultID - INFO - Round [199/200]	 Avg Client Train Loss: 0.1335	 Avg Client Train Acc: 95.72	 Round Time: 82.44s
+2025-05-22 05:06:17,920 - ServerFedFope_DefaultID - INFO - Applying trimmed mean aggregation: trim_percentage=0.1, k_trim=10 from each end.
+2025-05-22 05:06:17,921 - ServerFedFope_DefaultID - INFO - Global model updated with aggregated Fourier delta.
+2025-05-22 05:06:17,921 - ServerFedFope_DefaultID - INFO - Evaluating global model on all clients...
+2025-05-22 05:06:18,686 - ServerFedFope_DefaultID - INFO - Global model evaluation - Weighted Acc: 62.03%, Weighted Loss: 1.0788, Acc StdDev: 16.70
+2025-05-22 05:06:18,688 - ServerFedFope_DefaultID - INFO - Evaluating personalized models on all clients...
+2025-05-22 05:07:21,937 - ServerFedFope_DefaultID - INFO - Personalized model evaluation - Weighted Acc: 90.02%, Weighted Loss: 0.3788, Acc StdDev: 12.96
+2025-05-22 05:07:21,937 - ServerFedFope_DefaultID - INFO - Round [200/200]	 Avg Client Train Loss: 0.1304	 Avg Client Train Acc: 95.79	 Round Time: 79.40s	 Global Test Loss: 1.0788	 Global Test Acc: 62.03 (std:16.70)	 Personalized Test Loss: 0.3788	 Personalized Test Acc: 90.02 (std:12.96)
+2025-05-22 05:07:21,937 - ServerFedFope_DefaultID - INFO - FedFope training finished.
+Training FedFope...
+Method took (nan, nan) seconds per training iteration
+Method took (16297.10) total seconds

@@ -1,0 +1,802 @@
+Initializing FlowMatchingModel with param_dim=107690
+Training FedAvg...
+Global model updated via Flow-Assisted Aggregation.
+Round [1/200]	 Train Loss [1.6096]	 Train Acc [42.16]	 Train Time [35.77]
+Training Flow Model...
+Round 2 Flow Model Training Avg Loss: 0.5503
+Global model updated via Flow-Assisted Aggregation.
+Round [2/200]	 Train Loss [1.3684]	 Train Acc [51.45]	 Train Time [52.50]
+Training Flow Model...
+Round 3 Flow Model Training Avg Loss: 0.5446
+Global model updated via Flow-Assisted Aggregation.
+Round [3/200]	 Train Loss [1.1224]	 Train Acc [58.39]	 Train Time [29.35]
+Training Flow Model...
+Round 4 Flow Model Training Avg Loss: 0.5430
+Global model updated via Flow-Assisted Aggregation.
+Round [4/200]	 Train Loss [1.0902]	 Train Acc [61.48]	 Train Time [43.49]
+Training Flow Model...
+Round 5 Flow Model Training Avg Loss: 0.5478
+Global model updated via Flow-Assisted Aggregation.
+Round [5/200]	 Train Loss [0.9629]	 Train Acc [66.06]	 Train Time [31.01]
+Training Flow Model...
+Round 6 Flow Model Training Avg Loss: 0.5343
+Global model updated via Flow-Assisted Aggregation.
+Round [6/200]	 Train Loss [0.8692]	 Train Acc [69.26]	 Train Time [29.62]
+Training Flow Model...
+Round 7 Flow Model Training Avg Loss: 0.5324
+Global model updated via Flow-Assisted Aggregation.
+Round [7/200]	 Train Loss [0.8493]	 Train Acc [69.67]	 Train Time [33.12]
+Training Flow Model...
+Round 8 Flow Model Training Avg Loss: 0.5248
+Global model updated via Flow-Assisted Aggregation.
+Round [8/200]	 Train Loss [0.6447]	 Train Acc [77.17]	 Train Time [36.01]
+Training Flow Model...
+Round 9 Flow Model Training Avg Loss: 0.5612
+Global model updated via Flow-Assisted Aggregation.
+Round [9/200]	 Train Loss [0.6101]	 Train Acc [78.92]	 Train Time [47.06]
+Training Flow Model...
+Round 10 Flow Model Training Avg Loss: 0.5223
+Global model updated via Flow-Assisted Aggregation.
+Round [10/200]	 Train Loss [0.5470]	 Train Acc [81.13]	 Train Time [37.66]
+Training Flow Model...
+Round 11 Flow Model Training Avg Loss: 0.5237
+Global model updated via Flow-Assisted Aggregation.
+Round [11/200]	 Train Loss [0.4673]	 Train Acc [84.25]	 Train Time [47.86]
+Training Flow Model...
+Round 12 Flow Model Training Avg Loss: 0.5412
+Global model updated via Flow-Assisted Aggregation.
+Round [12/200]	 Train Loss [0.4043]	 Train Acc [86.71]	 Train Time [38.90]
+Training Flow Model...
+Round 13 Flow Model Training Avg Loss: 0.5532
+Global model updated via Flow-Assisted Aggregation.
+Round [13/200]	 Train Loss [0.4113]	 Train Acc [86.83]	 Train Time [51.80]
+Training Flow Model...
+Round 14 Flow Model Training Avg Loss: 0.5181
+Global model updated via Flow-Assisted Aggregation.
+Round [14/200]	 Train Loss [0.3335]	 Train Acc [89.28]	 Train Time [43.49]
+Training Flow Model...
+Round 15 Flow Model Training Avg Loss: 0.5476
+Global model updated via Flow-Assisted Aggregation.
+Round [15/200]	 Train Loss [0.3189]	 Train Acc [89.95]	 Train Time [38.30]
+Training Flow Model...
+Round 16 Flow Model Training Avg Loss: 0.5501
+Global model updated via Flow-Assisted Aggregation.
+Round [16/200]	 Train Loss [0.2832]	 Train Acc [90.98]	 Train Time [41.13]
+Training Flow Model...
+Round 17 Flow Model Training Avg Loss: 0.5425
+Global model updated via Flow-Assisted Aggregation.
+Round [17/200]	 Train Loss [0.2856]	 Train Acc [90.95]	 Train Time [50.33]
+Training Flow Model...
+Round 18 Flow Model Training Avg Loss: 0.5517
+Global model updated via Flow-Assisted Aggregation.
+Round [18/200]	 Train Loss [0.2751]	 Train Acc [91.28]	 Train Time [44.44]
+Training Flow Model...
+Round 19 Flow Model Training Avg Loss: 0.5186
+Global model updated via Flow-Assisted Aggregation.
+Round [19/200]	 Train Loss [0.2404]	 Train Acc [92.57]	 Train Time [35.02]
+Training Flow Model...
+Round 20 Flow Model Training Avg Loss: 0.5201
+Global model updated via Flow-Assisted Aggregation.
+Round [20/200]	 Train Loss [0.2443]	 Train Acc [92.37]	 Test Loss [1.6050|1.5919]	 Test Acc [52.64(14.19)|68.40(12.85)]	 Train Time [45.93]
+Training Flow Model...
+Round 21 Flow Model Training Avg Loss: 0.5314
+Global model updated via Flow-Assisted Aggregation.
+Round [21/200]	 Train Loss [0.2489]	 Train Acc [92.29]	 Train Time [41.64]
+Training Flow Model...
+Round 22 Flow Model Training Avg Loss: 0.5045
+Global model updated via Flow-Assisted Aggregation.
+Round [22/200]	 Train Loss [0.2322]	 Train Acc [92.88]	 Train Time [39.25]
+Training Flow Model...
+Round 23 Flow Model Training Avg Loss: 0.5243
+Global model updated via Flow-Assisted Aggregation.
+Round [23/200]	 Train Loss [0.2155]	 Train Acc [93.29]	 Train Time [48.93]
+Training Flow Model...
+Round 24 Flow Model Training Avg Loss: 0.5074
+Global model updated via Flow-Assisted Aggregation.
+Round [24/200]	 Train Loss [0.2034]	 Train Acc [93.73]	 Train Time [47.08]
+Training Flow Model...
+Round 25 Flow Model Training Avg Loss: 0.5245
+Global model updated via Flow-Assisted Aggregation.
+Round [25/200]	 Train Loss [0.1961]	 Train Acc [93.97]	 Train Time [31.22]
+Training Flow Model...
+Round 26 Flow Model Training Avg Loss: 0.5177
+Global model updated via Flow-Assisted Aggregation.
+Round [26/200]	 Train Loss [0.2041]	 Train Acc [93.89]	 Train Time [40.44]
+Training Flow Model...
+Round 27 Flow Model Training Avg Loss: 0.5548
+Global model updated via Flow-Assisted Aggregation.
+Round [27/200]	 Train Loss [0.1847]	 Train Acc [94.27]	 Train Time [39.54]
+Training Flow Model...
+Round 28 Flow Model Training Avg Loss: 0.5267
+Global model updated via Flow-Assisted Aggregation.
+Round [28/200]	 Train Loss [0.2020]	 Train Acc [93.87]	 Train Time [48.30]
+Training Flow Model...
+Round 29 Flow Model Training Avg Loss: 0.5040
+Global model updated via Flow-Assisted Aggregation.
+Round [29/200]	 Train Loss [0.1763]	 Train Acc [94.54]	 Train Time [37.71]
+Training Flow Model...
+Round 30 Flow Model Training Avg Loss: 0.5093
+Global model updated via Flow-Assisted Aggregation.
+Round [30/200]	 Train Loss [0.1840]	 Train Acc [94.29]	 Train Time [40.56]
+Training Flow Model...
+Round 31 Flow Model Training Avg Loss: 0.5434
+Global model updated via Flow-Assisted Aggregation.
+Round [31/200]	 Train Loss [0.1800]	 Train Acc [94.59]	 Train Time [30.85]
+Training Flow Model...
+Round 32 Flow Model Training Avg Loss: 0.5088
+Global model updated via Flow-Assisted Aggregation.
+Round [32/200]	 Train Loss [0.1740]	 Train Acc [94.68]	 Train Time [47.55]
+Training Flow Model...
+Round 33 Flow Model Training Avg Loss: 0.5336
+Global model updated via Flow-Assisted Aggregation.
+Round [33/200]	 Train Loss [0.1686]	 Train Acc [94.88]	 Train Time [44.28]
+Training Flow Model...
+Round 34 Flow Model Training Avg Loss: 0.5247
+Global model updated via Flow-Assisted Aggregation.
+Round [34/200]	 Train Loss [0.1534]	 Train Acc [95.28]	 Train Time [40.09]
+Training Flow Model...
+Round 35 Flow Model Training Avg Loss: 0.5463
+Global model updated via Flow-Assisted Aggregation.
+Round [35/200]	 Train Loss [0.1546]	 Train Acc [95.31]	 Train Time [33.86]
+Training Flow Model...
+Round 36 Flow Model Training Avg Loss: 0.4872
+Global model updated via Flow-Assisted Aggregation.
+Round [36/200]	 Train Loss [0.1513]	 Train Acc [95.42]	 Train Time [38.64]
+Training Flow Model...
+Round 37 Flow Model Training Avg Loss: 0.5407
+Global model updated via Flow-Assisted Aggregation.
+Round [37/200]	 Train Loss [0.1646]	 Train Acc [95.03]	 Train Time [63.69]
+Training Flow Model...
+Round 38 Flow Model Training Avg Loss: 0.4965
+Global model updated via Flow-Assisted Aggregation.
+Round [38/200]	 Train Loss [0.1396]	 Train Acc [95.76]	 Train Time [40.17]
+Training Flow Model...
+Round 39 Flow Model Training Avg Loss: 0.5249
+Global model updated via Flow-Assisted Aggregation.
+Round [39/200]	 Train Loss [0.1622]	 Train Acc [95.10]	 Train Time [39.85]
+Training Flow Model...
+Round 40 Flow Model Training Avg Loss: 0.5101
+Global model updated via Flow-Assisted Aggregation.
+Round [40/200]	 Train Loss [0.1597]	 Train Acc [95.19]	 Test Loss [1.4076|1.4839]	 Test Acc [57.36(12.01)|70.04(11.46)]	 Train Time [42.77]
+Training Flow Model...
+Round 41 Flow Model Training Avg Loss: 0.5113
+Global model updated via Flow-Assisted Aggregation.
+Round [41/200]	 Train Loss [0.1358]	 Train Acc [95.92]	 Train Time [32.34]
+Training Flow Model...
+Round 42 Flow Model Training Avg Loss: 0.5121
+Global model updated via Flow-Assisted Aggregation.
+Round [42/200]	 Train Loss [0.1564]	 Train Acc [95.24]	 Train Time [58.86]
+Training Flow Model...
+Round 43 Flow Model Training Avg Loss: 0.5455
+Global model updated via Flow-Assisted Aggregation.
+Round [43/200]	 Train Loss [0.1355]	 Train Acc [95.92]	 Train Time [44.34]
+Training Flow Model...
+Round 44 Flow Model Training Avg Loss: 0.5346
+Global model updated via Flow-Assisted Aggregation.
+Round [44/200]	 Train Loss [0.1374]	 Train Acc [95.80]	 Train Time [37.55]
+Training Flow Model...
+Round 45 Flow Model Training Avg Loss: 0.5351
+Global model updated via Flow-Assisted Aggregation.
+Round [45/200]	 Train Loss [0.1337]	 Train Acc [96.03]	 Train Time [42.11]
+Training Flow Model...
+Round 46 Flow Model Training Avg Loss: 0.5273
+Global model updated via Flow-Assisted Aggregation.
+Round [46/200]	 Train Loss [0.1353]	 Train Acc [95.88]	 Train Time [55.56]
+Training Flow Model...
+Round 47 Flow Model Training Avg Loss: 0.5115
+Global model updated via Flow-Assisted Aggregation.
+Round [47/200]	 Train Loss [0.1306]	 Train Acc [96.04]	 Train Time [55.44]
+Training Flow Model...
+Round 48 Flow Model Training Avg Loss: 0.5002
+Global model updated via Flow-Assisted Aggregation.
+Round [48/200]	 Train Loss [0.1303]	 Train Acc [96.05]	 Train Time [50.95]
+Training Flow Model...
+Round 49 Flow Model Training Avg Loss: 0.5695
+Global model updated via Flow-Assisted Aggregation.
+Round [49/200]	 Train Loss [0.1258]	 Train Acc [96.14]	 Train Time [46.56]
+Training Flow Model...
+Round 50 Flow Model Training Avg Loss: 0.5197
+Global model updated via Flow-Assisted Aggregation.
+Round [50/200]	 Train Loss [0.1380]	 Train Acc [95.79]	 Train Time [45.85]
+Training Flow Model...
+Round 51 Flow Model Training Avg Loss: 0.5695
+Global model updated via Flow-Assisted Aggregation.
+Round [51/200]	 Train Loss [0.1144]	 Train Acc [96.53]	 Train Time [35.84]
+Training Flow Model...
+Round 52 Flow Model Training Avg Loss: 0.5368
+Global model updated via Flow-Assisted Aggregation.
+Round [52/200]	 Train Loss [0.1319]	 Train Acc [96.08]	 Train Time [38.60]
+Training Flow Model...
+Round 53 Flow Model Training Avg Loss: 0.4865
+Global model updated via Flow-Assisted Aggregation.
+Round [53/200]	 Train Loss [0.1135]	 Train Acc [96.46]	 Train Time [45.99]
+Training Flow Model...
+Round 54 Flow Model Training Avg Loss: 0.5132
+Global model updated via Flow-Assisted Aggregation.
+Round [54/200]	 Train Loss [0.1309]	 Train Acc [95.99]	 Train Time [35.61]
+Training Flow Model...
+Round 55 Flow Model Training Avg Loss: 0.5158
+Global model updated via Flow-Assisted Aggregation.
+Round [55/200]	 Train Loss [0.1244]	 Train Acc [96.20]	 Train Time [51.95]
+Training Flow Model...
+Round 56 Flow Model Training Avg Loss: 0.5003
+Global model updated via Flow-Assisted Aggregation.
+Round [56/200]	 Train Loss [0.1321]	 Train Acc [96.06]	 Train Time [40.38]
+Training Flow Model...
+Round 57 Flow Model Training Avg Loss: 0.5125
+Global model updated via Flow-Assisted Aggregation.
+Round [57/200]	 Train Loss [0.1220]	 Train Acc [96.27]	 Train Time [35.24]
+Training Flow Model...
+Round 58 Flow Model Training Avg Loss: 0.5467
+Global model updated via Flow-Assisted Aggregation.
+Round [58/200]	 Train Loss [0.1166]	 Train Acc [96.45]	 Train Time [59.11]
+Training Flow Model...
+Round 59 Flow Model Training Avg Loss: 0.5265
+Global model updated via Flow-Assisted Aggregation.
+Round [59/200]	 Train Loss [0.1079]	 Train Acc [96.66]	 Train Time [39.93]
+Training Flow Model...
+Round 60 Flow Model Training Avg Loss: 0.5419
+Global model updated via Flow-Assisted Aggregation.
+Round [60/200]	 Train Loss [0.1240]	 Train Acc [96.25]	 Test Loss [1.4006|1.3848]	 Test Acc [57.65(12.01)|71.39(11.85)]	 Train Time [48.95]
+Training Flow Model...
+Round 61 Flow Model Training Avg Loss: 0.5421
+Global model updated via Flow-Assisted Aggregation.
+Round [61/200]	 Train Loss [0.1122]	 Train Acc [96.51]	 Train Time [42.28]
+Training Flow Model...
+Round 62 Flow Model Training Avg Loss: 0.5575
+Global model updated via Flow-Assisted Aggregation.
+Round [62/200]	 Train Loss [0.1142]	 Train Acc [96.50]	 Train Time [49.40]
+Training Flow Model...
+Round 63 Flow Model Training Avg Loss: 0.5089
+Global model updated via Flow-Assisted Aggregation.
+Round [63/200]	 Train Loss [0.1139]	 Train Acc [96.53]	 Train Time [41.91]
+Training Flow Model...
+Round 64 Flow Model Training Avg Loss: 0.5654
+Global model updated via Flow-Assisted Aggregation.
+Round [64/200]	 Train Loss [0.1057]	 Train Acc [96.81]	 Train Time [38.84]
+Training Flow Model...
+Round 65 Flow Model Training Avg Loss: 0.5467
+Global model updated via Flow-Assisted Aggregation.
+Round [65/200]	 Train Loss [0.1095]	 Train Acc [96.69]	 Train Time [35.23]
+Training Flow Model...
+Round 66 Flow Model Training Avg Loss: 0.5315
+Global model updated via Flow-Assisted Aggregation.
+Round [66/200]	 Train Loss [0.1072]	 Train Acc [96.70]	 Train Time [40.17]
+Training Flow Model...
+Round 67 Flow Model Training Avg Loss: 0.5566
+Global model updated via Flow-Assisted Aggregation.
+Round [67/200]	 Train Loss [0.1032]	 Train Acc [96.92]	 Train Time [41.82]
+Training Flow Model...
+Round 68 Flow Model Training Avg Loss: 0.5362
+Global model updated via Flow-Assisted Aggregation.
+Round [68/200]	 Train Loss [0.1085]	 Train Acc [96.73]	 Train Time [46.13]
+Training Flow Model...
+Round 69 Flow Model Training Avg Loss: 0.5366
+Global model updated via Flow-Assisted Aggregation.
+Round [69/200]	 Train Loss [0.1104]	 Train Acc [96.62]	 Train Time [36.94]
+Training Flow Model...
+Round 70 Flow Model Training Avg Loss: 0.5507
+Global model updated via Flow-Assisted Aggregation.
+Round [70/200]	 Train Loss [0.1035]	 Train Acc [96.83]	 Train Time [39.87]
+Training Flow Model...
+Round 71 Flow Model Training Avg Loss: 0.5125
+Global model updated via Flow-Assisted Aggregation.
+Round [71/200]	 Train Loss [0.1056]	 Train Acc [96.76]	 Train Time [47.11]
+Training Flow Model...
+Round 72 Flow Model Training Avg Loss: 0.5339
+Global model updated via Flow-Assisted Aggregation.
+Round [72/200]	 Train Loss [0.0919]	 Train Acc [97.19]	 Train Time [42.99]
+Training Flow Model...
+Round 73 Flow Model Training Avg Loss: 0.5546
+Global model updated via Flow-Assisted Aggregation.
+Round [73/200]	 Train Loss [0.1105]	 Train Acc [96.60]	 Train Time [30.66]
+Training Flow Model...
+Round 74 Flow Model Training Avg Loss: 0.5404
+Global model updated via Flow-Assisted Aggregation.
+Round [74/200]	 Train Loss [0.1057]	 Train Acc [96.80]	 Train Time [38.87]
+Training Flow Model...
+Round 75 Flow Model Training Avg Loss: 0.5127
+Global model updated via Flow-Assisted Aggregation.
+Round [75/200]	 Train Loss [0.1036]	 Train Acc [96.86]	 Train Time [53.78]
+Training Flow Model...
+Round 76 Flow Model Training Avg Loss: 0.5264
+Global model updated via Flow-Assisted Aggregation.
+Round [76/200]	 Train Loss [0.0954]	 Train Acc [97.06]	 Train Time [53.58]
+Training Flow Model...
+Round 77 Flow Model Training Avg Loss: 0.5337
+Global model updated via Flow-Assisted Aggregation.
+Round [77/200]	 Train Loss [0.0981]	 Train Acc [96.97]	 Train Time [41.80]
+Training Flow Model...
+Round 78 Flow Model Training Avg Loss: 0.5507
+Global model updated via Flow-Assisted Aggregation.
+Round [78/200]	 Train Loss [0.1012]	 Train Acc [96.93]	 Train Time [36.76]
+Training Flow Model...
+Round 79 Flow Model Training Avg Loss: 0.5463
+Global model updated via Flow-Assisted Aggregation.
+Round [79/200]	 Train Loss [0.1043]	 Train Acc [96.85]	 Train Time [38.86]
+Training Flow Model...
+Round 80 Flow Model Training Avg Loss: 0.5588
+Global model updated via Flow-Assisted Aggregation.
+Round [80/200]	 Train Loss [0.0953]	 Train Acc [97.06]	 Test Loss [1.4700|1.3764]	 Test Acc [58.70(10.90)|72.30(11.35)]	 Train Time [40.79]
+Training Flow Model...
+Round 81 Flow Model Training Avg Loss: 0.5085
+Global model updated via Flow-Assisted Aggregation.
+Round [81/200]	 Train Loss [0.1074]	 Train Acc [96.69]	 Train Time [36.64]
+Training Flow Model...
+Round 82 Flow Model Training Avg Loss: 0.5185
+Global model updated via Flow-Assisted Aggregation.
+Round [82/200]	 Train Loss [0.0993]	 Train Acc [96.93]	 Train Time [41.86]
+Training Flow Model...
+Round 83 Flow Model Training Avg Loss: 0.5313
+Global model updated via Flow-Assisted Aggregation.
+Round [83/200]	 Train Loss [0.0842]	 Train Acc [97.42]	 Train Time [45.88]
+Training Flow Model...
+Round 84 Flow Model Training Avg Loss: 0.5730
+Global model updated via Flow-Assisted Aggregation.
+Round [84/200]	 Train Loss [0.0953]	 Train Acc [97.02]	 Train Time [55.62]
+Training Flow Model...
+Round 85 Flow Model Training Avg Loss: 0.5060
+Global model updated via Flow-Assisted Aggregation.
+Round [85/200]	 Train Loss [0.1043]	 Train Acc [96.79]	 Train Time [42.85]
+Training Flow Model...
+Round 86 Flow Model Training Avg Loss: 0.5399
+Global model updated via Flow-Assisted Aggregation.
+Round [86/200]	 Train Loss [0.0973]	 Train Acc [96.99]	 Train Time [53.23]
+Training Flow Model...
+Round 87 Flow Model Training Avg Loss: 0.5357
+Global model updated via Flow-Assisted Aggregation.
+Round [87/200]	 Train Loss [0.0988]	 Train Acc [96.99]	 Train Time [48.32]
+Training Flow Model...
+Round 88 Flow Model Training Avg Loss: 0.5295
+Global model updated via Flow-Assisted Aggregation.
+Round [88/200]	 Train Loss [0.0994]	 Train Acc [96.92]	 Train Time [50.51]
+Training Flow Model...
+Round 89 Flow Model Training Avg Loss: 0.5321
+Global model updated via Flow-Assisted Aggregation.
+Round [89/200]	 Train Loss [0.0927]	 Train Acc [97.15]	 Train Time [30.79]
+Training Flow Model...
+Round 90 Flow Model Training Avg Loss: 0.5287
+Global model updated via Flow-Assisted Aggregation.
+Round [90/200]	 Train Loss [0.0912]	 Train Acc [97.17]	 Train Time [38.42]
+Training Flow Model...
+Round 91 Flow Model Training Avg Loss: 0.5333
+Global model updated via Flow-Assisted Aggregation.
+Round [91/200]	 Train Loss [0.0906]	 Train Acc [97.18]	 Train Time [48.37]
+Training Flow Model...
+Round 92 Flow Model Training Avg Loss: 0.5495
+Global model updated via Flow-Assisted Aggregation.
+Round [92/200]	 Train Loss [0.0859]	 Train Acc [97.33]	 Train Time [46.34]
+Training Flow Model...
+Round 93 Flow Model Training Avg Loss: 0.5662
+Global model updated via Flow-Assisted Aggregation.
+Round [93/200]	 Train Loss [0.0921]	 Train Acc [97.14]	 Train Time [53.74]
+Training Flow Model...
+Round 94 Flow Model Training Avg Loss: 0.5366
+Global model updated via Flow-Assisted Aggregation.
+Round [94/200]	 Train Loss [0.0854]	 Train Acc [97.36]	 Train Time [39.95]
+Training Flow Model...
+Round 95 Flow Model Training Avg Loss: 0.5623
+Global model updated via Flow-Assisted Aggregation.
+Round [95/200]	 Train Loss [0.0840]	 Train Acc [97.42]	 Train Time [43.41]
+Training Flow Model...
+Round 96 Flow Model Training Avg Loss: 0.5677
+Global model updated via Flow-Assisted Aggregation.
+Round [96/200]	 Train Loss [0.0896]	 Train Acc [97.26]	 Train Time [47.40]
+Training Flow Model...
+Round 97 Flow Model Training Avg Loss: 0.5592
+Global model updated via Flow-Assisted Aggregation.
+Round [97/200]	 Train Loss [0.0859]	 Train Acc [97.32]	 Train Time [42.17]
+Training Flow Model...
+Round 98 Flow Model Training Avg Loss: 0.5187
+Global model updated via Flow-Assisted Aggregation.
+Round [98/200]	 Train Loss [0.0896]	 Train Acc [97.24]	 Train Time [42.60]
+Training Flow Model...
+Round 99 Flow Model Training Avg Loss: 0.5479
+Global model updated via Flow-Assisted Aggregation.
+Round [99/200]	 Train Loss [0.0778]	 Train Acc [97.59]	 Train Time [49.19]
+Training Flow Model...
+Round 100 Flow Model Training Avg Loss: 0.5128
+Global model updated via Flow-Assisted Aggregation.
+Round [100/200]	 Train Loss [0.0904]	 Train Acc [97.21]	 Test Loss [1.4483|1.3683]	 Test Acc [58.37(11.04)|72.14(11.07)]	 Train Time [40.37]
+Training Flow Model...
+Round 101 Flow Model Training Avg Loss: 0.5289
+Global model updated via Flow-Assisted Aggregation.
+Round [101/200]	 Train Loss [0.0890]	 Train Acc [97.23]	 Train Time [36.47]
+Training Flow Model...
+Round 102 Flow Model Training Avg Loss: 0.5269
+Global model updated via Flow-Assisted Aggregation.
+Round [102/200]	 Train Loss [0.0893]	 Train Acc [97.25]	 Train Time [42.58]
+Training Flow Model...
+Round 103 Flow Model Training Avg Loss: 0.5638
+Global model updated via Flow-Assisted Aggregation.
+Round [103/200]	 Train Loss [0.0806]	 Train Acc [97.48]	 Train Time [54.21]
+Training Flow Model...
+Round 104 Flow Model Training Avg Loss: 0.5370
+Global model updated via Flow-Assisted Aggregation.
+Round [104/200]	 Train Loss [0.0851]	 Train Acc [97.39]	 Train Time [34.88]
+Training Flow Model...
+Round 105 Flow Model Training Avg Loss: 0.5227
+Global model updated via Flow-Assisted Aggregation.
+Round [105/200]	 Train Loss [0.0872]	 Train Acc [97.30]	 Train Time [32.87]
+Training Flow Model...
+Round 106 Flow Model Training Avg Loss: 0.5458
+Global model updated via Flow-Assisted Aggregation.
+Round [106/200]	 Train Loss [0.0800]	 Train Acc [97.50]	 Train Time [59.22]
+Training Flow Model...
+Round 107 Flow Model Training Avg Loss: 0.5333
+Global model updated via Flow-Assisted Aggregation.
+Round [107/200]	 Train Loss [0.0797]	 Train Acc [97.51]	 Train Time [53.56]
+Training Flow Model...
+Round 108 Flow Model Training Avg Loss: 0.5376
+Global model updated via Flow-Assisted Aggregation.
+Round [108/200]	 Train Loss [0.0739]	 Train Acc [97.74]	 Train Time [41.43]
+Training Flow Model...
+Round 109 Flow Model Training Avg Loss: 0.5440
+Global model updated via Flow-Assisted Aggregation.
+Round [109/200]	 Train Loss [0.0834]	 Train Acc [97.42]	 Train Time [35.51]
+Training Flow Model...
+Round 110 Flow Model Training Avg Loss: 0.5575
+Global model updated via Flow-Assisted Aggregation.
+Round [110/200]	 Train Loss [0.0800]	 Train Acc [97.57]	 Train Time [47.46]
+Training Flow Model...
+Round 111 Flow Model Training Avg Loss: 0.5597
+Global model updated via Flow-Assisted Aggregation.
+Round [111/200]	 Train Loss [0.0837]	 Train Acc [97.44]	 Train Time [58.03]
+Training Flow Model...
+Round 112 Flow Model Training Avg Loss: 0.5676
+Global model updated via Flow-Assisted Aggregation.
+Round [112/200]	 Train Loss [0.0815]	 Train Acc [97.50]	 Train Time [58.91]
+Training Flow Model...
+Round 113 Flow Model Training Avg Loss: 0.5514
+Global model updated via Flow-Assisted Aggregation.
+Round [113/200]	 Train Loss [0.0720]	 Train Acc [97.75]	 Train Time [45.19]
+Training Flow Model...
+Round 114 Flow Model Training Avg Loss: 0.5712
+Global model updated via Flow-Assisted Aggregation.
+Round [114/200]	 Train Loss [0.0744]	 Train Acc [97.70]	 Train Time [58.32]
+Training Flow Model...
+Round 115 Flow Model Training Avg Loss: 0.5462
+Global model updated via Flow-Assisted Aggregation.
+Round [115/200]	 Train Loss [0.0864]	 Train Acc [97.33]	 Train Time [41.80]
+Training Flow Model...
+Round 116 Flow Model Training Avg Loss: 0.5397
+Global model updated via Flow-Assisted Aggregation.
+Round [116/200]	 Train Loss [0.0726]	 Train Acc [97.73]	 Train Time [54.32]
+Training Flow Model...
+Round 117 Flow Model Training Avg Loss: 0.5575
+Global model updated via Flow-Assisted Aggregation.
+Round [117/200]	 Train Loss [0.0856]	 Train Acc [97.37]	 Train Time [38.15]
+Training Flow Model...
+Round 118 Flow Model Training Avg Loss: 0.5273
+Global model updated via Flow-Assisted Aggregation.
+Round [118/200]	 Train Loss [0.0839]	 Train Acc [97.35]	 Train Time [45.35]
+Training Flow Model...
+Round 119 Flow Model Training Avg Loss: 0.6001
+Global model updated via Flow-Assisted Aggregation.
+Round [119/200]	 Train Loss [0.0788]	 Train Acc [97.56]	 Train Time [42.21]
+Training Flow Model...
+Round 120 Flow Model Training Avg Loss: 0.5829
+Global model updated via Flow-Assisted Aggregation.
+Round [120/200]	 Train Loss [0.0770]	 Train Acc [97.62]	 Test Loss [1.5430|1.4042]	 Test Acc [57.49(12.70)|72.27(12.77)]	 Train Time [41.83]
+Training Flow Model...
+Round 121 Flow Model Training Avg Loss: 0.5317
+Global model updated via Flow-Assisted Aggregation.
+Round [121/200]	 Train Loss [0.0831]	 Train Acc [97.44]	 Train Time [40.28]
+Training Flow Model...
+Round 122 Flow Model Training Avg Loss: 0.5516
+Global model updated via Flow-Assisted Aggregation.
+Round [122/200]	 Train Loss [0.0758]	 Train Acc [97.61]	 Train Time [59.80]
+Training Flow Model...
+Round 123 Flow Model Training Avg Loss: 0.5154
+Global model updated via Flow-Assisted Aggregation.
+Round [123/200]	 Train Loss [0.0832]	 Train Acc [97.44]	 Train Time [46.25]
+Training Flow Model...
+Round 124 Flow Model Training Avg Loss: 0.5803
+Global model updated via Flow-Assisted Aggregation.
+Round [124/200]	 Train Loss [0.0726]	 Train Acc [97.75]	 Train Time [30.65]
+Training Flow Model...
+Round 125 Flow Model Training Avg Loss: 0.5976
+Global model updated via Flow-Assisted Aggregation.
+Round [125/200]	 Train Loss [0.0813]	 Train Acc [97.46]	 Train Time [39.73]
+Training Flow Model...
+Round 126 Flow Model Training Avg Loss: 0.5328
+Global model updated via Flow-Assisted Aggregation.
+Round [126/200]	 Train Loss [0.0791]	 Train Acc [97.55]	 Train Time [42.96]
+Training Flow Model...
+Round 127 Flow Model Training Avg Loss: 0.5250
+Global model updated via Flow-Assisted Aggregation.
+Round [127/200]	 Train Loss [0.0680]	 Train Acc [97.89]	 Train Time [38.10]
+Training Flow Model...
+Round 128 Flow Model Training Avg Loss: 0.5778
+Global model updated via Flow-Assisted Aggregation.
+Round [128/200]	 Train Loss [0.0791]	 Train Acc [97.55]	 Train Time [45.32]
+Training Flow Model...
+Round 129 Flow Model Training Avg Loss: 0.5305
+Global model updated via Flow-Assisted Aggregation.
+Round [129/200]	 Train Loss [0.0771]	 Train Acc [97.59]	 Train Time [41.04]
+Training Flow Model...
+Round 130 Flow Model Training Avg Loss: 0.5409
+Global model updated via Flow-Assisted Aggregation.
+Round [130/200]	 Train Loss [0.0764]	 Train Acc [97.62]	 Train Time [43.63]
+Training Flow Model...
+Round 131 Flow Model Training Avg Loss: 0.5406
+Global model updated via Flow-Assisted Aggregation.
+Round [131/200]	 Train Loss [0.0726]	 Train Acc [97.73]	 Train Time [46.07]
+Training Flow Model...
+Round 132 Flow Model Training Avg Loss: 0.5448
+Global model updated via Flow-Assisted Aggregation.
+Round [132/200]	 Train Loss [0.0703]	 Train Acc [97.83]	 Train Time [49.47]
+Training Flow Model...
+Round 133 Flow Model Training Avg Loss: 0.5881
+Global model updated via Flow-Assisted Aggregation.
+Round [133/200]	 Train Loss [0.0779]	 Train Acc [97.60]	 Train Time [32.11]
+Training Flow Model...
+Round 134 Flow Model Training Avg Loss: 0.5447
+Global model updated via Flow-Assisted Aggregation.
+Round [134/200]	 Train Loss [0.0660]	 Train Acc [97.92]	 Train Time [42.88]
+Training Flow Model...
+Round 135 Flow Model Training Avg Loss: 0.5583
+Global model updated via Flow-Assisted Aggregation.
+Round [135/200]	 Train Loss [0.0776]	 Train Acc [97.55]	 Train Time [55.43]
+Training Flow Model...
+Round 136 Flow Model Training Avg Loss: 0.5269
+Global model updated via Flow-Assisted Aggregation.
+Round [136/200]	 Train Loss [0.0612]	 Train Acc [98.13]	 Train Time [43.53]
+Training Flow Model...
+Round 137 Flow Model Training Avg Loss: 0.5681
+Global model updated via Flow-Assisted Aggregation.
+Round [137/200]	 Train Loss [0.0750]	 Train Acc [97.66]	 Train Time [53.49]
+Training Flow Model...
+Round 138 Flow Model Training Avg Loss: 0.5240
+Global model updated via Flow-Assisted Aggregation.
+Round [138/200]	 Train Loss [0.0764]	 Train Acc [97.65]	 Train Time [50.93]
+Training Flow Model...
+Round 139 Flow Model Training Avg Loss: 0.5224
+Global model updated via Flow-Assisted Aggregation.
+Round [139/200]	 Train Loss [0.0697]	 Train Acc [97.84]	 Train Time [42.58]
+Training Flow Model...
+Round 140 Flow Model Training Avg Loss: 0.5498
+Global model updated via Flow-Assisted Aggregation.
+Round [140/200]	 Train Loss [0.0714]	 Train Acc [97.79]	 Test Loss [1.4380|1.3541]	 Test Acc [59.85(12.88)|72.40(11.10)]	 Train Time [54.26]
+Training Flow Model...
+Round 141 Flow Model Training Avg Loss: 0.5342
+Global model updated via Flow-Assisted Aggregation.
+Round [141/200]	 Train Loss [0.0643]	 Train Acc [98.03]	 Train Time [48.56]
+Training Flow Model...
+Round 142 Flow Model Training Avg Loss: 0.5609
+Global model updated via Flow-Assisted Aggregation.
+Round [142/200]	 Train Loss [0.0702]	 Train Acc [97.79]	 Train Time [44.74]
+Training Flow Model...
+Round 143 Flow Model Training Avg Loss: 0.5621
+Global model updated via Flow-Assisted Aggregation.
+Round [143/200]	 Train Loss [0.0637]	 Train Acc [98.04]	 Train Time [50.55]
+Training Flow Model...
+Round 144 Flow Model Training Avg Loss: 0.5592
+Global model updated via Flow-Assisted Aggregation.
+Round [144/200]	 Train Loss [0.0716]	 Train Acc [97.78]	 Train Time [44.39]
+Training Flow Model...
+Round 145 Flow Model Training Avg Loss: 0.5566
+Global model updated via Flow-Assisted Aggregation.
+Round [145/200]	 Train Loss [0.0732]	 Train Acc [97.70]	 Train Time [52.41]
+Training Flow Model...
+Round 146 Flow Model Training Avg Loss: 0.5358
+Global model updated via Flow-Assisted Aggregation.
+Round [146/200]	 Train Loss [0.0689]	 Train Acc [97.84]	 Train Time [55.27]
+Training Flow Model...
+Round 147 Flow Model Training Avg Loss: 0.5526
+Global model updated via Flow-Assisted Aggregation.
+Round [147/200]	 Train Loss [0.0698]	 Train Acc [97.81]	 Train Time [52.51]
+Training Flow Model...
+Round 148 Flow Model Training Avg Loss: 0.5762
+Global model updated via Flow-Assisted Aggregation.
+Round [148/200]	 Train Loss [0.0665]	 Train Acc [97.90]	 Train Time [32.65]
+Training Flow Model...
+Round 149 Flow Model Training Avg Loss: 0.5579
+Global model updated via Flow-Assisted Aggregation.
+Round [149/200]	 Train Loss [0.0752]	 Train Acc [97.66]	 Train Time [38.82]
+Training Flow Model...
+Round 150 Flow Model Training Avg Loss: 0.5543
+Global model updated via Flow-Assisted Aggregation.
+Round [150/200]	 Train Loss [0.0630]	 Train Acc [98.10]	 Train Time [36.07]
+Training Flow Model...
+Round 151 Flow Model Training Avg Loss: 0.5166
+Global model updated via Flow-Assisted Aggregation.
+Round [151/200]	 Train Loss [0.0726]	 Train Acc [97.71]	 Train Time [43.37]
+Training Flow Model...
+Round 152 Flow Model Training Avg Loss: 0.5517
+Global model updated via Flow-Assisted Aggregation.
+Round [152/200]	 Train Loss [0.0713]	 Train Acc [97.76]	 Train Time [61.42]
+Training Flow Model...
+Round 153 Flow Model Training Avg Loss: 0.5619
+Global model updated via Flow-Assisted Aggregation.
+Round [153/200]	 Train Loss [0.0655]	 Train Acc [97.96]	 Train Time [40.73]
+Training Flow Model...
+Round 154 Flow Model Training Avg Loss: 0.5509
+Global model updated via Flow-Assisted Aggregation.
+Round [154/200]	 Train Loss [0.0681]	 Train Acc [97.87]	 Train Time [50.50]
+Training Flow Model...
+Round 155 Flow Model Training Avg Loss: 0.5284
+Global model updated via Flow-Assisted Aggregation.
+Round [155/200]	 Train Loss [0.0727]	 Train Acc [97.75]	 Train Time [52.31]
+Training Flow Model...
+Round 156 Flow Model Training Avg Loss: 0.5536
+Global model updated via Flow-Assisted Aggregation.
+Round [156/200]	 Train Loss [0.0595]	 Train Acc [98.13]	 Train Time [46.61]
+Training Flow Model...
+Round 157 Flow Model Training Avg Loss: 0.5443
+Global model updated via Flow-Assisted Aggregation.
+Round [157/200]	 Train Loss [0.0643]	 Train Acc [97.99]	 Train Time [55.19]
+Training Flow Model...
+Round 158 Flow Model Training Avg Loss: 0.5574
+Global model updated via Flow-Assisted Aggregation.
+Round [158/200]	 Train Loss [0.0709]	 Train Acc [97.83]	 Train Time [33.55]
+Training Flow Model...
+Round 159 Flow Model Training Avg Loss: 0.5344
+Global model updated via Flow-Assisted Aggregation.
+Round [159/200]	 Train Loss [0.0640]	 Train Acc [98.01]	 Train Time [60.10]
+Training Flow Model...
+Round 160 Flow Model Training Avg Loss: 0.5549
+Global model updated via Flow-Assisted Aggregation.
+Round [160/200]	 Train Loss [0.0641]	 Train Acc [98.03]	 Test Loss [1.4273|1.3504]	 Test Acc [60.90(11.55)|72.70(12.16)]	 Train Time [46.66]
+Training Flow Model...
+Round 161 Flow Model Training Avg Loss: 0.5478
+Global model updated via Flow-Assisted Aggregation.
+Round [161/200]	 Train Loss [0.0594]	 Train Acc [98.12]	 Train Time [40.49]
+Training Flow Model...
+Round 162 Flow Model Training Avg Loss: 0.5244
+Global model updated via Flow-Assisted Aggregation.
+Round [162/200]	 Train Loss [0.0647]	 Train Acc [97.99]	 Train Time [45.13]
+Training Flow Model...
+Round 163 Flow Model Training Avg Loss: 0.5802
+Global model updated via Flow-Assisted Aggregation.
+Round [163/200]	 Train Loss [0.0728]	 Train Acc [97.75]	 Train Time [47.54]
+Training Flow Model...
+Round 164 Flow Model Training Avg Loss: 0.5315
+Global model updated via Flow-Assisted Aggregation.
+Round [164/200]	 Train Loss [0.0694]	 Train Acc [97.87]	 Train Time [45.59]
+Training Flow Model...
+Round 165 Flow Model Training Avg Loss: 0.5300
+Global model updated via Flow-Assisted Aggregation.
+Round [165/200]	 Train Loss [0.0596]	 Train Acc [98.12]	 Train Time [51.12]
+Training Flow Model...
+Round 166 Flow Model Training Avg Loss: 0.5429
+Global model updated via Flow-Assisted Aggregation.
+Round [166/200]	 Train Loss [0.0726]	 Train Acc [97.77]	 Train Time [35.34]
+Training Flow Model...
+Round 167 Flow Model Training Avg Loss: 0.5303
+Global model updated via Flow-Assisted Aggregation.
+Round [167/200]	 Train Loss [0.0677]	 Train Acc [97.93]	 Train Time [32.67]
+Training Flow Model...
+Round 168 Flow Model Training Avg Loss: 0.5806
+Global model updated via Flow-Assisted Aggregation.
+Round [168/200]	 Train Loss [0.0637]	 Train Acc [97.98]	 Train Time [49.30]
+Training Flow Model...
+Round 169 Flow Model Training Avg Loss: 0.5634
+Global model updated via Flow-Assisted Aggregation.
+Round [169/200]	 Train Loss [0.0785]	 Train Acc [97.60]	 Train Time [31.94]
+Training Flow Model...
+Round 170 Flow Model Training Avg Loss: 0.5523
+Global model updated via Flow-Assisted Aggregation.
+Round [170/200]	 Train Loss [0.0690]	 Train Acc [97.80]	 Train Time [54.52]
+Training Flow Model...
+Round 171 Flow Model Training Avg Loss: 0.5446
+Global model updated via Flow-Assisted Aggregation.
+Round [171/200]	 Train Loss [0.0614]	 Train Acc [98.08]	 Train Time [53.51]
+Training Flow Model...
+Round 172 Flow Model Training Avg Loss: 0.5351
+Global model updated via Flow-Assisted Aggregation.
+Round [172/200]	 Train Loss [0.0718]	 Train Acc [97.76]	 Train Time [47.86]
+Training Flow Model...
+Round 173 Flow Model Training Avg Loss: 0.4998
+Global model updated via Flow-Assisted Aggregation.
+Round [173/200]	 Train Loss [0.0621]	 Train Acc [98.08]	 Train Time [35.37]
+Training Flow Model...
+Round 174 Flow Model Training Avg Loss: 0.5396
+Global model updated via Flow-Assisted Aggregation.
+Round [174/200]	 Train Loss [0.0644]	 Train Acc [97.98]	 Train Time [42.02]
+Training Flow Model...
+Round 175 Flow Model Training Avg Loss: 0.5450
+Global model updated via Flow-Assisted Aggregation.
+Round [175/200]	 Train Loss [0.0683]	 Train Acc [97.82]	 Train Time [35.96]
+Training Flow Model...
+Round 176 Flow Model Training Avg Loss: 0.5825
+Global model updated via Flow-Assisted Aggregation.
+Round [176/200]	 Train Loss [0.0620]	 Train Acc [98.04]	 Train Time [44.13]
+Training Flow Model...
+Round 177 Flow Model Training Avg Loss: 0.5494
+Global model updated via Flow-Assisted Aggregation.
+Round [177/200]	 Train Loss [0.0563]	 Train Acc [98.26]	 Train Time [41.60]
+Training Flow Model...
+Round 178 Flow Model Training Avg Loss: 0.5449
+Global model updated via Flow-Assisted Aggregation.
+Round [178/200]	 Train Loss [0.0592]	 Train Acc [98.12]	 Train Time [48.16]
+Training Flow Model...
+Round 179 Flow Model Training Avg Loss: 0.5184
+Global model updated via Flow-Assisted Aggregation.
+Round [179/200]	 Train Loss [0.0635]	 Train Acc [97.99]	 Train Time [42.60]
+Training Flow Model...
+Round 180 Flow Model Training Avg Loss: 0.5151
+Global model updated via Flow-Assisted Aggregation.
+Round [180/200]	 Train Loss [0.0608]	 Train Acc [98.12]	 Test Loss [1.4174|1.3230]	 Test Acc [60.96(11.77)|73.45(11.87)]	 Train Time [41.42]
+Training Flow Model...
+Round 181 Flow Model Training Avg Loss: 0.5438
+Global model updated via Flow-Assisted Aggregation.
+Round [181/200]	 Train Loss [0.0606]	 Train Acc [98.07]	 Train Time [37.12]
+Training Flow Model...
+Round 182 Flow Model Training Avg Loss: 0.5494
+Global model updated via Flow-Assisted Aggregation.
+Round [182/200]	 Train Loss [0.0692]	 Train Acc [97.85]	 Train Time [30.26]
+Training Flow Model...
+Round 183 Flow Model Training Avg Loss: 0.5427
+Global model updated via Flow-Assisted Aggregation.
+Round [183/200]	 Train Loss [0.0722]	 Train Acc [97.82]	 Train Time [38.24]
+Training Flow Model...
+Round 184 Flow Model Training Avg Loss: 0.5618
+Global model updated via Flow-Assisted Aggregation.
+Round [184/200]	 Train Loss [0.0700]	 Train Acc [97.80]	 Train Time [37.04]
+Training Flow Model...
+Round 185 Flow Model Training Avg Loss: 0.5528
+Global model updated via Flow-Assisted Aggregation.
+Round [185/200]	 Train Loss [0.0559]	 Train Acc [98.30]	 Train Time [43.06]
+Training Flow Model...
+Round 186 Flow Model Training Avg Loss: 0.5742
+Global model updated via Flow-Assisted Aggregation.
+Round [186/200]	 Train Loss [0.0644]	 Train Acc [97.98]	 Train Time [40.70]
+Training Flow Model...
+Round 187 Flow Model Training Avg Loss: 0.5712
+Global model updated via Flow-Assisted Aggregation.
+Round [187/200]	 Train Loss [0.0628]	 Train Acc [98.02]	 Train Time [57.18]
+Training Flow Model...
+Round 188 Flow Model Training Avg Loss: 0.5560
+Global model updated via Flow-Assisted Aggregation.
+Round [188/200]	 Train Loss [0.0650]	 Train Acc [97.95]	 Train Time [50.13]
+Training Flow Model...
+Round 189 Flow Model Training Avg Loss: 0.5301
+Global model updated via Flow-Assisted Aggregation.
+Round [189/200]	 Train Loss [0.0567]	 Train Acc [98.21]	 Train Time [44.47]
+Training Flow Model...
+Round 190 Flow Model Training Avg Loss: 0.5490
+Global model updated via Flow-Assisted Aggregation.
+Round [190/200]	 Train Loss [0.0575]	 Train Acc [98.19]	 Train Time [64.22]
+Training Flow Model...
+Round 191 Flow Model Training Avg Loss: 0.5597
+Global model updated via Flow-Assisted Aggregation.
+Round [191/200]	 Train Loss [0.0588]	 Train Acc [98.17]	 Train Time [36.58]
+Training Flow Model...
+Round 192 Flow Model Training Avg Loss: 0.5757
+Global model updated via Flow-Assisted Aggregation.
+Round [192/200]	 Train Loss [0.0703]	 Train Acc [97.79]	 Train Time [49.39]
+Training Flow Model...
+Round 193 Flow Model Training Avg Loss: 0.5910
+Global model updated via Flow-Assisted Aggregation.
+Round [193/200]	 Train Loss [0.0625]	 Train Acc [98.04]	 Train Time [38.91]
+Training Flow Model...
+Round 194 Flow Model Training Avg Loss: 0.5378
+Global model updated via Flow-Assisted Aggregation.
+Round [194/200]	 Train Loss [0.0652]	 Train Acc [98.02]	 Train Time [43.48]
+Training Flow Model...
+Round 195 Flow Model Training Avg Loss: 0.5563
+Global model updated via Flow-Assisted Aggregation.
+Round [195/200]	 Train Loss [0.0587]	 Train Acc [98.10]	 Train Time [40.69]
+Training Flow Model...
+Round 196 Flow Model Training Avg Loss: 0.5449
+Global model updated via Flow-Assisted Aggregation.
+Round [196/200]	 Train Loss [0.0609]	 Train Acc [98.05]	 Train Time [45.13]
+Training Flow Model...
+Round 197 Flow Model Training Avg Loss: 0.5725
+Global model updated via Flow-Assisted Aggregation.
+Round [197/200]	 Train Loss [0.0598]	 Train Acc [98.15]	 Train Time [50.33]
+Training Flow Model...
+Round 198 Flow Model Training Avg Loss: 0.5594
+Global model updated via Flow-Assisted Aggregation.
+Round [198/200]	 Train Loss [0.0578]	 Train Acc [98.19]	 Train Time [41.06]
+Training Flow Model...
+Round 199 Flow Model Training Avg Loss: 0.5265
+Global model updated via Flow-Assisted Aggregation.
+Round [199/200]	 Train Loss [0.0595]	 Train Acc [98.17]	 Train Time [43.38]
+Training Flow Model...
+Round 200 Flow Model Training Avg Loss: 0.5232
+Global model updated via Flow-Assisted Aggregation.
+Round [200/200]	 Train Loss [0.0558]	 Train Acc [98.25]	 Test Loss [1.4528|1.3069]	 Test Acc [60.96(12.11)|73.52(10.46)]	 Train Time [148.35]
+Method took (44.50, 10.49) seconds per training iteration
+Method took (9304.73) total seconds

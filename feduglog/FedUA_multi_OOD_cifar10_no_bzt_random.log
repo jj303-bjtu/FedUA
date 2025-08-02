@@ -1,0 +1,1019 @@
+2025-07-24 03:19:22,227 - Server_DefaultID - INFO - Starting FedUG V2 Training Process
+2025-07-24 03:19:22,227 - Server_DefaultID - INFO - --- Global Round 1/200 ---
+2025-07-24 03:23:07,289 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3125 ms
+2025-07-24 03:23:07,289 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:23:07,310 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:23:10,151 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.35, Max=1.50, Mean=1.44
+2025-07-24 03:23:10,153 - Server_DefaultID - INFO - --- Global Round 2/200 ---
+2025-07-24 03:24:48,350 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3169 ms
+2025-07-24 03:24:48,350 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:24:48,370 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:24:51,449 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.33, Max=1.65, Mean=1.45
+2025-07-24 03:24:51,451 - Server_DefaultID - INFO - --- Global Round 3/200 ---
+2025-07-24 03:27:02,363 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3018 ms
+2025-07-24 03:27:02,363 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:27:02,390 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:27:06,529 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.32, Max=1.55, Mean=1.44
+2025-07-24 03:27:06,533 - Server_DefaultID - INFO - --- Global Round 4/200 ---
+2025-07-24 03:28:39,057 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3201 ms
+2025-07-24 03:28:39,057 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:28:39,077 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:28:41,978 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.31, Max=1.63, Mean=1.46
+2025-07-24 03:28:41,980 - Server_DefaultID - INFO - --- Global Round 5/200 ---
+2025-07-24 03:30:23,118 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2970 ms
+2025-07-24 03:30:23,118 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:30:23,139 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:30:26,374 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.32, Max=1.57, Mean=1.44
+2025-07-24 03:30:26,377 - Server_DefaultID - INFO - --- Global Round 6/200 ---
+2025-07-24 03:32:04,993 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3095 ms
+2025-07-24 03:32:04,993 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:32:05,014 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:32:08,140 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.35, Max=1.68, Mean=1.45
+2025-07-24 03:32:08,143 - Server_DefaultID - INFO - --- Global Round 7/200 ---
+2025-07-24 03:33:29,590 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2956 ms
+2025-07-24 03:33:29,590 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:33:29,609 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:33:32,236 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.35, Max=1.60, Mean=1.46
+2025-07-24 03:33:32,238 - Server_DefaultID - INFO - --- Global Round 8/200 ---
+2025-07-24 03:35:39,765 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3142 ms
+2025-07-24 03:35:39,765 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:35:39,790 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:35:43,775 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.54, Mean=1.44
+2025-07-24 03:35:43,779 - Server_DefaultID - INFO - --- Global Round 9/200 ---
+2025-07-24 03:37:28,283 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3004 ms
+2025-07-24 03:37:28,283 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:37:28,304 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:37:31,646 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.36, Max=1.61, Mean=1.48
+2025-07-24 03:37:31,649 - Server_DefaultID - INFO - --- Global Round 10/200 ---
+2025-07-24 03:38:47,209 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3004 ms
+2025-07-24 03:38:47,209 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:38:47,227 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:38:49,652 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.35, Max=1.55, Mean=1.46
+2025-07-24 03:38:49,654 - Server_DefaultID - INFO - --- Global Round 11/200 ---
+2025-07-24 03:40:31,791 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2978 ms
+2025-07-24 03:40:31,792 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:40:31,814 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:40:35,092 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.59, Mean=1.47
+2025-07-24 03:40:35,095 - Server_DefaultID - INFO - --- Global Round 12/200 ---
+2025-07-24 03:42:31,853 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3031 ms
+2025-07-24 03:42:31,853 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:42:31,877 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:42:35,588 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.62, Mean=1.47
+2025-07-24 03:42:35,591 - Server_DefaultID - INFO - --- Global Round 13/200 ---
+2025-07-24 03:44:32,233 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3025 ms
+2025-07-24 03:44:32,233 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:44:32,257 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:44:36,013 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.53, Mean=1.46
+2025-07-24 03:44:36,016 - Server_DefaultID - INFO - --- Global Round 14/200 ---
+2025-07-24 03:46:51,394 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3191 ms
+2025-07-24 03:46:51,394 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:46:51,419 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:46:55,662 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.61, Mean=1.47
+2025-07-24 03:46:55,666 - Server_DefaultID - INFO - --- Global Round 15/200 ---
+2025-07-24 03:48:57,167 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3241 ms
+2025-07-24 03:48:57,167 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:48:57,192 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:49:01,013 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.55, Mean=1.47
+2025-07-24 03:49:01,017 - Server_DefaultID - INFO - --- Global Round 16/200 ---
+2025-07-24 03:50:37,058 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3158 ms
+2025-07-24 03:50:37,058 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:50:37,079 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:50:40,129 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.36, Max=1.68, Mean=1.50
+2025-07-24 03:50:40,132 - Server_DefaultID - INFO - --- Global Round 17/200 ---
+2025-07-24 03:52:25,116 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2941 ms
+2025-07-24 03:52:25,116 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:52:25,138 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:52:28,502 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.36, Max=1.60, Mean=1.46
+2025-07-24 03:52:28,505 - Server_DefaultID - INFO - --- Global Round 18/200 ---
+2025-07-24 03:54:03,985 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3101 ms
+2025-07-24 03:54:03,985 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:54:04,005 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:54:07,060 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.67, Mean=1.50
+2025-07-24 03:54:07,063 - Server_DefaultID - INFO - --- Global Round 19/200 ---
+2025-07-24 03:56:05,625 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3241 ms
+2025-07-24 03:56:05,626 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:56:05,649 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:56:09,402 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.61, Mean=1.49
+2025-07-24 03:56:09,405 - Server_DefaultID - INFO - --- Global Round 20/200 ---
+2025-07-24 03:59:45,507 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3021 ms
+2025-07-24 03:59:45,507 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 03:59:45,541 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 03:59:48,383 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.67, Mean=1.49
+2025-07-24 03:59:48,386 - Server_DefaultID - INFO - --- Global Round 21/200 ---
+2025-07-24 04:01:12,373 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3213 ms
+2025-07-24 04:01:12,373 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:01:12,392 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:01:15,043 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.35, Max=1.73, Mean=1.49
+2025-07-24 04:01:15,046 - Server_DefaultID - INFO - --- Global Round 22/200 ---
+2025-07-24 04:03:07,529 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3014 ms
+2025-07-24 04:03:07,530 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:03:07,554 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:03:11,097 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.36, Max=1.60, Mean=1.49
+2025-07-24 04:03:11,101 - Server_DefaultID - INFO - --- Global Round 23/200 ---
+2025-07-24 04:04:48,315 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3093 ms
+2025-07-24 04:04:48,315 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:04:48,336 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:04:51,446 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.73, Mean=1.49
+2025-07-24 04:04:51,449 - Server_DefaultID - INFO - --- Global Round 24/200 ---
+2025-07-24 04:06:11,934 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2930 ms
+2025-07-24 04:06:11,934 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:06:11,952 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:06:14,572 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.34, Max=1.64, Mean=1.51
+2025-07-24 04:06:14,574 - Server_DefaultID - INFO - --- Global Round 25/200 ---
+2025-07-24 04:08:10,329 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3131 ms
+2025-07-24 04:08:10,329 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:08:10,353 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:08:14,021 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.62, Mean=1.48
+2025-07-24 04:08:14,024 - Server_DefaultID - INFO - --- Global Round 26/200 ---
+2025-07-24 04:09:56,353 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3048 ms
+2025-07-24 04:09:56,353 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:09:56,375 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:09:59,677 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.68, Mean=1.50
+2025-07-24 04:09:59,680 - Server_DefaultID - INFO - --- Global Round 27/200 ---
+2025-07-24 04:11:46,773 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3063 ms
+2025-07-24 04:11:46,773 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:11:46,795 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:11:50,245 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.71, Mean=1.50
+2025-07-24 04:11:50,248 - Server_DefaultID - INFO - --- Global Round 28/200 ---
+2025-07-24 04:13:30,574 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3056 ms
+2025-07-24 04:13:30,574 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:13:30,596 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:13:33,841 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.68, Mean=1.49
+2025-07-24 04:13:33,844 - Server_DefaultID - INFO - --- Global Round 29/200 ---
+2025-07-24 04:15:23,249 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3185 ms
+2025-07-24 04:15:23,249 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:15:23,269 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:15:26,727 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.60, Mean=1.47
+2025-07-24 04:15:26,730 - Server_DefaultID - INFO - --- Global Round 30/200 ---
+2025-07-24 04:16:55,869 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3094 ms
+2025-07-24 04:16:55,869 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:16:55,888 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:16:58,770 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.64, Mean=1.50
+2025-07-24 04:16:58,773 - Server_DefaultID - INFO - --- Global Round 31/200 ---
+2025-07-24 04:18:44,822 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3229 ms
+2025-07-24 04:18:44,823 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:18:44,844 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:18:48,192 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.57, Mean=1.48
+2025-07-24 04:18:48,195 - Server_DefaultID - INFO - --- Global Round 32/200 ---
+2025-07-24 04:20:26,639 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2946 ms
+2025-07-24 04:20:26,639 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:20:26,661 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:20:29,839 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.32, Max=1.65, Mean=1.48
+2025-07-24 04:20:29,842 - Server_DefaultID - INFO - --- Global Round 33/200 ---
+2025-07-24 04:22:21,994 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3031 ms
+2025-07-24 04:22:21,994 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:22:22,015 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:22:25,603 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.62, Mean=1.47
+2025-07-24 04:22:25,606 - Server_DefaultID - INFO - --- Global Round 34/200 ---
+2025-07-24 04:24:08,692 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2996 ms
+2025-07-24 04:24:08,693 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:24:08,713 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:24:12,046 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.62, Mean=1.47
+2025-07-24 04:24:12,049 - Server_DefaultID - INFO - --- Global Round 35/200 ---
+2025-07-24 04:25:47,540 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2974 ms
+2025-07-24 04:25:47,541 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:25:47,562 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:25:50,640 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.61, Mean=1.50
+2025-07-24 04:25:50,643 - Server_DefaultID - INFO - --- Global Round 36/200 ---
+2025-07-24 04:27:27,276 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2852 ms
+2025-07-24 04:27:27,276 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:27:27,297 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:27:30,462 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.61, Mean=1.49
+2025-07-24 04:27:30,465 - Server_DefaultID - INFO - --- Global Round 37/200 ---
+2025-07-24 04:29:11,743 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3002 ms
+2025-07-24 04:29:11,743 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:29:11,764 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:29:15,039 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.52, Mean=1.47
+2025-07-24 04:29:15,042 - Server_DefaultID - INFO - --- Global Round 38/200 ---
+2025-07-24 04:30:57,922 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3099 ms
+2025-07-24 04:30:57,922 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:30:57,943 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:31:01,229 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.69, Mean=1.48
+2025-07-24 04:31:01,233 - Server_DefaultID - INFO - --- Global Round 39/200 ---
+2025-07-24 04:32:47,190 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2866 ms
+2025-07-24 04:32:47,190 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:32:47,212 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:32:50,684 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.62, Mean=1.49
+2025-07-24 04:32:50,688 - Server_DefaultID - INFO - --- Global Round 40/200 ---
+2025-07-24 04:36:33,797 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3131 ms
+2025-07-24 04:36:33,797 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:36:33,818 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:36:36,749 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.59, Mean=1.48
+2025-07-24 04:36:36,752 - Server_DefaultID - INFO - --- Global Round 41/200 ---
+2025-07-24 04:37:59,396 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3041 ms
+2025-07-24 04:37:59,396 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:37:59,415 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:38:02,062 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.43, Max=1.58, Mean=1.51
+2025-07-24 04:38:02,065 - Server_DefaultID - INFO - --- Global Round 42/200 ---
+2025-07-24 04:39:15,774 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3086 ms
+2025-07-24 04:39:15,774 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:39:15,792 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:39:18,151 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.33, Max=1.72, Mean=1.50
+2025-07-24 04:39:18,154 - Server_DefaultID - INFO - --- Global Round 43/200 ---
+2025-07-24 04:41:10,827 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3165 ms
+2025-07-24 04:41:10,827 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:41:10,848 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:41:14,343 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.52, Mean=1.46
+2025-07-24 04:41:14,346 - Server_DefaultID - INFO - --- Global Round 44/200 ---
+2025-07-24 04:42:40,937 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2880 ms
+2025-07-24 04:42:40,937 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:42:40,957 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:42:43,834 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.63, Mean=1.49
+2025-07-24 04:42:43,837 - Server_DefaultID - INFO - --- Global Round 45/200 ---
+2025-07-24 04:44:04,448 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3169 ms
+2025-07-24 04:44:04,448 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:44:04,466 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:44:07,028 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.60, Mean=1.48
+2025-07-24 04:44:07,031 - Server_DefaultID - INFO - --- Global Round 46/200 ---
+2025-07-24 04:46:20,825 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3085 ms
+2025-07-24 04:46:20,825 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:46:20,851 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:46:25,176 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.62, Mean=1.49
+2025-07-24 04:46:25,179 - Server_DefaultID - INFO - --- Global Round 47/200 ---
+2025-07-24 04:47:36,636 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3047 ms
+2025-07-24 04:47:36,636 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:47:36,654 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:47:38,965 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.60, Mean=1.49
+2025-07-24 04:47:38,967 - Server_DefaultID - INFO - --- Global Round 48/200 ---
+2025-07-24 04:49:26,801 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3025 ms
+2025-07-24 04:49:26,802 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:49:26,824 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:49:30,300 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.53, Mean=1.46
+2025-07-24 04:49:30,303 - Server_DefaultID - INFO - --- Global Round 49/200 ---
+2025-07-24 04:51:24,323 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2915 ms
+2025-07-24 04:51:24,323 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:51:24,347 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:51:28,053 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.59, Mean=1.48
+2025-07-24 04:51:28,056 - Server_DefaultID - INFO - --- Global Round 50/200 ---
+2025-07-24 04:52:59,131 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2909 ms
+2025-07-24 04:52:59,131 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:52:59,151 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:53:02,164 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.34, Max=1.62, Mean=1.48
+2025-07-24 04:53:02,167 - Server_DefaultID - INFO - --- Global Round 51/200 ---
+2025-07-24 04:54:38,846 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3081 ms
+2025-07-24 04:54:38,846 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:54:38,865 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:54:41,980 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.56, Mean=1.46
+2025-07-24 04:54:41,983 - Server_DefaultID - INFO - --- Global Round 52/200 ---
+2025-07-24 04:56:13,183 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3045 ms
+2025-07-24 04:56:13,183 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:56:13,203 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:56:16,139 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.61, Mean=1.48
+2025-07-24 04:56:16,142 - Server_DefaultID - INFO - --- Global Round 53/200 ---
+2025-07-24 04:58:04,838 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2887 ms
+2025-07-24 04:58:04,838 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 04:58:04,860 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 04:58:08,420 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.59, Mean=1.48
+2025-07-24 04:58:08,423 - Server_DefaultID - INFO - --- Global Round 54/200 ---
+2025-07-24 05:00:12,862 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3075 ms
+2025-07-24 05:00:12,863 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:00:12,886 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:00:16,872 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.58, Mean=1.47
+2025-07-24 05:00:16,875 - Server_DefaultID - INFO - --- Global Round 55/200 ---
+2025-07-24 05:01:37,773 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3101 ms
+2025-07-24 05:01:37,774 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:01:37,790 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:01:40,368 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.56, Mean=1.49
+2025-07-24 05:01:40,370 - Server_DefaultID - INFO - --- Global Round 56/200 ---
+2025-07-24 05:03:22,897 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3101 ms
+2025-07-24 05:03:22,897 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:03:22,919 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:03:26,182 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.64, Mean=1.49
+2025-07-24 05:03:26,185 - Server_DefaultID - INFO - --- Global Round 57/200 ---
+2025-07-24 05:04:34,275 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3103 ms
+2025-07-24 05:04:34,275 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:04:34,289 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:04:36,468 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.54, Mean=1.47
+2025-07-24 05:04:36,470 - Server_DefaultID - INFO - --- Global Round 58/200 ---
+2025-07-24 05:05:55,550 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3045 ms
+2025-07-24 05:05:55,550 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:05:55,567 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:05:58,110 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.66, Mean=1.49
+2025-07-24 05:05:58,113 - Server_DefaultID - INFO - --- Global Round 59/200 ---
+2025-07-24 05:07:26,339 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2852 ms
+2025-07-24 05:07:26,340 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:07:26,357 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:07:29,224 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.64, Mean=1.48
+2025-07-24 05:07:29,226 - Server_DefaultID - INFO - --- Global Round 60/200 ---
+2025-07-24 05:11:00,500 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2896 ms
+2025-07-24 05:11:00,500 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:11:00,521 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:11:03,291 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.57, Mean=1.45
+2025-07-24 05:11:03,294 - Server_DefaultID - INFO - --- Global Round 61/200 ---
+2025-07-24 05:12:36,053 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2998 ms
+2025-07-24 05:12:36,053 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:12:36,075 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:12:39,034 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.57, Mean=1.50
+2025-07-24 05:12:39,037 - Server_DefaultID - INFO - --- Global Round 62/200 ---
+2025-07-24 05:14:13,514 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2878 ms
+2025-07-24 05:14:13,514 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:14:13,534 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:14:16,542 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.52, Mean=1.47
+2025-07-24 05:14:16,545 - Server_DefaultID - INFO - --- Global Round 63/200 ---
+2025-07-24 05:15:31,750 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2959 ms
+2025-07-24 05:15:31,750 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:15:31,768 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:15:34,173 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.57, Mean=1.47
+2025-07-24 05:15:34,176 - Server_DefaultID - INFO - --- Global Round 64/200 ---
+2025-07-24 05:17:04,232 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2937 ms
+2025-07-24 05:17:04,232 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:17:04,251 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:17:07,143 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.58, Mean=1.46
+2025-07-24 05:17:07,146 - Server_DefaultID - INFO - --- Global Round 65/200 ---
+2025-07-24 05:18:27,810 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3191 ms
+2025-07-24 05:18:27,810 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:18:27,828 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:18:30,374 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.54, Mean=1.48
+2025-07-24 05:18:30,376 - Server_DefaultID - INFO - --- Global Round 66/200 ---
+2025-07-24 05:19:35,484 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3042 ms
+2025-07-24 05:19:35,484 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:19:35,498 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:19:37,530 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.65, Mean=1.49
+2025-07-24 05:19:37,532 - Server_DefaultID - INFO - --- Global Round 67/200 ---
+2025-07-24 05:21:21,110 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3020 ms
+2025-07-24 05:21:21,110 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:21:21,131 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:21:24,393 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.35, Max=1.52, Mean=1.47
+2025-07-24 05:21:24,396 - Server_DefaultID - INFO - --- Global Round 68/200 ---
+2025-07-24 05:22:51,608 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3200 ms
+2025-07-24 05:22:51,608 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:22:51,625 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:22:54,325 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.54, Mean=1.47
+2025-07-24 05:22:54,328 - Server_DefaultID - INFO - --- Global Round 69/200 ---
+2025-07-24 05:23:52,233 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2913 ms
+2025-07-24 05:23:52,233 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:23:52,248 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:23:54,137 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.54, Mean=1.49
+2025-07-24 05:23:54,139 - Server_DefaultID - INFO - --- Global Round 70/200 ---
+2025-07-24 05:25:34,611 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3200 ms
+2025-07-24 05:25:34,611 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:25:34,631 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:25:37,831 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.53, Mean=1.46
+2025-07-24 05:25:37,834 - Server_DefaultID - INFO - --- Global Round 71/200 ---
+2025-07-24 05:27:02,147 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2966 ms
+2025-07-24 05:27:02,147 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:27:02,166 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:27:04,907 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.53, Mean=1.46
+2025-07-24 05:27:04,910 - Server_DefaultID - INFO - --- Global Round 72/200 ---
+2025-07-24 05:28:44,998 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3057 ms
+2025-07-24 05:28:44,998 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:28:45,018 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:28:48,284 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.52, Mean=1.46
+2025-07-24 05:28:48,287 - Server_DefaultID - INFO - --- Global Round 73/200 ---
+2025-07-24 05:31:17,444 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2935 ms
+2025-07-24 05:31:17,444 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:31:17,473 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:31:22,300 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.36, Max=1.53, Mean=1.46
+2025-07-24 05:31:22,304 - Server_DefaultID - INFO - --- Global Round 74/200 ---
+2025-07-24 05:32:51,376 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3109 ms
+2025-07-24 05:32:51,376 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:32:51,393 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:32:54,245 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.53, Mean=1.47
+2025-07-24 05:32:54,248 - Server_DefaultID - INFO - --- Global Round 75/200 ---
+2025-07-24 05:34:30,828 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2943 ms
+2025-07-24 05:34:30,828 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:34:30,848 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:34:33,955 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.56, Mean=1.47
+2025-07-24 05:34:33,957 - Server_DefaultID - INFO - --- Global Round 76/200 ---
+2025-07-24 05:36:04,817 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2969 ms
+2025-07-24 05:36:04,817 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:36:04,838 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:36:07,812 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.36, Max=1.58, Mean=1.47
+2025-07-24 05:36:07,815 - Server_DefaultID - INFO - --- Global Round 77/200 ---
+2025-07-24 05:38:03,623 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2932 ms
+2025-07-24 05:38:03,623 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:38:03,647 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:38:07,354 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.56, Mean=1.47
+2025-07-24 05:38:07,358 - Server_DefaultID - INFO - --- Global Round 78/200 ---
+2025-07-24 05:39:34,825 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3117 ms
+2025-07-24 05:39:34,826 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:39:34,846 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:39:37,623 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.62, Mean=1.46
+2025-07-24 05:39:37,626 - Server_DefaultID - INFO - --- Global Round 79/200 ---
+2025-07-24 05:41:05,866 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3065 ms
+2025-07-24 05:41:05,866 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:41:05,885 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:41:08,683 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.59, Mean=1.48
+2025-07-24 05:41:08,686 - Server_DefaultID - INFO - --- Global Round 80/200 ---
+2025-07-24 05:45:18,939 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3103 ms
+2025-07-24 05:45:18,939 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:45:18,961 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:45:22,348 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.58, Mean=1.49
+2025-07-24 05:45:22,351 - Server_DefaultID - INFO - --- Global Round 81/200 ---
+2025-07-24 05:46:49,498 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3012 ms
+2025-07-24 05:46:49,498 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:46:49,519 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:46:52,333 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.36, Max=1.57, Mean=1.50
+2025-07-24 05:46:52,336 - Server_DefaultID - INFO - --- Global Round 82/200 ---
+2025-07-24 05:48:47,771 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3047 ms
+2025-07-24 05:48:47,772 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:48:47,794 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:48:51,506 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.33, Max=1.53, Mean=1.47
+2025-07-24 05:48:51,509 - Server_DefaultID - INFO - --- Global Round 83/200 ---
+2025-07-24 05:50:34,274 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2957 ms
+2025-07-24 05:50:34,274 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:50:34,295 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:50:37,621 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.34, Max=1.54, Mean=1.48
+2025-07-24 05:50:37,624 - Server_DefaultID - INFO - --- Global Round 84/200 ---
+2025-07-24 05:52:19,282 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2982 ms
+2025-07-24 05:52:19,282 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:52:19,304 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:52:22,562 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.54, Mean=1.49
+2025-07-24 05:52:22,566 - Server_DefaultID - INFO - --- Global Round 85/200 ---
+2025-07-24 05:54:12,939 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3196 ms
+2025-07-24 05:54:12,939 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:54:12,961 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:54:16,449 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.57, Mean=1.49
+2025-07-24 05:54:16,452 - Server_DefaultID - INFO - --- Global Round 86/200 ---
+2025-07-24 05:55:43,520 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3199 ms
+2025-07-24 05:55:43,520 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:55:43,539 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:55:46,358 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.55, Mean=1.48
+2025-07-24 05:55:46,361 - Server_DefaultID - INFO - --- Global Round 87/200 ---
+2025-07-24 05:57:25,680 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2927 ms
+2025-07-24 05:57:25,680 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:57:25,701 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:57:28,939 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.54, Mean=1.47
+2025-07-24 05:57:28,942 - Server_DefaultID - INFO - --- Global Round 88/200 ---
+2025-07-24 05:58:57,946 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3122 ms
+2025-07-24 05:58:57,946 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 05:58:57,965 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 05:59:00,791 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.54, Mean=1.48
+2025-07-24 05:59:00,793 - Server_DefaultID - INFO - --- Global Round 89/200 ---
+2025-07-24 06:00:29,402 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2821 ms
+2025-07-24 06:00:29,402 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:00:29,421 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:00:32,369 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.53, Mean=1.47
+2025-07-24 06:00:32,372 - Server_DefaultID - INFO - --- Global Round 90/200 ---
+2025-07-24 06:01:36,797 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2801 ms
+2025-07-24 06:01:36,797 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:01:36,814 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:01:38,955 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.55, Mean=1.49
+2025-07-24 06:01:38,957 - Server_DefaultID - INFO - --- Global Round 91/200 ---
+2025-07-24 06:03:18,832 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2902 ms
+2025-07-24 06:03:18,832 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:03:18,853 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:03:22,154 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.52, Mean=1.47
+2025-07-24 06:03:22,157 - Server_DefaultID - INFO - --- Global Round 92/200 ---
+2025-07-24 06:04:48,794 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2898 ms
+2025-07-24 06:04:48,794 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:04:48,813 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:04:51,656 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.55, Mean=1.49
+2025-07-24 06:04:51,659 - Server_DefaultID - INFO - --- Global Round 93/200 ---
+2025-07-24 06:06:52,943 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2911 ms
+2025-07-24 06:06:52,943 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:06:52,966 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:06:56,972 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.43, Max=1.56, Mean=1.47
+2025-07-24 06:06:56,976 - Server_DefaultID - INFO - --- Global Round 94/200 ---
+2025-07-24 06:08:22,557 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2895 ms
+2025-07-24 06:08:22,557 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:08:22,575 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:08:25,382 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.56, Mean=1.48
+2025-07-24 06:08:25,385 - Server_DefaultID - INFO - --- Global Round 95/200 ---
+2025-07-24 06:09:59,077 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3077 ms
+2025-07-24 06:09:59,077 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:09:59,097 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:10:02,143 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.59, Mean=1.50
+2025-07-24 06:10:02,146 - Server_DefaultID - INFO - --- Global Round 96/200 ---
+2025-07-24 06:11:51,627 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2809 ms
+2025-07-24 06:11:51,627 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:11:51,649 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:11:55,251 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.56, Mean=1.47
+2025-07-24 06:11:55,254 - Server_DefaultID - INFO - --- Global Round 97/200 ---
+2025-07-24 06:13:38,029 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3087 ms
+2025-07-24 06:13:38,029 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:13:38,048 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:13:41,360 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.35, Max=1.61, Mean=1.46
+2025-07-24 06:13:41,363 - Server_DefaultID - INFO - --- Global Round 98/200 ---
+2025-07-24 06:15:14,523 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3033 ms
+2025-07-24 06:15:14,523 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:15:14,542 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:15:17,573 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.61, Mean=1.48
+2025-07-24 06:15:17,576 - Server_DefaultID - INFO - --- Global Round 99/200 ---
+2025-07-24 06:17:02,343 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3031 ms
+2025-07-24 06:17:02,343 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:17:02,365 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:17:05,769 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.60, Mean=1.48
+2025-07-24 06:17:05,772 - Server_DefaultID - INFO - --- Global Round 100/200 ---
+2025-07-24 06:20:45,157 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2877 ms
+2025-07-24 06:20:45,157 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:20:45,180 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:20:48,049 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.61, Mean=1.48
+2025-07-24 06:20:48,052 - Server_DefaultID - INFO - --- Global Round 101/200 ---
+2025-07-24 06:22:23,815 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3248 ms
+2025-07-24 06:22:23,815 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:22:23,836 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:22:26,872 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.63, Mean=1.50
+2025-07-24 06:22:26,875 - Server_DefaultID - INFO - --- Global Round 102/200 ---
+2025-07-24 06:23:54,051 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3008 ms
+2025-07-24 06:23:54,051 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:23:54,071 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:23:56,901 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.59, Mean=1.51
+2025-07-24 06:23:56,903 - Server_DefaultID - INFO - --- Global Round 103/200 ---
+2025-07-24 06:26:07,174 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2870 ms
+2025-07-24 06:26:07,174 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:26:07,200 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:26:11,539 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.58, Mean=1.49
+2025-07-24 06:26:11,543 - Server_DefaultID - INFO - --- Global Round 104/200 ---
+2025-07-24 06:27:45,330 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2854 ms
+2025-07-24 06:27:45,330 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:27:45,351 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:27:48,420 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.59, Mean=1.51
+2025-07-24 06:27:48,423 - Server_DefaultID - INFO - --- Global Round 105/200 ---
+2025-07-24 06:29:29,758 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2952 ms
+2025-07-24 06:29:29,758 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:29:29,779 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:29:33,054 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.56, Mean=1.49
+2025-07-24 06:29:33,057 - Server_DefaultID - INFO - --- Global Round 106/200 ---
+2025-07-24 06:31:22,381 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2962 ms
+2025-07-24 06:31:22,381 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:31:22,403 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:31:25,952 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.60, Mean=1.49
+2025-07-24 06:31:25,956 - Server_DefaultID - INFO - --- Global Round 107/200 ---
+2025-07-24 06:33:39,074 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3044 ms
+2025-07-24 06:33:39,074 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:33:39,101 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:33:43,322 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.63, Mean=1.49
+2025-07-24 06:33:43,326 - Server_DefaultID - INFO - --- Global Round 108/200 ---
+2025-07-24 06:35:22,483 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3248 ms
+2025-07-24 06:35:22,483 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:35:22,504 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:35:25,628 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.64, Mean=1.49
+2025-07-24 06:35:25,631 - Server_DefaultID - INFO - --- Global Round 109/200 ---
+2025-07-24 06:37:27,017 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2995 ms
+2025-07-24 06:37:27,017 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:37:27,040 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:37:30,961 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.62, Mean=1.49
+2025-07-24 06:37:30,964 - Server_DefaultID - INFO - --- Global Round 110/200 ---
+2025-07-24 06:39:20,443 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3082 ms
+2025-07-24 06:39:20,444 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:39:20,466 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:39:23,970 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.61, Mean=1.49
+2025-07-24 06:39:23,973 - Server_DefaultID - INFO - --- Global Round 111/200 ---
+2025-07-24 06:41:06,061 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3036 ms
+2025-07-24 06:41:06,061 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:41:06,082 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:41:09,347 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.36, Max=1.61, Mean=1.50
+2025-07-24 06:41:09,350 - Server_DefaultID - INFO - --- Global Round 112/200 ---
+2025-07-24 06:42:31,849 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3113 ms
+2025-07-24 06:42:31,849 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:42:31,866 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:42:34,474 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.63, Mean=1.52
+2025-07-24 06:42:34,477 - Server_DefaultID - INFO - --- Global Round 113/200 ---
+2025-07-24 06:44:12,506 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3069 ms
+2025-07-24 06:44:12,506 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:44:12,526 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:44:15,675 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.59, Mean=1.48
+2025-07-24 06:44:15,678 - Server_DefaultID - INFO - --- Global Round 114/200 ---
+2025-07-24 06:46:29,200 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2906 ms
+2025-07-24 06:46:29,200 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:46:29,227 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:46:33,614 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.60, Mean=1.50
+2025-07-24 06:46:33,619 - Server_DefaultID - INFO - --- Global Round 115/200 ---
+2025-07-24 06:48:23,188 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3019 ms
+2025-07-24 06:48:23,188 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:48:23,210 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:48:26,783 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.62, Mean=1.50
+2025-07-24 06:48:26,786 - Server_DefaultID - INFO - --- Global Round 116/200 ---
+2025-07-24 06:49:41,497 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3093 ms
+2025-07-24 06:49:41,497 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:49:41,515 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:49:43,915 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.59, Mean=1.49
+2025-07-24 06:49:43,918 - Server_DefaultID - INFO - --- Global Round 117/200 ---
+2025-07-24 06:51:28,662 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3094 ms
+2025-07-24 06:51:28,662 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:51:28,685 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:51:32,050 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.64, Mean=1.51
+2025-07-24 06:51:32,053 - Server_DefaultID - INFO - --- Global Round 118/200 ---
+2025-07-24 06:53:08,650 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2944 ms
+2025-07-24 06:53:08,650 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:53:08,671 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:53:11,835 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.63, Mean=1.51
+2025-07-24 06:53:11,838 - Server_DefaultID - INFO - --- Global Round 119/200 ---
+2025-07-24 06:55:10,432 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3053 ms
+2025-07-24 06:55:10,432 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:55:10,454 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:55:14,233 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.36, Max=1.61, Mean=1.49
+2025-07-24 06:55:14,236 - Server_DefaultID - INFO - --- Global Round 120/200 ---
+2025-07-24 06:58:52,305 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3218 ms
+2025-07-24 06:58:52,305 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 06:58:52,338 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 06:58:55,311 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.62, Mean=1.51
+2025-07-24 06:58:55,314 - Server_DefaultID - INFO - --- Global Round 121/200 ---
+2025-07-24 07:00:22,715 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2988 ms
+2025-07-24 07:00:22,716 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:00:22,734 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:00:25,578 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.59, Mean=1.51
+2025-07-24 07:00:25,581 - Server_DefaultID - INFO - --- Global Round 122/200 ---
+2025-07-24 07:02:03,020 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2970 ms
+2025-07-24 07:02:03,020 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:02:03,040 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:02:06,160 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.59, Mean=1.51
+2025-07-24 07:02:06,163 - Server_DefaultID - INFO - --- Global Round 123/200 ---
+2025-07-24 07:03:39,007 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2857 ms
+2025-07-24 07:03:39,007 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:03:39,028 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:03:42,089 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.60, Mean=1.51
+2025-07-24 07:03:42,092 - Server_DefaultID - INFO - --- Global Round 124/200 ---
+2025-07-24 07:05:44,254 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3048 ms
+2025-07-24 07:05:44,254 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:05:44,278 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:05:48,185 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.57, Mean=1.49
+2025-07-24 07:05:48,188 - Server_DefaultID - INFO - --- Global Round 125/200 ---
+2025-07-24 07:07:58,212 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2858 ms
+2025-07-24 07:07:58,212 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:07:58,244 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:08:02,519 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.58, Mean=1.52
+2025-07-24 07:08:02,523 - Server_DefaultID - INFO - --- Global Round 126/200 ---
+2025-07-24 07:09:36,908 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2884 ms
+2025-07-24 07:09:36,908 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:09:36,928 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:09:40,028 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.57, Mean=1.51
+2025-07-24 07:09:40,031 - Server_DefaultID - INFO - --- Global Round 127/200 ---
+2025-07-24 07:11:09,431 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2962 ms
+2025-07-24 07:11:09,431 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:11:09,450 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:11:12,409 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.60, Mean=1.51
+2025-07-24 07:11:12,411 - Server_DefaultID - INFO - --- Global Round 128/200 ---
+2025-07-24 07:13:01,285 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3052 ms
+2025-07-24 07:13:01,286 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:13:01,308 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:13:04,822 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.64, Mean=1.53
+2025-07-24 07:13:04,825 - Server_DefaultID - INFO - --- Global Round 129/200 ---
+2025-07-24 07:15:04,775 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3039 ms
+2025-07-24 07:15:04,776 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:15:04,800 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:15:08,632 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.62, Mean=1.51
+2025-07-24 07:15:08,636 - Server_DefaultID - INFO - --- Global Round 130/200 ---
+2025-07-24 07:16:53,196 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3045 ms
+2025-07-24 07:16:53,196 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:16:53,216 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:16:56,608 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.59, Mean=1.50
+2025-07-24 07:16:56,611 - Server_DefaultID - INFO - --- Global Round 131/200 ---
+2025-07-24 07:18:46,203 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2851 ms
+2025-07-24 07:18:46,204 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:18:46,228 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:18:49,847 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.61, Mean=1.52
+2025-07-24 07:18:49,850 - Server_DefaultID - INFO - --- Global Round 132/200 ---
+2025-07-24 07:20:14,976 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3046 ms
+2025-07-24 07:20:14,976 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:20:14,994 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:20:17,753 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.46, Max=1.60, Mean=1.52
+2025-07-24 07:20:17,755 - Server_DefaultID - INFO - --- Global Round 133/200 ---
+2025-07-24 07:21:36,288 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3044 ms
+2025-07-24 07:21:36,288 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:21:36,305 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:21:38,840 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.59, Mean=1.52
+2025-07-24 07:21:38,842 - Server_DefaultID - INFO - --- Global Round 134/200 ---
+2025-07-24 07:23:21,521 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3139 ms
+2025-07-24 07:23:21,521 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:23:21,542 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:23:24,815 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.46, Max=1.60, Mean=1.52
+2025-07-24 07:23:24,818 - Server_DefaultID - INFO - --- Global Round 135/200 ---
+2025-07-24 07:25:19,888 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3008 ms
+2025-07-24 07:25:19,888 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:25:19,910 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:25:23,573 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.60, Mean=1.52
+2025-07-24 07:25:23,576 - Server_DefaultID - INFO - --- Global Round 136/200 ---
+2025-07-24 07:26:51,203 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3095 ms
+2025-07-24 07:26:51,203 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:26:51,222 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:26:54,041 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.59, Mean=1.51
+2025-07-24 07:26:54,044 - Server_DefaultID - INFO - --- Global Round 137/200 ---
+2025-07-24 07:28:18,667 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2851 ms
+2025-07-24 07:28:18,667 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:28:18,686 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:28:21,463 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.64, Mean=1.54
+2025-07-24 07:28:21,466 - Server_DefaultID - INFO - --- Global Round 138/200 ---
+2025-07-24 07:29:46,128 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2820 ms
+2025-07-24 07:29:46,128 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:29:46,146 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:29:48,906 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.63, Mean=1.52
+2025-07-24 07:29:48,909 - Server_DefaultID - INFO - --- Global Round 139/200 ---
+2025-07-24 07:31:27,727 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2936 ms
+2025-07-24 07:31:27,727 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:31:27,747 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:31:30,939 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.64, Mean=1.53
+2025-07-24 07:31:30,942 - Server_DefaultID - INFO - --- Global Round 140/200 ---
+2025-07-24 07:36:40,509 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3024 ms
+2025-07-24 07:36:40,509 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:36:40,548 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:36:44,719 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.66, Mean=1.54
+2025-07-24 07:36:44,723 - Server_DefaultID - INFO - --- Global Round 141/200 ---
+2025-07-24 07:38:19,489 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2994 ms
+2025-07-24 07:38:19,489 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:38:19,510 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:38:22,539 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.68, Mean=1.54
+2025-07-24 07:38:22,542 - Server_DefaultID - INFO - --- Global Round 142/200 ---
+2025-07-24 07:39:55,510 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3125 ms
+2025-07-24 07:39:55,511 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:39:55,531 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:39:58,459 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.72, Mean=1.54
+2025-07-24 07:39:58,462 - Server_DefaultID - INFO - --- Global Round 143/200 ---
+2025-07-24 07:41:13,251 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3038 ms
+2025-07-24 07:41:13,251 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:41:13,267 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:41:15,722 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.71, Mean=1.55
+2025-07-24 07:41:15,725 - Server_DefaultID - INFO - --- Global Round 144/200 ---
+2025-07-24 07:42:58,831 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2986 ms
+2025-07-24 07:42:58,831 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:42:58,852 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:43:02,213 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.37, Max=1.69, Mean=1.54
+2025-07-24 07:43:02,216 - Server_DefaultID - INFO - --- Global Round 145/200 ---
+2025-07-24 07:44:50,898 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3033 ms
+2025-07-24 07:44:50,899 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:44:50,922 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:44:54,469 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.40, Max=1.68, Mean=1.54
+2025-07-24 07:44:54,472 - Server_DefaultID - INFO - --- Global Round 146/200 ---
+2025-07-24 07:46:11,779 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2927 ms
+2025-07-24 07:46:11,779 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:46:11,796 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:46:14,322 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.39, Max=1.72, Mean=1.55
+2025-07-24 07:46:14,324 - Server_DefaultID - INFO - --- Global Round 147/200 ---
+2025-07-24 07:47:39,976 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2867 ms
+2025-07-24 07:47:39,976 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:47:39,994 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:47:42,816 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.38, Max=1.67, Mean=1.55
+2025-07-24 07:47:42,819 - Server_DefaultID - INFO - --- Global Round 148/200 ---
+2025-07-24 07:49:33,521 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2896 ms
+2025-07-24 07:49:33,521 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:49:33,543 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:49:37,155 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.70, Mean=1.56
+2025-07-24 07:49:37,158 - Server_DefaultID - INFO - --- Global Round 149/200 ---
+2025-07-24 07:51:33,053 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3008 ms
+2025-07-24 07:51:33,053 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:51:33,078 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:51:36,839 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.45, Max=1.61, Mean=1.53
+2025-07-24 07:51:36,842 - Server_DefaultID - INFO - --- Global Round 150/200 ---
+2025-07-24 07:53:06,450 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2877 ms
+2025-07-24 07:53:06,450 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:53:06,469 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:53:09,410 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.41, Max=1.67, Mean=1.55
+2025-07-24 07:53:09,413 - Server_DefaultID - INFO - --- Global Round 151/200 ---
+2025-07-24 07:54:12,367 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2824 ms
+2025-07-24 07:54:12,367 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:54:12,384 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:54:14,479 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.64, Mean=1.55
+2025-07-24 07:54:14,481 - Server_DefaultID - INFO - --- Global Round 152/200 ---
+2025-07-24 07:55:30,615 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3048 ms
+2025-07-24 07:55:30,615 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:55:30,634 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:55:33,096 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.47, Max=1.69, Mean=1.56
+2025-07-24 07:55:33,098 - Server_DefaultID - INFO - --- Global Round 153/200 ---
+2025-07-24 07:57:08,277 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3050 ms
+2025-07-24 07:57:08,277 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:57:08,296 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:57:11,379 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.43, Max=1.63, Mean=1.54
+2025-07-24 07:57:11,382 - Server_DefaultID - INFO - --- Global Round 154/200 ---
+2025-07-24 07:58:45,297 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2974 ms
+2025-07-24 07:58:45,297 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 07:58:45,317 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 07:58:48,357 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.47, Max=1.70, Mean=1.57
+2025-07-24 07:58:48,360 - Server_DefaultID - INFO - --- Global Round 155/200 ---
+2025-07-24 08:00:27,703 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2880 ms
+2025-07-24 08:00:27,703 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:00:27,723 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:00:30,953 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.67, Mean=1.56
+2025-07-24 08:00:30,956 - Server_DefaultID - INFO - --- Global Round 156/200 ---
+2025-07-24 08:02:18,695 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2911 ms
+2025-07-24 08:02:18,695 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:02:18,718 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:02:22,199 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.64, Mean=1.56
+2025-07-24 08:02:22,202 - Server_DefaultID - INFO - --- Global Round 157/200 ---
+2025-07-24 08:03:58,521 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3094 ms
+2025-07-24 08:03:58,521 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:03:58,541 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:04:01,680 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.43, Max=1.64, Mean=1.56
+2025-07-24 08:04:01,684 - Server_DefaultID - INFO - --- Global Round 158/200 ---
+2025-07-24 08:05:42,415 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3216 ms
+2025-07-24 08:05:42,415 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:05:42,436 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:05:45,619 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.45, Max=1.65, Mean=1.56
+2025-07-24 08:05:45,622 - Server_DefaultID - INFO - --- Global Round 159/200 ---
+2025-07-24 08:07:05,789 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3234 ms
+2025-07-24 08:07:05,790 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:07:05,807 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:07:08,322 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.62, Mean=1.55
+2025-07-24 08:07:08,325 - Server_DefaultID - INFO - --- Global Round 160/200 ---
+2025-07-24 08:10:52,963 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2942 ms
+2025-07-24 08:10:52,964 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:10:52,984 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:10:55,899 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.65, Mean=1.57
+2025-07-24 08:10:55,902 - Server_DefaultID - INFO - --- Global Round 161/200 ---
+2025-07-24 08:12:41,946 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3129 ms
+2025-07-24 08:12:41,946 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:12:41,974 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:12:45,354 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.67, Mean=1.57
+2025-07-24 08:12:45,357 - Server_DefaultID - INFO - --- Global Round 162/200 ---
+2025-07-24 08:14:38,225 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3030 ms
+2025-07-24 08:14:38,225 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:14:38,249 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:14:41,908 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.42, Max=1.65, Mean=1.57
+2025-07-24 08:14:41,911 - Server_DefaultID - INFO - --- Global Round 163/200 ---
+2025-07-24 08:16:38,871 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3045 ms
+2025-07-24 08:16:38,872 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:16:38,895 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:16:42,632 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.46, Max=1.63, Mean=1.56
+2025-07-24 08:16:42,635 - Server_DefaultID - INFO - --- Global Round 164/200 ---
+2025-07-24 08:18:20,566 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3166 ms
+2025-07-24 08:18:20,566 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:18:20,585 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:18:23,681 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.43, Max=1.67, Mean=1.59
+2025-07-24 08:18:23,684 - Server_DefaultID - INFO - --- Global Round 165/200 ---
+2025-07-24 08:19:44,079 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3011 ms
+2025-07-24 08:19:44,080 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:19:44,097 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:19:46,690 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.45, Max=1.69, Mean=1.58
+2025-07-24 08:19:46,693 - Server_DefaultID - INFO - --- Global Round 166/200 ---
+2025-07-24 08:21:11,128 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3067 ms
+2025-07-24 08:21:11,128 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:21:11,145 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:21:13,834 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.67, Mean=1.58
+2025-07-24 08:21:13,837 - Server_DefaultID - INFO - --- Global Round 167/200 ---
+2025-07-24 08:22:41,808 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3008 ms
+2025-07-24 08:22:41,808 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:22:41,828 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:22:44,673 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.66, Mean=1.58
+2025-07-24 08:22:44,676 - Server_DefaultID - INFO - --- Global Round 168/200 ---
+2025-07-24 08:24:29,088 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3088 ms
+2025-07-24 08:24:29,088 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:24:29,109 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:24:32,409 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.48, Max=1.67, Mean=1.58
+2025-07-24 08:24:32,412 - Server_DefaultID - INFO - --- Global Round 169/200 ---
+2025-07-24 08:26:47,581 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2950 ms
+2025-07-24 08:26:47,581 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:26:47,606 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:26:51,962 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.47, Max=1.71, Mean=1.60
+2025-07-24 08:26:51,966 - Server_DefaultID - INFO - --- Global Round 170/200 ---
+2025-07-24 08:28:18,058 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2848 ms
+2025-07-24 08:28:18,058 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:28:18,075 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:28:20,879 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.43, Max=1.71, Mean=1.58
+2025-07-24 08:28:20,881 - Server_DefaultID - INFO - --- Global Round 171/200 ---
+2025-07-24 08:29:31,471 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2947 ms
+2025-07-24 08:29:31,471 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:29:31,488 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:29:33,786 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.67, Mean=1.58
+2025-07-24 08:29:33,788 - Server_DefaultID - INFO - --- Global Round 172/200 ---
+2025-07-24 08:31:19,620 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2985 ms
+2025-07-24 08:31:19,620 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:31:19,642 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:31:23,040 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.49, Max=1.67, Mean=1.59
+2025-07-24 08:31:23,043 - Server_DefaultID - INFO - --- Global Round 173/200 ---
+2025-07-24 08:33:07,774 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3188 ms
+2025-07-24 08:33:07,774 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:33:07,796 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:33:11,139 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.44, Max=1.62, Mean=1.56
+2025-07-24 08:33:11,143 - Server_DefaultID - INFO - --- Global Round 174/200 ---
+2025-07-24 08:34:58,330 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2909 ms
+2025-07-24 08:34:58,330 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:34:58,352 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:35:01,851 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.45, Max=1.67, Mean=1.59
+2025-07-24 08:35:01,854 - Server_DefaultID - INFO - --- Global Round 175/200 ---
+2025-07-24 08:36:39,836 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3136 ms
+2025-07-24 08:36:39,837 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:36:39,857 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:36:43,012 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.50, Max=1.66, Mean=1.59
+2025-07-24 08:36:43,015 - Server_DefaultID - INFO - --- Global Round 176/200 ---
+2025-07-24 08:38:25,140 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3005 ms
+2025-07-24 08:38:25,140 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:38:25,162 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:38:28,488 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.51, Max=1.64, Mean=1.58
+2025-07-24 08:38:28,491 - Server_DefaultID - INFO - --- Global Round 177/200 ---
+2025-07-24 08:39:58,343 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3054 ms
+2025-07-24 08:39:58,343 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:39:58,362 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:40:01,248 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.47, Max=1.64, Mean=1.59
+2025-07-24 08:40:01,251 - Server_DefaultID - INFO - --- Global Round 178/200 ---
+2025-07-24 08:41:43,338 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3074 ms
+2025-07-24 08:41:43,339 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:41:43,361 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:41:46,673 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.49, Max=1.64, Mean=1.60
+2025-07-24 08:41:46,676 - Server_DefaultID - INFO - --- Global Round 179/200 ---
+2025-07-24 08:43:07,414 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2971 ms
+2025-07-24 08:43:07,414 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:43:07,433 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:43:10,044 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.49, Max=1.67, Mean=1.60
+2025-07-24 08:43:10,047 - Server_DefaultID - INFO - --- Global Round 180/200 ---
+2025-07-24 08:47:43,738 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3118 ms
+2025-07-24 08:47:43,738 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:47:43,762 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:47:47,358 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.46, Max=1.64, Mean=1.58
+2025-07-24 08:47:47,361 - Server_DefaultID - INFO - --- Global Round 181/200 ---
+2025-07-24 08:49:16,347 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2870 ms
+2025-07-24 08:49:16,347 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:49:16,367 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:49:19,213 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.50, Max=1.67, Mean=1.60
+2025-07-24 08:49:19,216 - Server_DefaultID - INFO - --- Global Round 182/200 ---
+2025-07-24 08:50:40,130 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3022 ms
+2025-07-24 08:50:40,130 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:50:40,149 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:50:42,740 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.48, Max=1.67, Mean=1.61
+2025-07-24 08:50:42,743 - Server_DefaultID - INFO - --- Global Round 183/200 ---
+2025-07-24 08:52:18,278 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3063 ms
+2025-07-24 08:52:18,279 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:52:18,298 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:52:21,297 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.46, Max=1.72, Mean=1.62
+2025-07-24 08:52:21,300 - Server_DefaultID - INFO - --- Global Round 184/200 ---
+2025-07-24 08:54:26,112 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2988 ms
+2025-07-24 08:54:26,113 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:54:26,140 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:54:30,211 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.48, Max=1.67, Mean=1.60
+2025-07-24 08:54:30,215 - Server_DefaultID - INFO - --- Global Round 185/200 ---
+2025-07-24 08:55:48,280 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2905 ms
+2025-07-24 08:55:48,280 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:55:48,298 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:55:50,865 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.47, Max=1.70, Mean=1.62
+2025-07-24 08:55:50,868 - Server_DefaultID - INFO - --- Global Round 186/200 ---
+2025-07-24 08:57:20,841 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2999 ms
+2025-07-24 08:57:20,841 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:57:20,861 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:57:23,788 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.47, Max=1.68, Mean=1.60
+2025-07-24 08:57:23,791 - Server_DefaultID - INFO - --- Global Round 187/200 ---
+2025-07-24 08:58:56,105 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3099 ms
+2025-07-24 08:58:56,105 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 08:58:56,125 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 08:58:59,086 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.49, Max=1.66, Mean=1.61
+2025-07-24 08:58:59,089 - Server_DefaultID - INFO - --- Global Round 188/200 ---
+2025-07-24 09:00:44,539 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2917 ms
+2025-07-24 09:00:44,539 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:00:44,562 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:00:47,978 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.47, Max=1.65, Mean=1.59
+2025-07-24 09:00:47,981 - Server_DefaultID - INFO - --- Global Round 189/200 ---
+2025-07-24 09:02:26,591 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3127 ms
+2025-07-24 09:02:26,591 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:02:26,612 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:02:29,786 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.51, Max=1.72, Mean=1.63
+2025-07-24 09:02:29,789 - Server_DefaultID - INFO - --- Global Round 190/200 ---
+2025-07-24 09:03:52,621 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3059 ms
+2025-07-24 09:03:52,621 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:03:52,639 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:03:55,315 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.51, Max=1.68, Mean=1.61
+2025-07-24 09:03:55,318 - Server_DefaultID - INFO - --- Global Round 191/200 ---
+2025-07-24 09:05:36,267 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3043 ms
+2025-07-24 09:05:36,267 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:05:36,290 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:05:39,544 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.49, Max=1.74, Mean=1.62
+2025-07-24 09:05:39,547 - Server_DefaultID - INFO - --- Global Round 192/200 ---
+2025-07-24 09:07:34,568 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3010 ms
+2025-07-24 09:07:34,568 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:07:34,592 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:07:38,300 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.52, Max=1.73, Mean=1.63
+2025-07-24 09:07:38,304 - Server_DefaultID - INFO - --- Global Round 193/200 ---
+2025-07-24 09:08:56,770 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2887 ms
+2025-07-24 09:08:56,770 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:08:56,786 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:08:59,381 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.53, Max=1.77, Mean=1.66
+2025-07-24 09:08:59,384 - Server_DefaultID - INFO - --- Global Round 194/200 ---
+2025-07-24 09:10:47,104 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2958 ms
+2025-07-24 09:10:47,105 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:10:47,126 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:10:50,614 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.49, Max=1.73, Mean=1.63
+2025-07-24 09:10:50,617 - Server_DefaultID - INFO - --- Global Round 195/200 ---
+2025-07-24 09:12:22,443 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2943 ms
+2025-07-24 09:12:22,443 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:12:22,462 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:12:25,449 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.51, Max=1.70, Mean=1.62
+2025-07-24 09:12:25,451 - Server_DefaultID - INFO - --- Global Round 196/200 ---
+2025-07-24 09:13:45,751 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2969 ms
+2025-07-24 09:13:45,751 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:13:45,768 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:13:48,366 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.49, Max=1.70, Mean=1.63
+2025-07-24 09:13:48,369 - Server_DefaultID - INFO - --- Global Round 197/200 ---
+2025-07-24 09:15:44,351 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3089 ms
+2025-07-24 09:15:44,351 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:15:44,373 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:15:48,091 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.50, Max=1.69, Mean=1.61
+2025-07-24 09:15:48,095 - Server_DefaultID - INFO - --- Global Round 198/200 ---
+2025-07-24 09:17:39,678 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3135 ms
+2025-07-24 09:17:39,678 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:17:39,701 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:17:43,305 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.51, Max=1.69, Mean=1.61
+2025-07-24 09:17:43,308 - Server_DefaultID - INFO - --- Global Round 199/200 ---
+2025-07-24 09:19:39,216 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.2962 ms
+2025-07-24 09:19:39,216 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:19:39,240 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:19:43,009 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.53, Max=1.72, Mean=1.64
+2025-07-24 09:19:43,013 - Server_DefaultID - INFO - --- Global Round 200/200 ---
+2025-07-24 09:23:41,196 - Server_DefaultID - INFO - [Overhead Analysis] Avg. KL-Div computation time per batch: 0.3138 ms
+2025-07-24 09:23:41,196 - Server_DefaultID - INFO - [Overhead Analysis] Communication overhead per client for alpha_report: 40 bytes
+2025-07-24 09:23:41,216 - Server_DefaultID - INFO - Using Byzantine-robust prior aggregation
+2025-07-24 09:23:44,390 - Server_DefaultID - INFO - Byzantine-robust aggregation: Min=1.51, Max=1.68, Mean=1.61
+2025-07-24 09:23:44,394 - Server_DefaultID - INFO - --- Evaluating models at round 200 with Advanced Uncertainty Metrics ---
+2025-07-24 09:25:59,372 - Server_DefaultID - INFO - [Metric 1] Personalized Accuracy | Mean: 53.80%, Std: 15.27, Min: 20.59, Max: 92.86
+2025-07-24 09:25:59,373 - Server_DefaultID - INFO - [Metric 1] Personalized Brier Score | Mean: 0.0826, Std: 0.0015
+2025-07-24 09:25:59,373 - Server_DefaultID - INFO - [Metric 1] Personalized ECE | Mean: 0.3918, Std: 0.1476
+2025-07-24 09:25:59,373 - Server_DefaultID - INFO - [Metric 2] Epistemic Fidelity (Spearman Corr) | Mean: -0.3154, Std: 0.2633
+2025-07-24 09:25:59,373 - Server_DefaultID - INFO - [Metric 3] Aleatoric Consistency (U) | Mean: 0.7742, Std: 0.2486
+2025-07-24 09:25:59,375 - Server_DefaultID - INFO - [OOD Eval] OOD AUC-ROC (Epistemic): 0.8860
+2025-07-24 09:25:59,377 - Server_DefaultID - INFO - [Metric 4] OOD FPR@95%TPR: 0.3976
+2025-07-24 09:25:59,378 - Server_DefaultID - INFO - [Metric 5] OOD AUC-PR: 0.7071
+2025-07-24 09:25:59,380 - Server_DefaultID - INFO - [OOD Eval] OOD AUC-ROC (Energy): 0.8749
+2025-07-24 09:25:59,383 - Server_DefaultID - INFO - [OOD Eval] OOD AUC-ROC (Total): 0.8863
+2025-07-24 09:25:59,823 - Server_DefaultID - INFO - New best personalized accuracy: 53.80%
+2025-07-24 09:25:59,823 - Server_DefaultID - INFO - Training completed. Best personalized accuracy: 53.80%
+Initialized FedUG V2 Server with 100 clients
+Training FedUgV2 with model cifaredl on cifar10 for 100 clients.
+Hyperparameters: LR=0.01, WD=0.0005, Local Epochs=5, Global Rounds=200
+No Byzantine attack configured.
+Method took (21862.16) total seconds for all rounds.
